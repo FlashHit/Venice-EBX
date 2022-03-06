@@ -3633,7 +3633,7 @@ SubWorldData 6C3742F3-AD25-4B90-A35D-63EAE418AC96 #primary instance
 							member(63)::PropertyConnection
 								Source Levels/XP3_Alborz/RushLarge0_Logic_Schematic/30FC3E91-5E9E-4B31-9A21-82D992467423
 								Target Levels/XP3_Alborz/RushLarge0_Logic_Schematic/3F044FA3-6AE7-4217-9AD2-DBFEB63B53F6
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(64)::PropertyConnection
 								Source Levels/XP3_Alborz/RushLarge0_Logic_Schematic/53A7A97A-736F-4919-935E-D93A4E98A4D9
@@ -3703,7 +3703,7 @@ SubWorldData 6C3742F3-AD25-4B90-A35D-63EAE418AC96 #primary instance
 							member(77)::PropertyConnection
 								Source Levels/XP3_Alborz/RushLarge0_Logic_Schematic/E5884FF1-65AA-4B45-896F-EF724753C5A4
 								Target Levels/XP3_Alborz/RushLarge0_Logic/1EECAD46-A2C5-4353-91BF-8AD3EAC3C2B2
-								SourceFieldId -1182483491
+								SourceFieldId -1182483491 (Gunship_500x500_vehicleRoot)
 								TargetFieldId 1831219017
 							member(78)::PropertyConnection
 								Source Levels/XP3_Alborz/RushLarge0_Logic_Schematic/184C5736-5B54-43F7-941B-7D55BF21C410

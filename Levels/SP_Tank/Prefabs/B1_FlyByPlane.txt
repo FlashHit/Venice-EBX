@@ -196,7 +196,7 @@ SpatialPrefabBlueprint F93E94D1-D5A3-4480-A088-160BE24D9A4D #primary instance
 						member(1)::PropertyConnection
 							Source 9C96EEA6-F7FF-4461-8459-6D3F3A7D5652
 							Target 6A13179B-7730-44B4-AFE9-9816346A17F0
-							SourceFieldId -1989919785
+							SourceFieldId -1989919785 (B1_FlyByPlane)
 							TargetFieldId 193450867 (In1)
 						member(2)::PropertyConnection
 							Source 6A13179B-7730-44B4-AFE9-9816346A17F0
@@ -301,7 +301,7 @@ TransformMultiplierEntityData 6A13179B-7730-44B4-AFE9-9816346A17F0
 TransformPartPropertyTrackData CDB89418-A1A9-4893-B349-4BF6D1670BAD
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -316,7 +316,7 @@ TransformPartPropertyTrackData CDB89418-A1A9-4893-B349-4BF6D1670BAD
 TransformPartPropertyTrackData 1B5F520E-E67A-47C8-BC76-1A974E59C9EB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -331,7 +331,7 @@ TransformPartPropertyTrackData 1B5F520E-E67A-47C8-BC76-1A974E59C9EB
 TransformPartPropertyTrackData 401FF16F-E817-45C6-844B-CF833F4B5BAB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -346,7 +346,7 @@ TransformPartPropertyTrackData 401FF16F-E817-45C6-844B-CF833F4B5BAB
 TransformPartPropertyTrackData 51179023-8B49-4768-BDD6-21A7FFA21019
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -361,7 +361,7 @@ TransformPartPropertyTrackData 51179023-8B49-4768-BDD6-21A7FFA21019
 TransformPartPropertyTrackData 1B993D4A-6F66-4AAF-94EE-A7EFE8E6C346
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -376,7 +376,7 @@ TransformPartPropertyTrackData 1B993D4A-6F66-4AAF-94EE-A7EFE8E6C346
 TransformPartPropertyTrackData DDCC92A7-B08D-453B-9FC9-916CF938DACE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1989919785
+		Id -1989919785 (B1_FlyByPlane)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

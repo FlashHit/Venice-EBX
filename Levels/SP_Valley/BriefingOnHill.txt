@@ -93,7 +93,7 @@ InterfaceDescriptorData E0D77ADA-9109-B647-E726-71D4C56A9594
 		member(18)::DynamicEvent
 			Id -149974031
 		member(19)::DynamicEvent
-			Id 1686584170
+			Id 1686584170 (StartMarines)
 		member(20)::DynamicEvent
 			Id 1129120982 (StartAirdrop)
 		member(21)::DynamicEvent
@@ -975,7 +975,7 @@ SubWorldData AF1E7960-1941-4F14-BD31-29E2AC2A1D17 #primary instance
 							SourceEvent::EventSpec
 								Id 193453899 (Out)
 							TargetEvent::EventSpec
-								Id 1686584170
+								Id 1686584170 (StartMarines)
 							TargetType EventConnectionTargetType_Server
 						member(54)::EventConnection
 							Source Levels/SP_Valley/BriefingOnHill_Scene/C7A8B043-6D70-45FA-AB0D-ACE6FC3B0170

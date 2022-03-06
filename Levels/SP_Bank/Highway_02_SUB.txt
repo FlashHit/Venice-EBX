@@ -409,17 +409,17 @@ SubWorldData 98BD78DE-CA18-4F57-9E59-B54734CC64D4 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Bank/Highway_02_COLLAPSE/06528CDE-E214-4B9E-AE34-24D8DCB954C8
 								Target Levels/SP_Bank/Highway_02_LOG/913CE9A0-064C-4698-9DF9-39D38514231E
-								SourceFieldId -527189616
+								SourceFieldId -527189616 (Collapse_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Bank/Highway_02_COLLAPSE/06528CDE-E214-4B9E-AE34-24D8DCB954C8
 								Target Levels/SP_Bank/Highway_02_LOG/DCECFF5A-188B-4007-8652-B180D66B0542
-								SourceFieldId -527189613
+								SourceFieldId -527189613 (Collapse_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Bank/Highway_02_COLLAPSE/06528CDE-E214-4B9E-AE34-24D8DCB954C8
 								Target Levels/SP_Bank/Highway_02_LOG/BD623723-960C-4369-90AB-0F77CEE7F6F9
-								SourceFieldId -527189614
+								SourceFieldId -527189614 (Collapse_03)
 								TargetFieldId -409930682 (BlueprintTransform)
 						LinkConnections *nullArray*
 					EventConnections::array

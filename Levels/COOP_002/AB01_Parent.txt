@@ -916,12 +916,12 @@ SubWorldData 613E5B2C-4D47-4509-A219-D42158E1C4F6 #primary instance
 							member(8)::PropertyConnection
 								Source Levels/COOP_002/AB01_GameplayLogic_Area_1_Schematic/3AE6400A-E9DE-4461-A0C8-63C7E07B2F56
 								Target Levels/COOP_002/AB01_GameplayLogic_Area_1/87C3C832-8325-4633-920F-40E15D248F39
-								SourceFieldId -1684926562
+								SourceFieldId -1684926562 (Door_2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(9)::PropertyConnection
 								Source Levels/COOP_002/AB01_GameplayLogic_Area_1_Schematic/3AE6400A-E9DE-4461-A0C8-63C7E07B2F56
 								Target Levels/COOP_002/AB01_GameplayLogic_Area_1/1C6618E5-B954-4F29-8D33-E798D533D5DA
-								SourceFieldId -1684926563
+								SourceFieldId -1684926563 (Door_1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(10)::PropertyConnection
 								Source BEC1B5D2-CA78-4A4B-7FCD-01656F0E9E66
@@ -1011,7 +1011,7 @@ SubWorldData 613E5B2C-4D47-4509-A219-D42158E1C4F6 #primary instance
 							member(27)::PropertyConnection
 								Source Levels/COOP_002/AB01_GameplayLogic_Area_2_Schematic/5FEB928A-A78C-4332-A758-EF75A3690ADA
 								Target Levels/COOP_002/AB01_GameplayLogic_Area_2_Schematic/49441399-A54A-4778-BC59-7445B16D7F05
-								SourceFieldId 209242690
+								SourceFieldId 209242690 (Door1)
 								TargetFieldId 193450864 (In2)
 							member(28)::PropertyConnection
 								Source Levels/COOP_002/AB01_GameplayLogic_Area_2_Schematic/05395FA2-8D4D-4A15-8704-193D6EAEC497

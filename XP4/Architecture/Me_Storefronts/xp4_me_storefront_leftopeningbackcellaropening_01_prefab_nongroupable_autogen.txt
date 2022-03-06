@@ -6,7 +6,7 @@ InterfaceDescriptorData D7EFC8D6-AD18-441B-BC3B-0FDEEF78512F
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862038
+			Id 5862038 (C0)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 IrReverbEntityData EA600314-E81A-4AF0-8871-01AC638606A4
@@ -75,9 +75,9 @@ PrefabBlueprint 4E62BDB1-EC9C-47B4-26E7-B42A75367A70 #primary instance
 					Source E05E6B28-2D7C-43F6-A37E-3CE771364DA3
 					Target D7EFC8D6-AD18-441B-BC3B-0FDEEF78512F
 					SourceEvent::EventSpec
-						Id 5862038
+						Id 5862038 (C0)
 					TargetEvent::EventSpec
-						Id 5862038
+						Id 5862038 (C0)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor D7EFC8D6-AD18-441B-BC3B-0FDEEF78512F
 			NeedNetworkId False

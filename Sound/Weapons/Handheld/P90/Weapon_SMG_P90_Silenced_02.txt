@@ -103,7 +103,7 @@ AudioGraphEvent 85D0BCD2-3889-419F-BA60-4561FB506A67
 	$::AudioGraphParameter
 		$::DataContainer
 		DefaultValue 0.0
-		NameHash 3520090073
+		NameHash 3520090073 (Deactivated) #unsigned
 		ValueIndex 12
 AudioGraphParameter 3E94EC12-3D88-4AB8-808A-857391A37FE1
 	$::DataContainer

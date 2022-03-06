@@ -311,7 +311,7 @@ SpatialPrefabBlueprint AB382092-A000-4812-A298-FFAC0347E64D #primary instance
 						member(0)::PropertyConnection
 							Source A4B4F670-1518-4518-B824-663BA0CF2B71
 							Target 129031B4-B436-49F6-A465-E54192943619
-							SourceFieldId 877271231
+							SourceFieldId 877271231 (DoorTransform)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections::array
@@ -411,7 +411,7 @@ SpatialPrefabBlueprint AB382092-A000-4812-A298-FFAC0347E64D #primary instance
 TransformPartPropertyTrackData 028FB001-A46D-4D45-8D8A-1DC03C0E1AE6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -426,7 +426,7 @@ TransformPartPropertyTrackData 028FB001-A46D-4D45-8D8A-1DC03C0E1AE6
 TransformPartPropertyTrackData 3D8561B7-AFA6-42EF-BDE6-A609D1C18D6A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -441,7 +441,7 @@ TransformPartPropertyTrackData 3D8561B7-AFA6-42EF-BDE6-A609D1C18D6A
 TransformPartPropertyTrackData ECF20F69-2185-409F-9DDA-7EB07E471BB7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -456,7 +456,7 @@ TransformPartPropertyTrackData ECF20F69-2185-409F-9DDA-7EB07E471BB7
 TransformPartPropertyTrackData FDB99D43-5629-40A8-9316-699AE8B85529
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -471,7 +471,7 @@ TransformPartPropertyTrackData FDB99D43-5629-40A8-9316-699AE8B85529
 TransformPartPropertyTrackData 8ACCE639-3C57-4951-B4D3-676E7374727C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -486,7 +486,7 @@ TransformPartPropertyTrackData 8ACCE639-3C57-4951-B4D3-676E7374727C
 TransformPartPropertyTrackData 57C11C88-5FE5-49E4-8CB2-314498893617
 	$::PropertyTrackData
 		$::DataContainer
-		Id 877271231
+		Id 877271231 (DoorTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

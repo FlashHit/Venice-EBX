@@ -6,7 +6,7 @@ InterfaceDescriptorData 7F1932D8-8C65-4F08-B045-ED2C5F099DAC
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862038
+			Id 5862038 (C0)
 	InputLinks::array
 		member(0)::DynamicLink
 			Id 124880329 (SoundShape)
@@ -118,9 +118,9 @@ SpatialPrefabBlueprint 443AFA09-6944-3434-3273-A6306763F633 #primary instance
 						Source 0650AB41-31C2-43F5-BF29-D85E98CB8E57
 						Target 7F1932D8-8C65-4F08-B045-ED2C5F099DAC
 						SourceEvent::EventSpec
-							Id 5862038
+							Id 5862038 (C0)
 						TargetEvent::EventSpec
-							Id 5862038
+							Id 5862038 (C0)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor 7F1932D8-8C65-4F08-B045-ED2C5F099DAC
 				NeedNetworkId False

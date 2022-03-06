@@ -219,7 +219,7 @@ SyncedBoolEntityData 1B660D39-2CD2-4710-9152-E0F548DBFB17
 TransformPartPropertyTrackData 09FD1F41-4CD4-4E2F-87A2-6D691565787A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -234,7 +234,7 @@ TransformPartPropertyTrackData 09FD1F41-4CD4-4E2F-87A2-6D691565787A
 TransformPartPropertyTrackData 9DA39BEE-AD12-4AF9-85A5-FB0D65E46A9C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -249,7 +249,7 @@ TransformPartPropertyTrackData 9DA39BEE-AD12-4AF9-85A5-FB0D65E46A9C
 TransformPartPropertyTrackData ECE4750D-17D1-4045-8BAB-6A2865BEC19D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -264,7 +264,7 @@ TransformPartPropertyTrackData ECE4750D-17D1-4045-8BAB-6A2865BEC19D
 TransformPartPropertyTrackData 0CC36CFA-1366-46D5-BCE3-08104FB078BB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -279,7 +279,7 @@ TransformPartPropertyTrackData 0CC36CFA-1366-46D5-BCE3-08104FB078BB
 TransformPartPropertyTrackData AB15846B-B92A-4B19-BC89-6B6684DDB42C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -294,7 +294,7 @@ TransformPartPropertyTrackData AB15846B-B92A-4B19-BC89-6B6684DDB42C
 TransformPartPropertyTrackData 5C3CED51-379F-4CFA-99AB-FAF245353726
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1741756246
+		Id 1741756246 (USFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -309,7 +309,7 @@ TransformPartPropertyTrackData 5C3CED51-379F-4CFA-99AB-FAF245353726
 TransformPartPropertyTrackData 3B9C0E7A-F73B-4C65-BDA8-A51535E81BB2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -324,7 +324,7 @@ TransformPartPropertyTrackData 3B9C0E7A-F73B-4C65-BDA8-A51535E81BB2
 TransformPartPropertyTrackData EC7D99FB-A393-49A1-B11E-D9156938C216
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -339,7 +339,7 @@ TransformPartPropertyTrackData EC7D99FB-A393-49A1-B11E-D9156938C216
 TransformPartPropertyTrackData 8970AEEE-DC13-4685-8FFC-B6732A22ACF0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -354,7 +354,7 @@ TransformPartPropertyTrackData 8970AEEE-DC13-4685-8FFC-B6732A22ACF0
 TransformPartPropertyTrackData 0179BCD3-FD14-4AB4-9ED7-96C0152C279A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -369,7 +369,7 @@ TransformPartPropertyTrackData 0179BCD3-FD14-4AB4-9ED7-96C0152C279A
 TransformPartPropertyTrackData 7CA23A91-DA29-4843-A60F-B9DB2261128B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -384,7 +384,7 @@ TransformPartPropertyTrackData 7CA23A91-DA29-4843-A60F-B9DB2261128B
 TransformPartPropertyTrackData 1FED1E38-8C4A-48B8-892D-2906D86C5E77
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1280984055
+		Id 1280984055 (RUFlightPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

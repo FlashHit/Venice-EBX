@@ -173,7 +173,7 @@ InterfaceDescriptorData A697AABE-DC82-49F1-B5E3-FAC6C7A892F6
 			Id -1450328209 (Soldier)
 	OutputLinks::array
 		member(0)::DynamicLink
-			Id 5862498
+			Id 5862498 (WP)
 		member(1)::DynamicLink
 			Id 229402091
 PatrolOrderEntityData 6CDF4DC5-C72E-41D9-AE22-65A0F74D6BAF
@@ -257,7 +257,7 @@ SpatialPrefabBlueprint 645889B4-2263-41A4-BA25-3CD1382F697A #primary instance
 							Source 6CDF4DC5-C72E-41D9-AE22-65A0F74D6BAF
 							Target A697AABE-DC82-49F1-B5E3-FAC6C7A892F6
 							SourceFieldId -1481696500 (RouteWaypoints)
-							TargetFieldId 5862498
+							TargetFieldId 5862498 (WP)
 						member(3)::LinkConnection
 							Source 3E551286-AC68-43FF-B5E9-49E1103A7321
 							Target 4A179B0D-5E69-4DF2-B301-7834B6BA5F6D

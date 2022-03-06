@@ -3696,7 +3696,7 @@ SubWorldData 354CE316-47C9-49C8-84B7-FE64EE5F395D #primary instance
 							member(1)::PropertyConnection
 								Source Levels/MP_Subway/Rush_Cameras_Schematic/509BA104-A251-4662-A4EB-81B26DD26EE7
 								Target Levels/MP_Subway/Rush_Cameras/F9E832ED-5ECA-4F7C-A10A-5AAE29BCA2FF
-								SourceFieldId 975295405
+								SourceFieldId 975295405 (CameraTrack_01)
 								TargetFieldId -2024647575 (Transform)
 							member(2)::PropertyConnection
 								Source DE18BA16-CFA4-CFCE-0324-3AF27405A6B3
@@ -4051,12 +4051,12 @@ SubWorldData 354CE316-47C9-49C8-84B7-FE64EE5F395D #primary instance
 							member(72)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/BC9C299E-F59B-4783-A2C5-38BB4684BD73
 								Target Levels/MP_Subway/Base_1_Logic/AA5401C0-D5D9-4726-A655-71BD64970CA6
-								SourceFieldId -1687839300
+								SourceFieldId -1687839300 (F_18_01_FLYBY)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(73)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/BC9C299E-F59B-4783-A2C5-38BB4684BD73
 								Target Levels/MP_Subway/Base_1_Logic/69D8828A-3F5A-494D-95B2-A6EC4B46F92A
-								SourceFieldId -1751437121
+								SourceFieldId -1751437121 (F_18_02_FLYBY)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(74)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/024C570B-38C0-436E-B17B-2015AA1C918C
@@ -4066,7 +4066,7 @@ SubWorldData 354CE316-47C9-49C8-84B7-FE64EE5F395D #primary instance
 							member(75)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/024C570B-38C0-436E-B17B-2015AA1C918C
 								Target Levels/MP_Subway/Ambwar_Park_Missile_Launcher/A430C849-9D88-4E62-B8B4-2AEB4AB1D277
-								SourceFieldId -1411841900
+								SourceFieldId -1411841900 (SU-35_KILLED)
 								TargetFieldId 193450867 (In1)
 							member(76)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/A430C849-9D88-4E62-B8B4-2AEB4AB1D277
@@ -4091,12 +4091,12 @@ SubWorldData 354CE316-47C9-49C8-84B7-FE64EE5F395D #primary instance
 							member(80)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/F63354B6-F8AC-426F-A5B8-E3CD81BEF02A
 								Target Levels/MP_Subway/Base_1_Logic/052526E2-73A0-45CE-BA96-93E245CEAED1
-								SourceFieldId -1495368062
+								SourceFieldId -1495368062 (AN_22_Flyby)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(81)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/F63354B6-F8AC-426F-A5B8-E3CD81BEF02A
 								Target Levels/MP_Subway/Base_1_Logic/B7113682-7819-49C0-A710-3726B16A6CC1
-								SourceFieldId -411278433
+								SourceFieldId -411278433 (AN_22_Flyby_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(82)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/F63354B6-F8AC-426F-A5B8-E3CD81BEF02A
@@ -4116,37 +4116,37 @@ SubWorldData 354CE316-47C9-49C8-84B7-FE64EE5F395D #primary instance
 							member(85)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/BC9C299E-F59B-4783-A2C5-38BB4684BD73
 								Target Levels/MP_Subway/Base_1_Logic/DD37C08C-C442-4DEC-AA86-57CA8A54FEE1
-								SourceFieldId -534891138
+								SourceFieldId -534891138 (F_18_03_Flyby)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(86)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/BC9C299E-F59B-4783-A2C5-38BB4684BD73
 								Target Levels/MP_Subway/Base_1_Logic/62E018B0-3616-40E2-A1D1-80066F77636D
-								SourceFieldId 1966729593
+								SourceFieldId 1966729593 (F_18_04_Flyby)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(87)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/BC9C299E-F59B-4783-A2C5-38BB4684BD73
 								Target Levels/MP_Subway/Base_1_Logic/CD777B65-5377-4974-9A1A-A3B9E6F29D5D
-								SourceFieldId -1121931912
+								SourceFieldId -1121931912 (F_18_05_Flyby)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(88)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/FF29DC23-EB33-4A3A-8200-7A89DC5A0040
 								Target Levels/MP_Subway/Base_1_Logic/84ACC23C-9A65-4897-8AEF-EDDD329F0DDF
-								SourceFieldId -1343058836
+								SourceFieldId -1343058836 (A10_Flyby_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(89)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/FF29DC23-EB33-4A3A-8200-7A89DC5A0040
 								Target Levels/MP_Subway/Base_1_Logic/CEE8B44D-8D44-4390-A250-27DA164A9E56
-								SourceFieldId -1343058833
+								SourceFieldId -1343058833 (A10_Flyby_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(90)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/FF29DC23-EB33-4A3A-8200-7A89DC5A0040
 								Target Levels/MP_Subway/Base_1_Logic/EB669161-2F0E-4B0C-9610-E3139B53064F
-								SourceFieldId -1343058834
+								SourceFieldId -1343058834 (A10_Flyby_03)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(91)::PropertyConnection
 								Source Levels/MP_Subway/Ambwar_Park_Missile_Launcher/FF29DC23-EB33-4A3A-8200-7A89DC5A0040
 								Target Levels/MP_Subway/Base_1_Logic/A810971F-64D0-4769-B75D-51A3F06F6AA3
-								SourceFieldId -1343058839
+								SourceFieldId -1343058839 (A10_Flyby_04)
 								TargetFieldId -409930682 (BlueprintTransform)
 						LinkConnections::array
 							member(0)::LinkConnection

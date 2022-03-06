@@ -410,7 +410,7 @@ SequenceEntityData EFE38FEB-169A-49FF-B844-6AE9E1ABFFF6
 TransformPartPropertyTrackData F29E28B8-A341-4413-BCE3-92CD21587E04
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -425,7 +425,7 @@ TransformPartPropertyTrackData F29E28B8-A341-4413-BCE3-92CD21587E04
 TransformPartPropertyTrackData 6AE14D8C-E8BF-45C8-8E42-1FB094408315
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -440,7 +440,7 @@ TransformPartPropertyTrackData 6AE14D8C-E8BF-45C8-8E42-1FB094408315
 TransformPartPropertyTrackData 18DA8DDE-CF29-47F6-AECC-F8712D549359
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -455,7 +455,7 @@ TransformPartPropertyTrackData 18DA8DDE-CF29-47F6-AECC-F8712D549359
 TransformPartPropertyTrackData 9F0A8DA3-676F-4F20-9FD4-00F5B1DB4831
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -470,7 +470,7 @@ TransformPartPropertyTrackData 9F0A8DA3-676F-4F20-9FD4-00F5B1DB4831
 TransformPartPropertyTrackData AD1F9A97-7821-4A43-80F7-505CE7C090D2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -485,7 +485,7 @@ TransformPartPropertyTrackData AD1F9A97-7821-4A43-80F7-505CE7C090D2
 TransformPartPropertyTrackData 4F550B3E-1EAA-486F-A519-B89DA22EFFB7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -91408743
+		Id -91408743 (TecTruck_Crash_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -500,7 +500,7 @@ TransformPartPropertyTrackData 4F550B3E-1EAA-486F-A519-B89DA22EFFB7
 TransformPartPropertyTrackData A0D84CDD-4B81-4FFC-9D06-106399D5FDB5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -515,7 +515,7 @@ TransformPartPropertyTrackData A0D84CDD-4B81-4FFC-9D06-106399D5FDB5
 TransformPartPropertyTrackData CD8F824C-A218-451C-8754-FD0C7BEB81AB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -530,7 +530,7 @@ TransformPartPropertyTrackData CD8F824C-A218-451C-8754-FD0C7BEB81AB
 TransformPartPropertyTrackData 86939701-31CA-45A7-8DE4-EA329AF39211
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -545,7 +545,7 @@ TransformPartPropertyTrackData 86939701-31CA-45A7-8DE4-EA329AF39211
 TransformPartPropertyTrackData D1E09758-0911-4D9E-833D-6352905CCC6C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -560,7 +560,7 @@ TransformPartPropertyTrackData D1E09758-0911-4D9E-833D-6352905CCC6C
 TransformPartPropertyTrackData 4DED0ACE-D1FF-4A27-91BF-E504D3BCC3FF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -575,7 +575,7 @@ TransformPartPropertyTrackData 4DED0ACE-D1FF-4A27-91BF-E504D3BCC3FF
 TransformPartPropertyTrackData 33560557-2351-49A8-9DEC-DE1474ABFD1D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1015149421
+		Id -1015149421 (TecTruck_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

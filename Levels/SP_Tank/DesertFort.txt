@@ -7632,7 +7632,7 @@ SubWorldData E722B76D-4D67-4FB1-B123-2FCC53C986A3 #primary instance
 							member(13)::PropertyConnection
 								Source Levels/SP_Tank/DesertFortSchema_FriendlyAI/5887C1CD-45CE-42B4-915C-FE8083CA4D9B
 								Target Levels/SP_Tank/DesertFortSchema_FriendlyAI/93CE4898-8B29-4598-B85F-A694F3A7EAD4
-								SourceFieldId 402521524
+								SourceFieldId 402521524 (FlyInDroneAnimation_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(14)::PropertyConnection
 								Source Levels/SP_Tank/DesertFortSchema_FriendlyAI/D7092A80-5FB1-4E60-91C4-20D8DBB49FFD

@@ -457,7 +457,7 @@ SoundEntityData D8E02F57-8585-4109-850C-377015FABB41
 TransformPartPropertyTrackData 7DA97A3F-3988-40FB-BB31-6BDE5C70E7EA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -472,7 +472,7 @@ TransformPartPropertyTrackData 7DA97A3F-3988-40FB-BB31-6BDE5C70E7EA
 TransformPartPropertyTrackData 2862C71D-E906-4D95-A693-853B7E1510DF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -487,7 +487,7 @@ TransformPartPropertyTrackData 2862C71D-E906-4D95-A693-853B7E1510DF
 TransformPartPropertyTrackData 1D97DFE2-27A8-413F-93E8-080F5BBC08D3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -502,7 +502,7 @@ TransformPartPropertyTrackData 1D97DFE2-27A8-413F-93E8-080F5BBC08D3
 TransformPartPropertyTrackData 0812F8C1-578C-4272-8F25-D1D933437E49
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -517,7 +517,7 @@ TransformPartPropertyTrackData 0812F8C1-578C-4272-8F25-D1D933437E49
 TransformPartPropertyTrackData 80C4FF2B-4E39-4FBE-B7E5-B9DC10E0C73E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -532,7 +532,7 @@ TransformPartPropertyTrackData 80C4FF2B-4E39-4FBE-B7E5-B9DC10E0C73E
 TransformPartPropertyTrackData 4EED12E9-A5BC-4BFE-9F5C-3C39C008A31C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -222247895
+		Id -222247895 (Vaultdoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

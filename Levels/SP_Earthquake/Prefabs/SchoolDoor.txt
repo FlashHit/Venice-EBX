@@ -94,7 +94,7 @@ SpatialPrefabBlueprint 6CAF420B-A108-4DF9-86D7-C9D3F04BA766 #primary instance
 						member(0)::PropertyConnection
 							Source 1EA5A530-EBC9-4E3A-A991-B5B85E140825
 							Target 38F60787-E1B4-4F6B-B09C-B39619A4A390
-							SourceFieldId 877271231
+							SourceFieldId 877271231 (DoorTransform)
 							TargetFieldId -409930682 (BlueprintTransform)
 						member(1)::PropertyConnection
 							Source 8DBC8534-F201-4DF5-9EBA-A078C5A861AB

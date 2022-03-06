@@ -53,7 +53,7 @@ InterfaceDescriptorData E65CAD94-5922-4535-B9B9-D57CF8B36F6B
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862032
+			Id 5862032 (C6)
 	InputLinks::array
 		member(0)::DynamicLink
 			Id 124880329 (SoundShape)
@@ -482,7 +482,7 @@ SpatialPrefabBlueprint D4DC2C8F-295A-4DC4-8497-D5B1FDEAF6B6 #primary instance
 						SourceEvent::EventSpec
 							Id 389243633
 						TargetEvent::EventSpec
-							Id 5862032
+							Id 5862032 (C6)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor E65CAD94-5922-4535-B9B9-D57CF8B36F6B
 				NeedNetworkId False

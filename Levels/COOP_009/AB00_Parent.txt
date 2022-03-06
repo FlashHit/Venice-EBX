@@ -1386,12 +1386,12 @@ SubWorldData 4C21CCF2-5C2D-4947-8F8A-592C619CDE05 #primary instance
 							member(74)::PropertyConnection
 								Source Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/EBDECB93-4CA7-4A07-8D0D-D27CAF226F91
 								Target Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/BAE48C38-0A14-40E6-845D-7FE0F1D856D9
-								SourceFieldId -1590439175
+								SourceFieldId -1590439175 (KickDoor)
 								TargetFieldId 193450867 (In1)
 							member(75)::PropertyConnection
 								Source Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/15E3D3C6-BDE4-4507-9962-ADA6AEF72742
 								Target Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/BAE48C38-0A14-40E6-845D-7FE0F1D856D9
-								SourceFieldId -1590439175
+								SourceFieldId -1590439175 (KickDoor)
 								TargetFieldId 193450864 (In2)
 							member(76)::PropertyConnection
 								Source Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/BAE48C38-0A14-40E6-845D-7FE0F1D856D9
@@ -1401,7 +1401,7 @@ SubWorldData 4C21CCF2-5C2D-4947-8F8A-592C619CDE05 #primary instance
 							member(77)::PropertyConnection
 								Source Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/CCD789AF-04C5-4D99-8A17-95C517E1F55D
 								Target Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/BAE48C38-0A14-40E6-845D-7FE0F1D856D9
-								SourceFieldId -270065708
+								SourceFieldId -270065708 (PlayerOpenDoor)
 								TargetFieldId 193450865 (In3)
 							member(78)::PropertyConnection
 								Source Levels/COOP_009/AB00_LogicGameplay_Room_3_Schematic/AA621003-4B3A-4AAF-8DF9-6978158D637C

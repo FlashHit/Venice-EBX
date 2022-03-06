@@ -29,7 +29,7 @@ SoundWaveAsset C30A5032-AA71-34C1-97BE-E64FD7984DCF #primary instance
 				ChunkSize 155200
 			member(7)::SoundDataChunk
 				ChunkId BF5C1DEB-34F1-50E4-4813-9777693D9CA6
-				ChunkSize 177652 (Q)
+				ChunkSize 177652
 	Variations::array
 		member(0) 85808D10-5D8D-0C56-7694-04697821FA2B
 		member(1) 75798AF6-1F65-C24B-1035-08C2973214BD

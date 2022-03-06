@@ -10080,7 +10080,7 @@ SubWorldData 11A81F13-DB54-4FFD-93B6-F05E8BFACF7A #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/930CBA01-1208-4D5A-953A-EF1DFFB5624E
 								Target Levels/SP_Paris/Chase_Logic/A500923D-D14B-4ED0-87E7-1E3493FC0299
-								SourceFieldId 377003696
+								SourceFieldId 377003696 (police_heli_metro)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/D614A3F7-0D38-4D67-AF73-29822184A052
@@ -10145,12 +10145,12 @@ SubWorldData 11A81F13-DB54-4FFD-93B6-F05E8BFACF7A #primary instance
 							member(14)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/FFA9BE77-E8CC-4BE6-BB88-C6AF31102D66
 								Target Levels/SP_Paris/Chase_Buildings/BB04A029-C89C-4859-8E37-83D6B24130B2
-								SourceFieldId -681016538
+								SourceFieldId -681016538 (SuccessStartTrain)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(15)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/8FE8CCD4-11DA-4AAB-90C7-FB3F917F03D3
 								Target Levels/SP_Paris/Chase_Buildings/05FB4898-23B4-4425-B85B-BECA714064D0
-								SourceFieldId 1914197329
+								SourceFieldId 1914197329 (TrainAnimOtherSide)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(16)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/F732B478-35AD-4604-9F1A-E8C1F67D6C61
@@ -10160,17 +10160,17 @@ SubWorldData 11A81F13-DB54-4FFD-93B6-F05E8BFACF7A #primary instance
 							member(17)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/FC5E8C4F-0609-4F64-AE9E-764AFA4D48D4
 								Target Levels/SP_Paris/Chase_Logic_Schematics/F732B478-35AD-4604-9F1A-E8C1F67D6C61
-								SourceFieldId -795390410
+								SourceFieldId -795390410 (TrainKillsPlayer1)
 								TargetFieldId 193450864 (In2)
 							member(18)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/651B8E48-4C44-4C55-AD0F-1BE9D096DBB9
 								Target Levels/SP_Paris/Chase_Logic_Schematics/F732B478-35AD-4604-9F1A-E8C1F67D6C61
-								SourceFieldId -795390411
+								SourceFieldId -795390411 (TrainKillsPlayer2)
 								TargetFieldId 193450867 (In1)
 							member(19)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/6E57FE91-978A-496C-9080-38B6ADBB5462
 								Target Levels/SP_Paris/Chase_Logic_Schematics/F732B478-35AD-4604-9F1A-E8C1F67D6C61
-								SourceFieldId 754321226
+								SourceFieldId 754321226 (TrainKillsNukeGuy)
 								TargetFieldId 193450865 (In3)
 							member(20)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/651B8E48-4C44-4C55-AD0F-1BE9D096DBB9
@@ -10235,37 +10235,37 @@ SubWorldData 11A81F13-DB54-4FFD-93B6-F05E8BFACF7A #primary instance
 							member(32)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/F712AE66-0E66-4E84-929C-9AAB3EDCC32E
-								SourceFieldId -485569579
+								SourceFieldId -485569579 (TrashCan_Animated)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(33)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/13609343-4288-4A17-BA49-D7C2D59B6A09
-								SourceFieldId 813409405
+								SourceFieldId 813409405 (Commerical_WallSign_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(34)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/FC102CA0-7B88-415C-8025-6E7CEC821E1E
-								SourceFieldId -1188244034
+								SourceFieldId -1188244034 (Commercial_WallSign_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(35)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/42080C82-D6DF-46AA-B704-07814CF6278C
-								SourceFieldId 1800704168
+								SourceFieldId 1800704168 (BigPapperRecycle)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(36)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/7B07DD15-0535-42EB-B491-A115C317F500
-								SourceFieldId -1383130591
+								SourceFieldId -1383130591 (CandyBox)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(37)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/D8866D4A-93E6-49CF-A088-B748FBC5D7AE
-								SourceFieldId -1188244033
+								SourceFieldId -1188244033 (Commercial_WallSign_03)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(38)::PropertyConnection
 								Source Levels/SP_Paris/Chase_FX_Schematic/FAD14006-EB97-4178-8E91-1FD9E8160A7A
 								Target Levels/SP_Paris/Chase_Props/7ED8C6DA-D104-44F9-AA6E-C5988955391C
-								SourceFieldId -1188244040
+								SourceFieldId -1188244040 (Commercial_WallSign_04)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(39)::PropertyConnection
 								Source Levels/SP_Paris/Chase_Logic_Schematics/15D89BAD-92C0-474C-8F64-036EB86C81AD

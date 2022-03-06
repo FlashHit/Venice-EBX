@@ -141,7 +141,7 @@ SpatialPrefabBlueprint F4EC83A5-5752-296C-B7CC-2A2E6C9C9290 #primary instance
 						Source A1DF1DCB-0670-4243-96DE-B238BC4F3ECF
 						Target AA62BCB9-D4A1-4DCE-8CF1-6083575325AD
 						SourceEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -149,7 +149,7 @@ SpatialPrefabBlueprint F4EC83A5-5752-296C-B7CC-2A2E6C9C9290 #primary instance
 						Source A1DF1DCB-0670-4243-96DE-B238BC4F3ECF
 						Target AA62BCB9-D4A1-4DCE-8CF1-6083575325AD
 						SourceEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -157,7 +157,7 @@ SpatialPrefabBlueprint F4EC83A5-5752-296C-B7CC-2A2E6C9C9290 #primary instance
 						Source A1DF1DCB-0670-4243-96DE-B238BC4F3ECF
 						Target AA62BCB9-D4A1-4DCE-8CF1-6083575325AD
 						SourceEvent::EventSpec
-							Id 5862566
+							Id 5862566 (P3)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client

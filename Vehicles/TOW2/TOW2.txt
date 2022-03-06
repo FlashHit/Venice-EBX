@@ -1756,4 +1756,4 @@ WeaponComponentData 3B8E119B-C9EC-461F-AC63-B1E0284EE100
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381

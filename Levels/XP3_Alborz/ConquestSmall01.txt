@@ -3482,12 +3482,12 @@ SubWorldData F4793A48-563A-4730-981C-CDD8552CDC22 #primary instance
 							member(30)::PropertyConnection
 								Source Levels/XP3_Alborz/ConquestSmall01_Logic_Schematic/39463CD4-9B3E-491F-AEC0-0E62A77348C7
 								Target Levels/XP3_Alborz/ConquestSmall01_Logic/27461339-6762-415B-B1A9-0FCD136AFFCB
-								SourceFieldId 2134679738
+								SourceFieldId 2134679738 (Gunship_970x890_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(31)::PropertyConnection
 								Source Levels/XP3_Alborz/ConquestSmall01_Logic_Schematic/3B0B1403-F1C6-49DC-913E-4554A7DEEE45
 								Target Levels/XP3_Alborz/ConquestSmall01_Logic/66EA90BD-0F5F-41CB-AA14-28F0B495C873
-								SourceFieldId -1294481422
+								SourceFieldId -1294481422 (Animatetransform)
 								TargetFieldId -2024647575 (Transform)
 						LinkConnections::array
 							member(0)::LinkConnection

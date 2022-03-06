@@ -471,7 +471,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(56)::PropertyConnection
 										Source Levels/SP_Jet/DogFight2_Schematic/D2E98130-CAEB-4AC4-8334-AC20622AD299
 										Target Levels/SP_Jet/DogFight2_Schematic/A304C538-2A22-4989-BCD1-380D64D60212
-										SourceFieldId -1650041280
+										SourceFieldId -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 										TargetFieldId 193450864 (In2)
 									member(57)::PropertyConnection
 										Source Levels/SP_Jet/DogFight2_Schematic/A304C538-2A22-4989-BCD1-380D64D60212
@@ -491,7 +491,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(60)::PropertyConnection
 										Source Levels/SP_Jet/DogFight2_Schematic/4C720D47-4E20-4BE0-9223-93512E2558CC
 										Target Levels/SP_Jet/DogFight2_Schematic/A304C538-2A22-4989-BCD1-380D64D60212
-										SourceFieldId -1807026405
+										SourceFieldId -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 										TargetFieldId 193450867 (In1)
 									member(61)::PropertyConnection
 										Source Levels/SP_Jet/DogFight2_Schematic/54A906DB-76FF-4419-B969-9AC0E1D24AC0
@@ -571,7 +571,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(76)::PropertyConnection
 										Source Levels/SP_Jet/DogFight1_Schematic/DCD86A6B-985F-4CCF-9591-1A545D77369E
 										Target Levels/SP_Jet/DogFight1_Schematic/31DE8EE2-EE52-45C4-AE81-2D9976B6BD8F
-										SourceFieldId -1650041280
+										SourceFieldId -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 										TargetFieldId 193450864 (In2)
 									member(77)::PropertyConnection
 										Source Levels/SP_Jet/DogFight1_Schematic/31DE8EE2-EE52-45C4-AE81-2D9976B6BD8F
@@ -596,7 +596,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(81)::PropertyConnection
 										Source Levels/SP_Jet/DogFight1_Schematic/53230F19-1188-45C2-B01F-F17DAA6F1225
 										Target Levels/SP_Jet/DogFight1_Schematic/31DE8EE2-EE52-45C4-AE81-2D9976B6BD8F
-										SourceFieldId -1807026405
+										SourceFieldId -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 										TargetFieldId 193450867 (In1)
 									member(82)::PropertyConnection
 										Source Levels/SP_Jet/DogFight1_Schematic/57E7F692-77FD-47B7-A8EC-FF8A03BC4184
@@ -781,7 +781,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(118)::PropertyConnection
 										Source Levels/SP_Jet/HighwayOfDeath_Schematic/2A338EB3-846F-446D-B6B6-EDC64A4BD75B
 										Target Levels/SP_Jet/HighwayOfDeath_Schematic/2660D688-8E6E-42CA-8556-8163067D941E
-										SourceFieldId 864105896
+										SourceFieldId 864105896 (BombRunAnimation_Intro_vehicleRoot)
 										TargetFieldId 193450867 (In1)
 									member(119)::PropertyConnection
 										Source Levels/SP_Jet/HighwayOfDeath_Schematic/2A338EB3-846F-446D-B6B6-EDC64A4BD75B
@@ -791,7 +791,7 @@ LevelData E7704092-443E-1D6F-E680-8E893185835E #primary instance
 									member(120)::PropertyConnection
 										Source Levels/SP_Jet/HighwayOfDeath_Schematic/07D68F5A-FE66-44A5-9C6D-2BFE70135F2F
 										Target Levels/SP_Jet/HighwayOfDeath_Schematic/2660D688-8E6E-42CA-8556-8163067D941E
-										SourceFieldId -1228413863
+										SourceFieldId -1228413863 (BombRunAnimation_vehicleRoot)
 										TargetFieldId 193450864 (In2)
 									member(121)::PropertyConnection
 										Source Levels/SP_Jet/GlobalLogic/D7F4CF59-15AF-4BC2-8EB8-96B645D89D66

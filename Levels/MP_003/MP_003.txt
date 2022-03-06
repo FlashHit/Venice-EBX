@@ -7436,27 +7436,27 @@ LevelData A83CFCCA-AB0C-4B82-1762-6033C802D031 #primary instance
 									member(85)::PropertyConnection
 										Source Levels/MP_003/AmbWarfare_Schematic/57F8A1B9-F9FE-4D93-A4CD-E46E6CE75841
 										Target Levels/MP_003/AmbientWarfare/B87EE4F4-9322-461E-94EA-96443F648926
-										SourceFieldId 24750914
+										SourceFieldId 24750914 (A10_Flyby_01_MOVE)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(86)::PropertyConnection
 										Source Levels/MP_003/AmbWarfare_Schematic/57F8A1B9-F9FE-4D93-A4CD-E46E6CE75841
 										Target Levels/MP_003/AmbientWarfare/2313B246-DBA8-4CAE-BED1-F0F4FC6B0A79
-										SourceFieldId 134976097
+										SourceFieldId 134976097 (A10_Flyby_02_MOVE)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(87)::PropertyConnection
 										Source Levels/MP_003/AmbWarfare_Schematic/57F8A1B9-F9FE-4D93-A4CD-E46E6CE75841
 										Target Levels/MP_003/AmbientWarfare/8DAA5A4F-768B-4CA0-B249-9B40FDB39624
-										SourceFieldId 249940608
+										SourceFieldId 249940608 (A10_Flyby_03_MOVE)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(88)::PropertyConnection
 										Source Levels/MP_003/AmbWarfare_Schematic/F9147D81-1BEC-49B7-A4ED-CD1588ECD94E
 										Target Levels/MP_003/AmbientWarfare/D782B432-D594-4DD4-A3F4-0C9B70DC061E
-										SourceFieldId -1634737640
+										SourceFieldId -1634737640 (F18_BuilidngHit_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(89)::PropertyConnection
 										Source Levels/MP_003/AmbWarfare_Schematic/F9147D81-1BEC-49B7-A4ED-CD1588ECD94E
 										Target Levels/MP_003/AmbientWarfare/5CAC1955-0927-4808-BFC3-6B521E5196CF
-										SourceFieldId 350338927
+										SourceFieldId 350338927 (Missile_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(90)::PropertyConnection
 										Source Levels/MP_003/Lookout/84F82212-FA10-4742-BA4E-98FB3743859A

@@ -1353,22 +1353,22 @@ SubWorldData 1DC957ED-3096-4B73-B4FA-C624188BE5DC #primary instance
 							member(3)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/0879273A-FB59-4040-A5D4-8FA86B275552
 								Target Levels/COOP_002/General_Sluice_AB02_Schematic/87FA5339-4430-408B-AA6A-E63DC6E63EA0
-								SourceFieldId -754368642
+								SourceFieldId -754368642 (Door_Down)
 								TargetFieldId 193450867 (In1)
 							member(4)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/568C874F-F727-4E49-A22D-E76BA48A8752
 								Target Levels/COOP_002/General_Sluice_AB02_Schematic/87FA5339-4430-408B-AA6A-E63DC6E63EA0
-								SourceFieldId -754368642
+								SourceFieldId -754368642 (Door_Down)
 								TargetFieldId 193450864 (In2)
 							member(5)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/20DE846A-619F-4AA2-9833-E14B2E442BB7
 								Target Levels/COOP_002/General_Sluice_AB02_Schematic/9EB33047-84D3-4DC2-A6C5-7F3D74BEB952
-								SourceFieldId 232001385
+								SourceFieldId 232001385 (Door_Up)
 								TargetFieldId 193450864 (In2)
 							member(6)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/C94B95C1-428F-4005-8302-BC96E52CD773
 								Target Levels/COOP_002/General_Sluice_AB02_Schematic/9EB33047-84D3-4DC2-A6C5-7F3D74BEB952
-								SourceFieldId 232001385
+								SourceFieldId 232001385 (Door_Up)
 								TargetFieldId 193450867 (In1)
 							member(7)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/9EB33047-84D3-4DC2-A6C5-7F3D74BEB952
@@ -1393,7 +1393,7 @@ SubWorldData 1DC957ED-3096-4B73-B4FA-C624188BE5DC #primary instance
 							member(11)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Schematic/04E737D2-9207-41DD-AE17-D82881D334D1
 								Target C07661B3-1B88-0DF4-34D8-1BADBEB0D26E
-								SourceFieldId 209242689
+								SourceFieldId 209242689 (Door2)
 								TargetFieldId -792912422
 							member(12)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB02_Sound/40EAF2D8-71FF-46E3-8D1E-E8A9D86BEEF2

@@ -1710,7 +1710,7 @@ SequenceEntityData 8F5BB49D-0379-4011-BEBB-05BACE26725D
 			Time 101700
 		member(4)::SequenceEventData
 			Event::EventSpec
-				Id -1448194845
+				Id -1448194845 (OpenBioDoor)
 			Time 110000
 		member(5)::SequenceEventData
 			Event::EventSpec
@@ -1718,7 +1718,7 @@ SequenceEntityData 8F5BB49D-0379-4011-BEBB-05BACE26725D
 			Time 123430
 		member(6)::SequenceEventData
 			Event::EventSpec
-				Id -1283802495
+				Id -1283802495 (CloseBioDoor)
 			Time 124800
 		member(7)::SequenceEventData
 			Event::EventSpec
@@ -1738,7 +1738,7 @@ SequenceEntityData 8F5BB49D-0379-4011-BEBB-05BACE26725D
 			Time 133000
 		member(11)::SequenceEventData
 			Event::EventSpec
-				Id -1448194845
+				Id -1448194845 (OpenBioDoor)
 			Time 145000
 	SequenceStartTime 0
 	SequenceLength 150000

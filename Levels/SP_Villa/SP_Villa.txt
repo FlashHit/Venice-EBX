@@ -3248,9 +3248,9 @@ LevelData 03CEBAF4-C8BB-82A0-5F53-2FAD34CA84A1 #primary instance
 									Source A08F3147-8137-4802-B9AD-28A48B5A9DCD
 									Target 433C8C47-7BD4-4B56-A593-89F74758AA45
 									SourceEvent::EventSpec
-										Id -1448194845
+										Id -1448194845 (OpenBioDoor)
 									TargetEvent::EventSpec
-										Id -1448194845
+										Id -1448194845 (OpenBioDoor)
 									TargetType EventConnectionTargetType_ClientAndServer
 								member(146)::EventConnection
 									Source A08F3147-8137-4802-B9AD-28A48B5A9DCD
@@ -3432,9 +3432,9 @@ LevelData 03CEBAF4-C8BB-82A0-5F53-2FAD34CA84A1 #primary instance
 									Source A08F3147-8137-4802-B9AD-28A48B5A9DCD
 									Target 433C8C47-7BD4-4B56-A593-89F74758AA45
 									SourceEvent::EventSpec
-										Id -1283802495
+										Id -1283802495 (CloseBioDoor)
 									TargetEvent::EventSpec
-										Id -1283802495
+										Id -1283802495 (CloseBioDoor)
 									TargetType EventConnectionTargetType_ClientAndServer
 								member(169)::EventConnection
 									Source A08F3147-8137-4802-B9AD-28A48B5A9DCD

@@ -47,7 +47,7 @@ InterfaceDescriptorData A6E1FD7E-6C3B-441A-A08D-156612BC23E4
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 ObjectBlueprint A25E3FA8-2782-40FD-AEB4-E7E77C303CAD #primary instance
@@ -66,7 +66,7 @@ ObjectBlueprint A25E3FA8-2782-40FD-AEB4-E7E77C303CAD #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862564
+						Id 5862564 (P1)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor A6E1FD7E-6C3B-441A-A08D-156612BC23E4
 			NeedNetworkId False

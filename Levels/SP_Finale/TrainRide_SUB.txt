@@ -3569,17 +3569,17 @@ SubWorldData 9B88ADC4-CB59-409C-B13B-8B0D4E759520 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/CEDFADF2-35F8-4613-A506-F067F61C839A
 								Target Levels/SP_Finale/TrainRide_ART/FF7D62C3-9E16-4379-B280-59F99EB273BD
-								SourceFieldId 212469266
+								SourceFieldId 212469266 (Cart3)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/CEDFADF2-35F8-4613-A506-F067F61C839A
 								Target Levels/SP_Finale/TrainRide_ART/18FF6EF1-32AD-4676-9FC3-B005393BC56B
-								SourceFieldId 212469267
+								SourceFieldId 212469267 (Cart2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/CEDFADF2-35F8-4613-A506-F067F61C839A
 								Target Levels/SP_Finale/TrainRide_ART/45210037-8C24-4560-AB8B-352613CEB850
-								SourceFieldId 212469264
+								SourceFieldId 212469264 (Cart1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/CECB42ED-DCD1-4B3D-AC55-F0223EA0EC88
@@ -3669,17 +3669,17 @@ SubWorldData 9B88ADC4-CB59-409C-B13B-8B0D4E759520 #primary instance
 							member(20)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/02740C4D-F2B1-47E0-8676-E375AD3ECC9A
 								Target Levels/SP_Finale/TrainRide_ART/CBEB2F76-1D25-44E2-A81F-31EEA87B2DAC
-								SourceFieldId 212469269
+								SourceFieldId 212469269 (Cart4)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(21)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/02740C4D-F2B1-47E0-8676-E375AD3ECC9A
 								Target Levels/SP_Finale/TrainRide_ART/6D494FDD-95AA-4877-86BF-92354869DB16
-								SourceFieldId 212469268
+								SourceFieldId 212469268 (Cart5)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(22)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/02740C4D-F2B1-47E0-8676-E375AD3ECC9A
 								Target Levels/SP_Finale/TrainRide_ART/F8EA8990-9A66-4349-9830-80B3631470C6
-								SourceFieldId 212469268
+								SourceFieldId 212469268 (Cart5)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(23)::PropertyConnection
 								Source Levels/SP_Finale/TrainRide_SCM/5E6AE4CB-0DEE-465E-84CA-92F4A6E7C2BF
@@ -3910,7 +3910,7 @@ SubWorldData 9B88ADC4-CB59-409C-B13B-8B0D4E759520 #primary instance
 							member(27)::LinkConnection
 								Source Levels/SP_Finale/TrainRide_SCM/124CEA3F-5F11-498B-8817-026AE2CA8E87
 								Target B095D1E0-3927-0451-0239-829D54602971
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId -984653445
 							member(28)::LinkConnection
 								Source Levels/SP_Finale/TrainRide_SCM/DA9746F4-0226-47B2-962F-8D236DB55BF0
@@ -4000,7 +4000,7 @@ SubWorldData 9B88ADC4-CB59-409C-B13B-8B0D4E759520 #primary instance
 							member(45)::LinkConnection
 								Source Levels/SP_Finale/TrainRide_SCM/F790A8BC-3105-42D1-BC2E-42BD74F4D83F
 								Target B095D1E0-3927-0451-0239-829D54602971
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId -984653445
 							member(46)::LinkConnection
 								Source Levels/SP_Finale/TrainRide_SCM/8FF2C3A0-9D7F-4D73-BDED-7B6CFEE3990D

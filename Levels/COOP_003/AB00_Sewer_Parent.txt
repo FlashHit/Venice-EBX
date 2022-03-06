@@ -274,7 +274,7 @@ SubWorldData 9D459536-2641-4598-8832-376E6A206027 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/COOP_003/AB00_Sewer_GameplayLogic_Schematic/F94AC98D-47E9-4679-98C9-11A039FB8A8A
 								Target Levels/COOP_003/AB00_Sewer_GameplayLogic/2BDFA5DF-0F62-4F05-B9F5-A151CD5980E9
-								SourceFieldId 436762994
+								SourceFieldId 436762994 (SewerLid)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source 454F1129-84DC-C1BC-FCCF-F4EE36C093BD

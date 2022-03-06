@@ -3393,9 +3393,9 @@ LevelData 4145B204-EC0F-443D-8C85-99C2CD90E991 #primary instance
 									Source 8594329A-6E2B-4287-91FB-CA77672A9D9C
 									Target 17BED6A4-D249-4616-A068-F0872B82B3D2
 									SourceEvent::EventSpec
-										Id 1686584170
+										Id 1686584170 (StartMarines)
 									TargetEvent::EventSpec
-										Id 1686584170
+										Id 1686584170 (StartMarines)
 									TargetType EventConnectionTargetType_Server
 								member(260)::EventConnection
 									Source Levels/SP_Valley/Flow/3235D96E-AC97-4EE9-A928-849D1A97E625

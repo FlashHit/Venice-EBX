@@ -159,12 +159,12 @@ SubWorldData E505BE98-DB7F-4AF1-A267-3ED1049E3B5D #primary instance
 							member(0)::PropertyConnection
 								Source Levels/COOP_007/Stadium_Ambient_Movement_Schematic/1B14A518-3B5E-4949-A0D8-B37FE0A0290C
 								Target Levels/COOP_007/Stadium_Ambient_Movement/A1B7BE84-8A0C-488D-A790-3BB61FD30D0B
-								SourceFieldId 2005880275
+								SourceFieldId 2005880275 (Heli_01)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/COOP_007/Stadium_Ambient_Movement_Schematic/1B14A518-3B5E-4949-A0D8-B37FE0A0290C
 								Target Levels/COOP_007/Stadium_Ambient_Movement/1424D794-10AA-4BD5-B03F-3DD42BCB508D
-								SourceFieldId 2005880272
+								SourceFieldId 2005880272 (Heli_02)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(2)::PropertyConnection
 								Source Levels/COOP_007/Stadium_Ambient_Movement_Schematic/F6F42FF1-F386-4799-9365-7AB5FE1CF2B8

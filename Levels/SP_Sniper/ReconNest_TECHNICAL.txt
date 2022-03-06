@@ -397,7 +397,7 @@ TransformHubEntityData 59412F5F-FBE5-4DDE-8296-EB31E9DB9447
 TransformPartPropertyTrackData BAE814D7-1B89-4198-A965-BF98054EF963
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Linear
@@ -412,7 +412,7 @@ TransformPartPropertyTrackData BAE814D7-1B89-4198-A965-BF98054EF963
 TransformPartPropertyTrackData 9172A583-1EB6-4691-92B1-8C61EDC985A8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Linear
@@ -427,7 +427,7 @@ TransformPartPropertyTrackData 9172A583-1EB6-4691-92B1-8C61EDC985A8
 TransformPartPropertyTrackData D032E150-C063-4847-A8CA-202A1B1B6AA2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Linear
@@ -442,7 +442,7 @@ TransformPartPropertyTrackData D032E150-C063-4847-A8CA-202A1B1B6AA2
 TransformPartPropertyTrackData 34F73A2E-B6A5-416B-9C75-F4D07B455B1F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Linear
@@ -457,7 +457,7 @@ TransformPartPropertyTrackData 34F73A2E-B6A5-416B-9C75-F4D07B455B1F
 TransformPartPropertyTrackData CD03C1AB-ADDD-4370-8388-5F5EA3E16556
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Linear
@@ -472,7 +472,7 @@ TransformPartPropertyTrackData CD03C1AB-ADDD-4370-8388-5F5EA3E16556
 TransformPartPropertyTrackData 7196793C-6872-49B8-8360-A46F06CA5CFF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Linear
@@ -487,7 +487,7 @@ TransformPartPropertyTrackData 7196793C-6872-49B8-8360-A46F06CA5CFF
 TransformPartPropertyTrackData 5B1F805C-F722-4585-92C3-356337811FD4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Linear
@@ -502,7 +502,7 @@ TransformPartPropertyTrackData 5B1F805C-F722-4585-92C3-356337811FD4
 TransformPartPropertyTrackData AB1DBC81-67D4-4B95-9E95-6B578DCB8A12
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Linear
@@ -517,7 +517,7 @@ TransformPartPropertyTrackData AB1DBC81-67D4-4B95-9E95-6B578DCB8A12
 TransformPartPropertyTrackData 845FDA84-9264-4792-8958-4948563F598D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Linear
@@ -532,7 +532,7 @@ TransformPartPropertyTrackData 845FDA84-9264-4792-8958-4948563F598D
 TransformPartPropertyTrackData 9B900BED-CB3F-4E40-87F0-5F4EFDC5CD47
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Linear
@@ -547,7 +547,7 @@ TransformPartPropertyTrackData 9B900BED-CB3F-4E40-87F0-5F4EFDC5CD47
 TransformPartPropertyTrackData 1BD9D552-7026-49F2-8D16-79EF64F45531
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Linear
@@ -562,7 +562,7 @@ TransformPartPropertyTrackData 1BD9D552-7026-49F2-8D16-79EF64F45531
 TransformPartPropertyTrackData 43A21245-4742-41B2-807E-619B53FAED83
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1117781963
+		Id -1117781963 (osprey_path)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Linear
@@ -577,7 +577,7 @@ TransformPartPropertyTrackData 43A21245-4742-41B2-807E-619B53FAED83
 TransformPartPropertyTrackData 260B0D1C-38B8-4FDE-B5BB-51ACA524BAD2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -592,7 +592,7 @@ TransformPartPropertyTrackData 260B0D1C-38B8-4FDE-B5BB-51ACA524BAD2
 TransformPartPropertyTrackData 896E267F-87CA-4785-9A8C-01BF7347BE20
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -607,7 +607,7 @@ TransformPartPropertyTrackData 896E267F-87CA-4785-9A8C-01BF7347BE20
 TransformPartPropertyTrackData 923E5194-519A-4F2C-B990-ACA7603027FD
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -622,7 +622,7 @@ TransformPartPropertyTrackData 923E5194-519A-4F2C-B990-ACA7603027FD
 TransformPartPropertyTrackData 90F4861B-A1B2-447A-90F8-1045D30FC917
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -637,7 +637,7 @@ TransformPartPropertyTrackData 90F4861B-A1B2-447A-90F8-1045D30FC917
 TransformPartPropertyTrackData BE5B7B95-507A-4979-B89E-C55820757CC8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -652,7 +652,7 @@ TransformPartPropertyTrackData BE5B7B95-507A-4979-B89E-C55820757CC8
 TransformPartPropertyTrackData 232860D9-D312-4453-A5B2-355AE207C1CF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 207075121
+		Id 207075121 (FlyIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

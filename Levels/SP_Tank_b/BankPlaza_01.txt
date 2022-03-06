@@ -11314,7 +11314,7 @@ SubWorldData 4858671C-47FA-4127-BE9C-3018F51DD825 #primary instance
 							member(14)::PropertyConnection
 								Source Levels/SP_Tank_b/BankPlaza01_Animation/7642308C-42A2-4DA2-90D1-97D161D47CDB
 								Target 8BB97E6B-6620-EB19-AB21-D3A354542897
-								SourceFieldId -555062537
+								SourceFieldId -555062537 (DisableTankAnimation)
 								TargetFieldId -677666125
 							member(15)::PropertyConnection
 								Source Levels/SP_Tank_b/BankPlaza01_Animation/26FD02CC-95A8-4FBF-A0C1-308426FFCCB0
@@ -11744,12 +11744,12 @@ SubWorldData 4858671C-47FA-4127-BE9C-3018F51DD825 #primary instance
 							member(100)::PropertyConnection
 								Source Levels/SP_Tank_b/BankPlaza_01_FriendlyAI_Schematic/7BB99DE9-21E3-4155-8182-5492E95934C2
 								Target Levels/SP_Tank_b/BankPlaza_01_FriendlyAI_Schematic/7051898B-87D1-47A7-9AB0-EAEF6EFF3E8D
-								SourceFieldId -976219445
+								SourceFieldId -976219445 (SP07_Venom_TakeOff_vehicleRoot)
 								TargetFieldId 193450865 (In3)
 							member(101)::PropertyConnection
 								Source Levels/SP_Tank_b/BankPlaza_01_FriendlyAI_Schematic/48E181AB-459F-45B1-B0DC-A6E4F915A72F
 								Target Levels/SP_Tank_b/BankPlaza_01_FriendlyAI_Schematic/7051898B-87D1-47A7-9AB0-EAEF6EFF3E8D
-								SourceFieldId -590900584
+								SourceFieldId -590900584 (SP07_Venom_Landing_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(102)::PropertyConnection
 								Source Levels/SP_Tank_b/BankPlaza_01_FriendlyAI_Schematic/386F23C1-2BB6-4630-846C-6B8AE33F02AE

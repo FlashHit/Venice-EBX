@@ -1027,7 +1027,7 @@ SubWorldData 3284A4F0-7414-4058-9F14-A6B1BDDE1631 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Going_Home/20D9B07F-A3B0-4CCB-BEA3-0300696483F1
 								Target 57D9E293-B5E1-2469-6850-CB93D5964EBB
-								SourceFieldId -768529386
+								SourceFieldId -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 								TargetFieldId -1114845759
 						LinkConnections *nullArray*
 					EventConnections::array

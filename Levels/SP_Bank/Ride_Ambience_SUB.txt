@@ -592,7 +592,7 @@ SubWorldData 1ECEC774-185C-4C20-81DA-7066D10E9AAF #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Bank/Ride_StreetCorner_SCM/0657E95B-32C4-4B09-9176-28F2A87FA6F2
 								Target Levels/SP_Bank/StreetCorner_LOG/84AF1768-75D8-4523-8265-997885393C56
-								SourceFieldId -506935098
+								SourceFieldId -506935098 (HummerDriveUp)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Bank/Ride_StreetCorner_SCM/46F84266-A7A6-45FA-AA14-BBB9FC233E0C
@@ -607,17 +607,17 @@ SubWorldData 1ECEC774-185C-4C20-81DA-7066D10E9AAF #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Bank/Ride_StreetCorner_SCM/912E69F1-9328-4B65-8BD9-9AC42BF04C8C
 								Target Levels/SP_Bank/StreetCorner_LOG/2D69D05F-C22D-478F-8796-1F2B1E2C9E5A
-								SourceFieldId 374525416
+								SourceFieldId 374525416 (Drive01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Bank/Ride_StreetCorner_SCM/4FC91078-455A-4B21-AE48-0F952EC0E72F
 								Target Levels/SP_Bank/StreetCorner_LOG/1238AF88-C92A-48C4-A688-E69846724C65
-								SourceFieldId 374525416
+								SourceFieldId 374525416 (Drive01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/EDBE3D7A-469E-4B6C-AAB0-045E034F698C
 								Target Levels/SP_Bank/Square_LOG/37E8FF79-F675-48CB-BD45-A3744F6C8E70
-								SourceFieldId 1978102375
+								SourceFieldId 1978102375 (TankDrive_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/D328EF6E-3A47-46F5-A9EB-F8363F020002
@@ -632,22 +632,22 @@ SubWorldData 1ECEC774-185C-4C20-81DA-7066D10E9AAF #primary instance
 							member(8)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/4A4CC615-08C8-4679-BAC5-65426E1D4780
 								Target Levels/SP_Bank/Square_LOG/1CFF94DE-BF4F-4A11-94EE-7ACFDC008554
-								SourceFieldId -1531311860
+								SourceFieldId -1531311860 (LAVDrive_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(9)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/4A4CC615-08C8-4679-BAC5-65426E1D4780
 								Target Levels/SP_Bank/Square_LOG/CB6C60F3-6348-4E7C-97C9-C62AAF484BE7
-								SourceFieldId -1531311857
+								SourceFieldId -1531311857 (LAVDrive_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(10)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/4A051CA9-9FA7-4185-A6DC-403E9FCC864F
 								Target Levels/SP_Bank/Square_LOG/9A9B9761-9027-43B4-8525-F16B3F62887F
-								SourceFieldId 374525416
+								SourceFieldId 374525416 (Drive01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(11)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/EDBE3D7A-469E-4B6C-AAB0-045E034F698C
 								Target Levels/SP_Bank/Square_LOG/09E1C66F-1B1A-4B5F-9FA3-C20E63D08D04
-								SourceFieldId 1978102372
+								SourceFieldId 1978102372 (TankDrive_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(12)::PropertyConnection
 								Source Levels/SP_Bank/Ride_Square_SCM/333CA233-FABB-4414-85D3-76C7DA59E775

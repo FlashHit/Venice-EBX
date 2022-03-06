@@ -1861,12 +1861,12 @@ LevelData 820B1ADE-9AAA-2CC0-AFDE-20B0966855A0 #primary instance
 									member(7)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/F7C4D09B-6BE9-4099-81E5-7457E37CBD29
 										Target Levels/COOP_006/General_SquadControl_Schematic/B2535300-D233-4D0C-8D87-9B2C0B037351
-										SourceFieldId 1769243028
+										SourceFieldId 1769243028 (HeliA_In)
 										TargetFieldId 193450867 (In1)
 									member(8)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/F7C4D09B-6BE9-4099-81E5-7457E37CBD29
 										Target Levels/COOP_006/General_SquadControl_Schematic/76A863CF-3CDF-4565-889A-127EF14BE89D
-										SourceFieldId -1409090963
+										SourceFieldId -1409090963 (HeliA_In_IO)
 										TargetFieldId 193450867 (In1)
 									member(9)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/B2535300-D233-4D0C-8D87-9B2C0B037351
@@ -1881,12 +1881,12 @@ LevelData 820B1ADE-9AAA-2CC0-AFDE-20B0966855A0 #primary instance
 									member(11)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/4716D602-015D-4033-BC5E-288D79810F32
 										Target Levels/COOP_006/General_SquadControl_Schematic/3DE58D7B-03AD-44D3-988F-9B4B0C0F4735
-										SourceFieldId 1769483831
+										SourceFieldId 1769483831 (HeliB_In)
 										TargetFieldId 193450867 (In1)
 									member(12)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/4716D602-015D-4033-BC5E-288D79810F32
 										Target Levels/COOP_006/General_SquadControl_Schematic/A1852F81-D676-4CAA-96A7-43A5D097C651
-										SourceFieldId -1345298834
+										SourceFieldId -1345298834 (HeliB_In_IO)
 										TargetFieldId 193450867 (In1)
 									member(13)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/A1852F81-D676-4CAA-96A7-43A5D097C651
@@ -1901,22 +1901,22 @@ LevelData 820B1ADE-9AAA-2CC0-AFDE-20B0966855A0 #primary instance
 									member(15)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/6E5CD89D-B0CA-4C5F-8AE0-4F45FC7C500B
 										Target Levels/COOP_006/General_SquadControl_Schematic/B2535300-D233-4D0C-8D87-9B2C0B037351
-										SourceFieldId -1744516323
+										SourceFieldId -1744516323 (HeliA_Out)
 										TargetFieldId 193450864 (In2)
 									member(16)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/6E5CD89D-B0CA-4C5F-8AE0-4F45FC7C500B
 										Target Levels/COOP_006/General_SquadControl_Schematic/76A863CF-3CDF-4565-889A-127EF14BE89D
-										SourceFieldId 954562692
+										SourceFieldId 954562692 (HeliA_Out_IO)
 										TargetFieldId 193450864 (In2)
 									member(17)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/A277566C-FD11-4216-B493-EB5B5CBA408F
 										Target Levels/COOP_006/General_SquadControl_Schematic/3DE58D7B-03AD-44D3-988F-9B4B0C0F4735
-										SourceFieldId -1736565538
+										SourceFieldId -1736565538 (HeliB_Out)
 										TargetFieldId 193450864 (In2)
 									member(18)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/A277566C-FD11-4216-B493-EB5B5CBA408F
 										Target Levels/COOP_006/General_SquadControl_Schematic/A1852F81-D676-4CAA-96A7-43A5D097C651
-										SourceFieldId -1080891929
+										SourceFieldId -1080891929 (HeliB_Out_IO)
 										TargetFieldId 193450864 (In2)
 									member(19)::PropertyConnection
 										Source Levels/COOP_006/General_SquadControl_Schematic/F924EAF2-D85D-49B9-9A52-E419D98E66B0

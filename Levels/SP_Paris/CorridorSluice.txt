@@ -5022,12 +5022,12 @@ SubWorldData 8E26C653-97C7-4BFE-8990-59E48DB17E88 #primary instance
 							member(4)::PropertyConnection
 								Source Levels/SP_Paris/CorridorSluice_Squad_Logic/A052447D-1022-4D3F-8FB5-0309EBF157D8
 								Target Levels/SP_Paris/CorridorSluice_Art/FE616D5D-977C-46C7-967C-1BACD3E8026A
-								SourceFieldId -127441567
+								SourceFieldId -127441567 (RightElevatorDoor)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Paris/CorridorSluice_Squad_Logic/A052447D-1022-4D3F-8FB5-0309EBF157D8
 								Target Levels/SP_Paris/CorridorSluice_Art/FEC43266-790E-45B2-ACCE-01FBAF0713A3
-								SourceFieldId 834526810
+								SourceFieldId 834526810 (LeftElevatorDoor)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Paris/CorridorSluice_Squad_Logic/2A0F11D3-158E-42A2-BE2E-F059ADBA7E6E

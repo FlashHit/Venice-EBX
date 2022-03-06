@@ -4897,7 +4897,7 @@ WeaponComponentData D5B60B09-4485-4D62-9A8A-615B21A6BB24
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381
 WheelComponentData 602927C3-B3FA-4113-A83A-985E755E3978
 	$::PartComponentData
 		$::ComponentData

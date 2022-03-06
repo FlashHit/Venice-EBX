@@ -6080,7 +6080,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/C8721753-A963-4BC8-B8EB-4A07399862F1
 							SourceEvent::EventSpec
-								Id 5862535
+								Id 5862535 (S1)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6088,7 +6088,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/0B6DAB27-1B04-44FD-A3BB-D66F70A4B6F6
 							SourceEvent::EventSpec
-								Id 5862532
+								Id 5862532 (S2)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6096,7 +6096,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/F53402FB-DE94-47F2-B3F4-B3DC48E02E4F
 							SourceEvent::EventSpec
-								Id 5862533
+								Id 5862533 (S3)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6104,7 +6104,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/16230A9F-C16F-4B67-8CC0-D2457EF05674
 							SourceEvent::EventSpec
-								Id 5862530 (RU)
+								Id 5862530 (S4)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6112,7 +6112,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/184A5C0B-A844-459E-B630-265A225560AC
 							SourceEvent::EventSpec
-								Id 5862531
+								Id 5862531 (S5)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6120,7 +6120,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_LOG/454FCDBF-240C-4341-97DD-20AD1C76EF57
 							SourceEvent::EventSpec
-								Id 5862528
+								Id 5862528 (S6)
 							TargetEvent::EventSpec
 								Id 1433789325
 							TargetType EventConnectionTargetType_Server
@@ -6144,7 +6144,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target 87FD8361-FD7E-47C2-9383-2443AC1DC1E7
 							SourceEvent::EventSpec
-								Id 1329237066
+								Id 1329237066 (Marines)
 							TargetEvent::EventSpec
 								Id -967471802
 							TargetType EventConnectionTargetType_Server
@@ -6152,7 +6152,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_INDOORFIGHT/223E059D-A125-461E-BD6A-4BF3BECF52B2
 							SourceEvent::EventSpec
-								Id 1329237066
+								Id 1329237066 (Marines)
 							TargetEvent::EventSpec
 								Id 5862146 (In)
 							TargetType EventConnectionTargetType_Server
@@ -6168,7 +6168,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_INDOORFIGHT/74D9AEE3-96FE-412D-B8E6-7F9CC49DE952
 							SourceEvent::EventSpec
-								Id 1329237066
+								Id 1329237066 (Marines)
 							TargetEvent::EventSpec
 								Id -1541066415 (SetTrue)
 							TargetType EventConnectionTargetType_Server
@@ -6296,7 +6296,7 @@ SubWorldData AD9D5D13-2888-446A-B19C-F00A992E1F96 #primary instance
 							Source Levels/SP_Bank/Bank_INDOORFIGHT/56A3FB21-7E12-440E-9964-72E726AAEE40
 							Target Levels/SP_Bank/Bank_INDOORFIGHT/A7B80293-A9E9-44B3-B040-7600EF3FD91C
 							SourceEvent::EventSpec
-								Id 5862533
+								Id 5862533 (S3)
 							TargetEvent::EventSpec
 								Id 5862146 (In)
 							TargetType EventConnectionTargetType_Server

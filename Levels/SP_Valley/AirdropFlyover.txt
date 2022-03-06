@@ -400,7 +400,7 @@ SoundEntityData 51ADB48E-5950-4DA5-B9F1-C6B2B13CBBB6
 TransformPartPropertyTrackData E3944EE5-7E12-4EC8-A5C2-A7B90F07262A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -415,7 +415,7 @@ TransformPartPropertyTrackData E3944EE5-7E12-4EC8-A5C2-A7B90F07262A
 TransformPartPropertyTrackData EE8929FF-1F7A-4832-B282-40DBFD9B6B7A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -430,7 +430,7 @@ TransformPartPropertyTrackData EE8929FF-1F7A-4832-B282-40DBFD9B6B7A
 TransformPartPropertyTrackData 6104E600-8A25-4A95-968F-3A0F6E52C00D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -445,7 +445,7 @@ TransformPartPropertyTrackData 6104E600-8A25-4A95-968F-3A0F6E52C00D
 TransformPartPropertyTrackData 74AB1D5F-7A5D-4502-9FCF-6604A244C3C9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -460,7 +460,7 @@ TransformPartPropertyTrackData 74AB1D5F-7A5D-4502-9FCF-6604A244C3C9
 TransformPartPropertyTrackData 4D69877C-5AAA-4E20-8279-C25E888DABD5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -475,7 +475,7 @@ TransformPartPropertyTrackData 4D69877C-5AAA-4E20-8279-C25E888DABD5
 TransformPartPropertyTrackData 8744FB1B-5089-47B1-8B79-EB5B5D8653B8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -822204247
+		Id -822204247 (AN22_FlyOver_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

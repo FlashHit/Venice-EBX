@@ -761,7 +761,7 @@ TransformHubEntityData 485498C7-CA6D-4CDA-A3E1-41FA35A782AB
 TransformPartPropertyTrackData FE3ADD1B-940D-4D4D-A30D-5EDC02D5FD52
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -776,7 +776,7 @@ TransformPartPropertyTrackData FE3ADD1B-940D-4D4D-A30D-5EDC02D5FD52
 TransformPartPropertyTrackData 7444A560-02DD-4C44-8955-67E44FF31856
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -791,7 +791,7 @@ TransformPartPropertyTrackData 7444A560-02DD-4C44-8955-67E44FF31856
 TransformPartPropertyTrackData 424FE4D7-026F-405D-B435-A137CCFC9E2E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -806,7 +806,7 @@ TransformPartPropertyTrackData 424FE4D7-026F-405D-B435-A137CCFC9E2E
 TransformPartPropertyTrackData 9076305A-B344-4709-A103-2C5CC96C1458
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -821,7 +821,7 @@ TransformPartPropertyTrackData 9076305A-B344-4709-A103-2C5CC96C1458
 TransformPartPropertyTrackData B0EB335B-0DFA-41F5-8183-28CBB3F82708
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -836,7 +836,7 @@ TransformPartPropertyTrackData B0EB335B-0DFA-41F5-8183-28CBB3F82708
 TransformPartPropertyTrackData 3E0A67B8-A8C3-487F-9C20-6B46354935EB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -440772812
+		Id -440772812 (OpenGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -851,7 +851,7 @@ TransformPartPropertyTrackData 3E0A67B8-A8C3-487F-9C20-6B46354935EB
 TransformPartPropertyTrackData E9F7FA00-1680-47D0-95C6-84E634F77AD2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -866,7 +866,7 @@ TransformPartPropertyTrackData E9F7FA00-1680-47D0-95C6-84E634F77AD2
 TransformPartPropertyTrackData CAC122DD-B59B-48ED-ADF4-57E8AC7E4464
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -881,7 +881,7 @@ TransformPartPropertyTrackData CAC122DD-B59B-48ED-ADF4-57E8AC7E4464
 TransformPartPropertyTrackData CE19DA48-A19D-4D8B-A54B-C382EF9FB5D5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -896,7 +896,7 @@ TransformPartPropertyTrackData CE19DA48-A19D-4D8B-A54B-C382EF9FB5D5
 TransformPartPropertyTrackData 965E2B75-84A0-4565-B176-CBD56EF16321
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -911,7 +911,7 @@ TransformPartPropertyTrackData 965E2B75-84A0-4565-B176-CBD56EF16321
 TransformPartPropertyTrackData BF73E20D-449F-4999-9F57-D4F95D9E605C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -926,7 +926,7 @@ TransformPartPropertyTrackData BF73E20D-449F-4999-9F57-D4F95D9E605C
 TransformPartPropertyTrackData 33CE448D-D50D-4745-8BFE-B18EC669F9AB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -87270378
+		Id -87270378 (CloseGateHouseDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -941,7 +941,7 @@ TransformPartPropertyTrackData 33CE448D-D50D-4745-8BFE-B18EC669F9AB
 TransformPartPropertyTrackData 0A168E75-A92A-46EC-A3D5-132581BD6EA7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -956,7 +956,7 @@ TransformPartPropertyTrackData 0A168E75-A92A-46EC-A3D5-132581BD6EA7
 TransformPartPropertyTrackData D6CFDAD1-40DA-49C0-93CE-C7C8CE3C838E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -971,7 +971,7 @@ TransformPartPropertyTrackData D6CFDAD1-40DA-49C0-93CE-C7C8CE3C838E
 TransformPartPropertyTrackData 93B30C36-844A-4272-AD99-AE39D605FE96
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -986,7 +986,7 @@ TransformPartPropertyTrackData 93B30C36-844A-4272-AD99-AE39D605FE96
 TransformPartPropertyTrackData 6CD56CCB-9872-4DC7-B80A-9E7059F621B7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1001,7 +1001,7 @@ TransformPartPropertyTrackData 6CD56CCB-9872-4DC7-B80A-9E7059F621B7
 TransformPartPropertyTrackData 8E848D65-9F30-4044-B873-FF6D74523114
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1016,7 +1016,7 @@ TransformPartPropertyTrackData 8E848D65-9F30-4044-B873-FF6D74523114
 TransformPartPropertyTrackData 756087B6-061B-4A65-8FF9-1610B36A3008
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1283802495
+		Id -1283802495 (CloseBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1031,7 +1031,7 @@ TransformPartPropertyTrackData 756087B6-061B-4A65-8FF9-1610B36A3008
 TransformPartPropertyTrackData 93532A17-A948-42D3-A07A-3B706B1707C4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1046,7 +1046,7 @@ TransformPartPropertyTrackData 93532A17-A948-42D3-A07A-3B706B1707C4
 TransformPartPropertyTrackData E47C6865-9EF9-4403-9803-42C9E920BF77
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1061,7 +1061,7 @@ TransformPartPropertyTrackData E47C6865-9EF9-4403-9803-42C9E920BF77
 TransformPartPropertyTrackData DC0AB83F-9001-40FC-B203-45B95BDBEE33
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1076,7 +1076,7 @@ TransformPartPropertyTrackData DC0AB83F-9001-40FC-B203-45B95BDBEE33
 TransformPartPropertyTrackData 49DAF5EC-6411-42A1-8E0B-E7BBF3775FEA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1091,7 +1091,7 @@ TransformPartPropertyTrackData 49DAF5EC-6411-42A1-8E0B-E7BBF3775FEA
 TransformPartPropertyTrackData 57C09ED1-2A0E-4DEB-BF83-116199A2D6FE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1106,7 +1106,7 @@ TransformPartPropertyTrackData 57C09ED1-2A0E-4DEB-BF83-116199A2D6FE
 TransformPartPropertyTrackData C20DF5D4-EF74-4817-BF42-A0164A8C3183
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1448194845
+		Id -1448194845 (OpenBioDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

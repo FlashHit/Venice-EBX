@@ -1348,7 +1348,7 @@ SubWorldData 8C4ACEFD-7DE2-4AB4-9EAD-B266055847DD #primary instance
 							member(122)::LinkConnection
 								Source Levels/SP_Earthquake/RooftopExtractionFight/D2BBBF56-E74E-498E-B82C-601887589000
 								Target 041F29CD-F57D-51B5-8116-6170E6F34BB1
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 1832374492
 							member(123)::LinkConnection
 								Source Levels/SP_Earthquake/RooftopExtractionFight/15B90235-5A69-417F-87A6-1C3E19C077DC
@@ -1388,7 +1388,7 @@ SubWorldData 8C4ACEFD-7DE2-4AB4-9EAD-B266055847DD #primary instance
 							member(130)::LinkConnection
 								Source Levels/SP_Earthquake/RooftopExtractionFight/512F8E17-0AC8-415C-A7EB-7490E272A84A
 								Target 041F29CD-F57D-51B5-8116-6170E6F34BB1
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 1832374492
 							member(131)::LinkConnection
 								Source Levels/SP_Earthquake/RooftopExtractionFight/0D09ADFC-D428-4745-8FE7-54258001DDCD

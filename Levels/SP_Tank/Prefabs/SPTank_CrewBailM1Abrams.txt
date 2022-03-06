@@ -1141,7 +1141,7 @@ SpatialPrefabBlueprint 5FF6BF3E-A770-0F72-F82F-7B610C081756 #primary instance
 						member(7)::PropertyConnection
 							Source AD78B3A8-E38C-4B9B-A389-755E5BFB73A3
 							Target C03E255B-FAF1-4444-A5FB-5EC53C1A7D7F
-							SourceFieldId -300656057
+							SourceFieldId -300656057 (HatchOpening)
 							TargetFieldId -316135201
 					LinkConnections::array
 						member(0)::LinkConnection
@@ -1467,7 +1467,7 @@ SpatialPrefabBlueprint 5FF6BF3E-A770-0F72-F82F-7B610C081756 #primary instance
 TransformPartPropertyTrackData 018606A5-45F1-4CBF-9B97-7CC3213A6E3A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1482,7 +1482,7 @@ TransformPartPropertyTrackData 018606A5-45F1-4CBF-9B97-7CC3213A6E3A
 TransformPartPropertyTrackData D90E3C1A-FB82-497E-839D-FDE70FC50FA9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1497,7 +1497,7 @@ TransformPartPropertyTrackData D90E3C1A-FB82-497E-839D-FDE70FC50FA9
 TransformPartPropertyTrackData 74B939F6-A37B-4C6F-9F48-9B34E7AA674C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1512,7 +1512,7 @@ TransformPartPropertyTrackData 74B939F6-A37B-4C6F-9F48-9B34E7AA674C
 TransformPartPropertyTrackData 08F78A1D-AE11-4705-BCC4-8590A9701789
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1527,7 +1527,7 @@ TransformPartPropertyTrackData 08F78A1D-AE11-4705-BCC4-8590A9701789
 TransformPartPropertyTrackData 20606C74-9F4C-4DA2-88CD-B05350E91CF4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1542,7 +1542,7 @@ TransformPartPropertyTrackData 20606C74-9F4C-4DA2-88CD-B05350E91CF4
 TransformPartPropertyTrackData 106BDAF7-2CCD-4205-BA22-2ED0A80FCAC7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -300656057
+		Id -300656057 (HatchOpening)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

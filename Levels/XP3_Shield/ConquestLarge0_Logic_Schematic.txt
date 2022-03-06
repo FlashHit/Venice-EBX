@@ -110,7 +110,7 @@ SequenceEntityData F479BCC3-9923-4E64-856F-70D4BB308B81
 TransformPartPropertyTrackData CA6CD972-2395-4193-B455-3B687C75F59D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -125,7 +125,7 @@ TransformPartPropertyTrackData CA6CD972-2395-4193-B455-3B687C75F59D
 TransformPartPropertyTrackData 6229DDCF-757F-41C1-9E9E-B62F9D1C1CDC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -140,7 +140,7 @@ TransformPartPropertyTrackData 6229DDCF-757F-41C1-9E9E-B62F9D1C1CDC
 TransformPartPropertyTrackData 853213A9-0636-422C-A2A9-68C4F67D7881
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -155,7 +155,7 @@ TransformPartPropertyTrackData 853213A9-0636-422C-A2A9-68C4F67D7881
 TransformPartPropertyTrackData DF3E1843-262D-45F3-979B-9F2FA99934BE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -170,7 +170,7 @@ TransformPartPropertyTrackData DF3E1843-262D-45F3-979B-9F2FA99934BE
 TransformPartPropertyTrackData 81136D74-3D59-4C71-B038-F958AEB517EE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -185,7 +185,7 @@ TransformPartPropertyTrackData 81136D74-3D59-4C71-B038-F958AEB517EE
 TransformPartPropertyTrackData E34AB648-52F7-405C-8715-2FD1DB41A4B6
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1531924778
+		Id -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

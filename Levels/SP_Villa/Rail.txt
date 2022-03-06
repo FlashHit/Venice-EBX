@@ -421,9 +421,9 @@ InterfaceDescriptorData 42D25966-D220-9880-8CAF-B9A03123958B
 		member(31)::DynamicEvent
 			Id -2137728346 (OpenGate)
 		member(32)::DynamicEvent
-			Id -1448194845
+			Id -1448194845 (OpenBioDoor)
 		member(33)::DynamicEvent
-			Id -1283802495
+			Id -1283802495 (CloseBioDoor)
 		member(34)::DynamicEvent
 			Id 1559635997 (FireStart)
 		member(35)::DynamicEvent
@@ -3964,7 +3964,7 @@ SubWorldData 7F6CB394-78C8-4C2C-BBAD-07D29DAFC440 #primary instance
 							Source Levels/SP_Villa/Rail_Logic_Schematic/8F5BB49D-0379-4011-BEBB-05BACE26725D
 							Target Levels/SP_Villa/Rail_Logic_Schematic/B9E0F052-3697-4BE5-938A-99AC0B6EAF41
 							SourceEvent::EventSpec
-								Id -1448194845
+								Id -1448194845 (OpenBioDoor)
 							TargetEvent::EventSpec
 								Id -1573253508 (Client)
 							TargetType EventConnectionTargetType_Client
@@ -3974,13 +3974,13 @@ SubWorldData 7F6CB394-78C8-4C2C-BBAD-07D29DAFC440 #primary instance
 							SourceEvent::EventSpec
 								Id 193453899 (Out)
 							TargetEvent::EventSpec
-								Id -1448194845
+								Id -1448194845 (OpenBioDoor)
 							TargetType EventConnectionTargetType_NetworkedClientAndServer
 						member(117)::EventConnection
 							Source Levels/SP_Villa/Rail_Logic_Schematic/8F5BB49D-0379-4011-BEBB-05BACE26725D
 							Target Levels/SP_Villa/Rail_Logic_Schematic/8FB0B237-BE4F-4C03-AAE4-124A1F217538
 							SourceEvent::EventSpec
-								Id -1283802495
+								Id -1283802495 (CloseBioDoor)
 							TargetEvent::EventSpec
 								Id -1573253508 (Client)
 							TargetType EventConnectionTargetType_Client
@@ -3990,7 +3990,7 @@ SubWorldData 7F6CB394-78C8-4C2C-BBAD-07D29DAFC440 #primary instance
 							SourceEvent::EventSpec
 								Id 193453899 (Out)
 							TargetEvent::EventSpec
-								Id -1283802495
+								Id -1283802495 (CloseBioDoor)
 							TargetType EventConnectionTargetType_NetworkedClientAndServer
 						member(119)::EventConnection
 							Source Levels/SP_Villa/Rail_Logic_Schematic/820F58AF-2EB5-43FD-902B-DC1562BED3E1

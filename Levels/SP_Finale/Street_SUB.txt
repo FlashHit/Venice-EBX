@@ -11510,7 +11510,7 @@ SubWorldData C3959F97-F68D-4E0E-8BC1-12E64D9BC06E #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Finale/Street_SCM/B2AC50A9-AA8A-419F-B692-5607993A08B8
 								Target Levels/SP_Finale/Street_SCM/943082FA-F25C-4844-8EDA-EB3BE880D769
-								SourceFieldId 1973660460
+								SourceFieldId 1973660460 (RunTrain)
 								TargetFieldId 193450867 (In1)
 							member(1)::PropertyConnection
 								Source Levels/SP_Finale/Street_SCM/943082FA-F25C-4844-8EDA-EB3BE880D769
@@ -11525,7 +11525,7 @@ SubWorldData C3959F97-F68D-4E0E-8BC1-12E64D9BC06E #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Finale/Street_SCM/A092D8C4-F8BF-4A99-AD75-977D6BC51E90
 								Target Levels/SP_Finale/Street_SCM/943082FA-F25C-4844-8EDA-EB3BE880D769
-								SourceFieldId 1973660460
+								SourceFieldId 1973660460 (RunTrain)
 								TargetFieldId 193450864 (In2)
 							member(4)::PropertyConnection
 								Source Levels/SP_Finale/Street_TRAFFIC/FCECB184-6351-4564-B26A-88A90B7857C9

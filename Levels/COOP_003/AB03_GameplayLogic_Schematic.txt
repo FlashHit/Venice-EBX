@@ -4833,7 +4833,7 @@ TransformBlendEntityData 65BE8BD1-F1BF-41EF-AB49-ACBFF041F06B
 TransformPartPropertyTrackData C7C5609A-812D-4266-BD88-7F08CEE8130A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4848,7 +4848,7 @@ TransformPartPropertyTrackData C7C5609A-812D-4266-BD88-7F08CEE8130A
 TransformPartPropertyTrackData 1260A4D5-668C-4200-BEB5-AD15839E57DF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4863,7 +4863,7 @@ TransformPartPropertyTrackData 1260A4D5-668C-4200-BEB5-AD15839E57DF
 TransformPartPropertyTrackData 1F1D6931-F0B8-4B09-A90E-DCBA6B0E0BF1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4878,7 +4878,7 @@ TransformPartPropertyTrackData 1F1D6931-F0B8-4B09-A90E-DCBA6B0E0BF1
 TransformPartPropertyTrackData F4C4ECD4-1724-4F93-ADA9-8869171BB679
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4893,7 +4893,7 @@ TransformPartPropertyTrackData F4C4ECD4-1724-4F93-ADA9-8869171BB679
 TransformPartPropertyTrackData 96F34AF5-C373-4A80-8D0B-2D86F527E383
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4908,7 +4908,7 @@ TransformPartPropertyTrackData 96F34AF5-C373-4A80-8D0B-2D86F527E383
 TransformPartPropertyTrackData E8C04F18-DBC3-49CF-8B19-68F274778F3F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -223076202
+		Id -223076202 (Chopper)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

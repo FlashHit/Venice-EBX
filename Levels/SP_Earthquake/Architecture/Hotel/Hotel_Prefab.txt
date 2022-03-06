@@ -169,7 +169,7 @@ SpatialPrefabBlueprint 45935366-381A-B83B-80E3-88AFE3110595 #primary instance
 						member(0)::PropertyConnection
 							Source 8C1D36B5-01D3-4B9E-8606-EBDFBCC1DE7B
 							Target 99B5F194-9C30-4240-BDB9-A20D44CDF0EB
-							SourceFieldId -2036349448
+							SourceFieldId -2036349448 (SignAnimation_Falling)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections::array
@@ -236,7 +236,7 @@ SpatialPrefabBlueprint 45935366-381A-B83B-80E3-88AFE3110595 #primary instance
 TransformPartPropertyTrackData EB63BB9B-2902-46C7-B062-A1CD9C78D915
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -251,7 +251,7 @@ TransformPartPropertyTrackData EB63BB9B-2902-46C7-B062-A1CD9C78D915
 TransformPartPropertyTrackData B65611C0-F41F-4F23-811C-20E3E90B8BFA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -266,7 +266,7 @@ TransformPartPropertyTrackData B65611C0-F41F-4F23-811C-20E3E90B8BFA
 TransformPartPropertyTrackData 493F08CD-E8C9-457D-B3B8-6ACF0516D58C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -281,7 +281,7 @@ TransformPartPropertyTrackData 493F08CD-E8C9-457D-B3B8-6ACF0516D58C
 TransformPartPropertyTrackData EC63E1A3-67C1-4B6C-A68A-F3378170742A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -296,7 +296,7 @@ TransformPartPropertyTrackData EC63E1A3-67C1-4B6C-A68A-F3378170742A
 TransformPartPropertyTrackData E5F676AF-42B5-4AA6-928F-6B853A8F39E2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -311,7 +311,7 @@ TransformPartPropertyTrackData E5F676AF-42B5-4AA6-928F-6B853A8F39E2
 TransformPartPropertyTrackData 3EEA0E48-3F92-4E7E-95E8-9E56D36EF4B4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -2036349448
+		Id -2036349448 (SignAnimation_Falling)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

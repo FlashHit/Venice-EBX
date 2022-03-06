@@ -1096,97 +1096,97 @@ SubWorldData CE2A89F0-CF57-4E20-B6FD-E8956F1CCCA0 #primary instance
 							member(56)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/BF0B1721-3225-4DC6-92F1-23B6A0671060
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(57)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/7F22CB61-74CF-4B83-AA75-4A59EA70D4B7
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(58)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/33E60266-D803-49CB-B2F0-C602B37C50C9
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(59)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/EB66FA3B-5035-4B6E-BA73-57EBC6F827D7
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(60)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/3F1141B7-5C26-45AD-B3A8-E3CE074B2058
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(61)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/274ACC85-40BF-41D3-A656-F0B0FEBF5688
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(62)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/B17DC6FD-656D-4BF8-9A65-174242FAA3F6
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(63)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/A17378BF-44B6-479F-9D38-8AF318A45E68
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(64)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/CD8FB416-0A0C-4FA9-9E92-2DCEE8C918A2
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(65)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/1F4C7E64-2F4A-4D95-A4C5-85F5E7DA5949
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(66)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/E321F14A-AAC6-4577-89CC-9AD271B96507
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(67)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/5D8B6CD7-CC70-4BA9-A697-9FF9151F464C
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(68)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/53E35AAD-8C5F-4042-9AFD-B0B71FBC77D9
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(69)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/8A432766-C39E-469F-9144-F5575862CC01
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(70)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/0B5DA22E-C5A9-41EE-AAB7-CAE6A079EC21
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(71)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/9EBDA90A-F6C5-4CEB-BB41-8B56559D6F99
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(72)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/0D7C6A6B-A619-4D8E-BE77-27D07842EFC1
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(73)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Vehicles/FB241BB7-6E82-4D57-8E6E-4F05524F07A2
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(74)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/13F9091C-0198-4041-8C1A-0A7E49DB667B
 								Target Levels/SP_Paris/Rail_Logic/0A5EA473-EFC1-4F0B-976B-E202DD515B6F
-								SourceFieldId 1588506620
+								SourceFieldId 1588506620 (WheelSpinning)
 								TargetFieldId 978756175
 							member(75)::PropertyConnection
 								Source Levels/SP_Paris/Rail_Schema/6EF8D241-EC14-44CB-A967-7C2BCEF86909

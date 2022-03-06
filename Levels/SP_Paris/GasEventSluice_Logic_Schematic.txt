@@ -1267,7 +1267,7 @@ TransformPartPropertyTrackData 266EF6F3-58EC-444E-8CC0-015DA98D915B
 TransformPartPropertyTrackData 43890A55-2EEE-4C88-A97D-FCB678D810E8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1282,7 +1282,7 @@ TransformPartPropertyTrackData 43890A55-2EEE-4C88-A97D-FCB678D810E8
 TransformPartPropertyTrackData 2C1B73B9-78AA-42D7-9CA6-D9CD77D50128
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1297,7 +1297,7 @@ TransformPartPropertyTrackData 2C1B73B9-78AA-42D7-9CA6-D9CD77D50128
 TransformPartPropertyTrackData D6B550C4-092E-48AC-8EC6-05F00DCF4954
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1312,7 +1312,7 @@ TransformPartPropertyTrackData D6B550C4-092E-48AC-8EC6-05F00DCF4954
 TransformPartPropertyTrackData 727A76D4-65D4-46F1-992D-8F5BE6B67FD4
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1327,7 +1327,7 @@ TransformPartPropertyTrackData 727A76D4-65D4-46F1-992D-8F5BE6B67FD4
 TransformPartPropertyTrackData 45D48535-8B34-4F4A-926E-81565F8E8911
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1342,7 +1342,7 @@ TransformPartPropertyTrackData 45D48535-8B34-4F4A-926E-81565F8E8911
 TransformPartPropertyTrackData 8C5BE68D-D72C-4C8A-B049-829B898FC41D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 397352506
+		Id 397352506 (close_door)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

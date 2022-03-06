@@ -3408,7 +3408,7 @@ SubWorldData 8B804C31-7A1E-4BC1-BA6C-BF4444C7DA73 #primary instance
 							member(18)::PropertyConnection
 								Source Levels/XP3_Valley/CQS0_Schematic/48B4CFFC-1033-4E23-ADDC-FCCD14E45D95
 								Target Levels/XP3_Valley/CQS0_Objects/ECAE30E7-142E-4009-BD63-A62CD7BFAD39
-								SourceFieldId 983173852
+								SourceFieldId 983173852 (Gunship_920x750_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(19)::PropertyConnection
 								Source Levels/XP3_Valley/CQS0_Objects/C5233E50-8A3D-4280-BE38-DECEFAEEBCDF

@@ -831,7 +831,7 @@ TransformPartPropertyTrackData D3F70EB3-2879-4AAD-95F5-0C3872D5ACD9
 TransformPartPropertyTrackData E951D576-A59E-4CBA-AC88-73C8C2FCB8A1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -846,7 +846,7 @@ TransformPartPropertyTrackData E951D576-A59E-4CBA-AC88-73C8C2FCB8A1
 TransformPartPropertyTrackData D6DF7D11-9F4D-43B8-9BE2-E89D99A77C12
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -861,7 +861,7 @@ TransformPartPropertyTrackData D6DF7D11-9F4D-43B8-9BE2-E89D99A77C12
 TransformPartPropertyTrackData 2CFC0936-A7FD-4D81-9B3A-0B38AAE98E49
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -876,7 +876,7 @@ TransformPartPropertyTrackData 2CFC0936-A7FD-4D81-9B3A-0B38AAE98E49
 TransformPartPropertyTrackData DB365058-3D2A-4929-940D-1F3EE65722A5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -891,7 +891,7 @@ TransformPartPropertyTrackData DB365058-3D2A-4929-940D-1F3EE65722A5
 TransformPartPropertyTrackData D0D8AE02-EAF9-428F-901F-1FECD21A7403
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -906,7 +906,7 @@ TransformPartPropertyTrackData D0D8AE02-EAF9-428F-901F-1FECD21A7403
 TransformPartPropertyTrackData 208D2FB6-F1AA-4EB8-9A2F-F28388D3DB9D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218245452
+		Id 218245452 (Left2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

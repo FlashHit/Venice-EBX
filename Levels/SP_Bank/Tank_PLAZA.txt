@@ -1836,7 +1836,7 @@ TransformPartPropertyTrackData 4A598F02-18F9-4F9B-920F-3278773A30C7
 TransformPartPropertyTrackData E34B5C72-57F3-4366-B80E-5262D65C4D2E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1851,7 +1851,7 @@ TransformPartPropertyTrackData E34B5C72-57F3-4366-B80E-5262D65C4D2E
 TransformPartPropertyTrackData 9D99986F-EB1D-4C0C-8AF8-BE3AF9074395
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1866,7 +1866,7 @@ TransformPartPropertyTrackData 9D99986F-EB1D-4C0C-8AF8-BE3AF9074395
 TransformPartPropertyTrackData 0DF25837-B0CE-4B2B-B3B4-88D2F1AE4A7F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1881,7 +1881,7 @@ TransformPartPropertyTrackData 0DF25837-B0CE-4B2B-B3B4-88D2F1AE4A7F
 TransformPartPropertyTrackData 5874F0E3-02ED-4BD1-87F8-F9FD3776151C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1896,7 +1896,7 @@ TransformPartPropertyTrackData 5874F0E3-02ED-4BD1-87F8-F9FD3776151C
 TransformPartPropertyTrackData CE8B2D16-4799-4B28-8361-5EA79E2BBF84
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1911,7 +1911,7 @@ TransformPartPropertyTrackData CE8B2D16-4799-4B28-8361-5EA79E2BBF84
 TransformPartPropertyTrackData B28303C5-54F3-4322-AAE9-07C1A8BC6D17
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1464163813
+		Id 1464163813 (Javelin_Transform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

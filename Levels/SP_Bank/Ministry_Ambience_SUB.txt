@@ -200,12 +200,12 @@ SubWorldData B1A2EE90-2CE4-46E2-A3AF-7163E952996D #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Bank/Ministry_Ambience_SCM/6BB4FB4E-EA89-434D-B2B5-5D7BE2FFCEC7
 								Target Levels/SP_Bank/Ministry_Ambience_LOG/65EAD376-DBF5-4B22-9BCE-46398EC60FC6
-								SourceFieldId -1410799897
+								SourceFieldId -1410799897 (Osprey)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Bank/Ministry_Ambience_SCM/4E96DAF9-2A48-4E07-9201-5B93C624C251
 								Target Levels/SP_Bank/Ministry_Ambience_LOG/1C8B82E3-97C4-4764-A319-F975A45F35D4
-								SourceFieldId 688243701
+								SourceFieldId 688243701 (Osprey2)
 								TargetFieldId -409930682 (BlueprintTransform)
 						LinkConnections::array
 							member(0)::LinkConnection

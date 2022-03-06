@@ -197,7 +197,7 @@ SequenceEntityData 11B7DAE0-D19E-4CE5-8D17-84F8535619E6
 TransformPartPropertyTrackData 98ADC3B6-EE8C-4E4F-8EFE-D96CAC469D74
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -212,7 +212,7 @@ TransformPartPropertyTrackData 98ADC3B6-EE8C-4E4F-8EFE-D96CAC469D74
 TransformPartPropertyTrackData A0B2E46D-76DC-4253-B79C-5560871FCB95
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -227,7 +227,7 @@ TransformPartPropertyTrackData A0B2E46D-76DC-4253-B79C-5560871FCB95
 TransformPartPropertyTrackData DBC16C34-778C-4E7F-8F7C-E7D95BFFF007
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -242,7 +242,7 @@ TransformPartPropertyTrackData DBC16C34-778C-4E7F-8F7C-E7D95BFFF007
 TransformPartPropertyTrackData C6681973-DCC4-4D95-AE64-6026DF0F5590
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -257,7 +257,7 @@ TransformPartPropertyTrackData C6681973-DCC4-4D95-AE64-6026DF0F5590
 TransformPartPropertyTrackData 9C42A4A9-E4E3-4B9B-B9CE-8F5408291E05
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -272,7 +272,7 @@ TransformPartPropertyTrackData 9C42A4A9-E4E3-4B9B-B9CE-8F5408291E05
 TransformPartPropertyTrackData 319CA6BC-8F38-4A9D-84A9-646D8AAAFF70
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1266099788
+		Id -1266099788 (Kamera)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -203,12 +203,12 @@ SubWorldData 267E1472-39B6-46FD-A7BE-FE7FE72B8064 #primary instance
 							member(26)::PropertyConnection
 								Source Levels/SP_Valley/AmbientWar_HeavyArmour/08FB5906-8E5C-44F6-AC3B-F9F3305E9B25
 								Target Levels/SP_Valley/AmbientWar_HeavyArmour/B80D3185-4487-4C95-A6AD-52C0DDE09506
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(27)::PropertyConnection
 								Source Levels/SP_Valley/AmbientWar_HeavyArmour/55CAFE40-56C3-4CEC-882A-5DFE5F75F4DC
 								Target Levels/SP_Valley/AmbientWar_HeavyArmour/A7DD8E90-5488-428D-8AAB-5206BD3FE13C
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(28)::PropertyConnection
 								Source Levels/SP_Valley/HeavyArmour/EF5BA211-47EE-4EB2-9216-8F3760EAAC8D

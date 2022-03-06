@@ -2973,7 +2973,7 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Jet/CarrierAmbientAnimations/0A7F87C3-C649-48EC-B126-1CE8DCE78F12
 								Target Levels/SP_Jet/Ambient_FX/E2690CE0-FEE3-4950-B241-CB67A16C0CFF
-								SourceFieldId -1113445378
+								SourceFieldId -1113445378 (Venom_Take_off_playerCarrier)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Jet/Sound/1DE574C7-C0A0-4A9A-A11B-D6833B679864
@@ -2983,7 +2983,7 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(2)::PropertyConnection
 								Source Levels/SP_Jet/CarrierAmbientAnimations/D66752C9-8A36-4F9C-9B8A-96595F6D3D7E
 								Target Levels/SP_Jet/Animations/8BF3B9D2-B493-4379-A3F3-80CBDA9D7FED
-								SourceFieldId 798457380
+								SourceFieldId 798457380 (FrontLeft_F18_takeOff)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Jet/CarrierAmbientAnimations/D1D94653-4C5C-4D18-B5FB-981EC19E856D
@@ -3043,12 +3043,12 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(14)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/48997A03-060F-4F09-8F79-A6D9F95F7808
 								Target Levels/SP_Jet/CarrierStart/81D207B3-FCF2-4CB1-8F24-A34CFBC53F3B
-								SourceFieldId 1322074878
+								SourceFieldId 1322074878 (TakeOffPilot_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(15)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/7F032E91-5941-4213-91C2-807B38055561
 								Target Levels/SP_Jet/CarrierStart/81D207B3-FCF2-4CB1-8F24-A34CFBC53F3B
-								SourceFieldId -768565569
+								SourceFieldId -768565569 (FlightPathPilot_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(16)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/48997A03-060F-4F09-8F79-A6D9F95F7808
@@ -3063,12 +3063,12 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(18)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/C8884583-D452-4D15-B9F0-B971916937B6
 								Target Levels/SP_Jet/CarrierStart/E4836690-FB5B-4C5D-AF7F-94E4A401DEA2
-								SourceFieldId -574691847
+								SourceFieldId -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(19)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/710F0C7A-FD9E-411A-BCCF-00FFDA385808
 								Target Levels/SP_Jet/CarrierStart/88325F7F-C2B1-43C3-9F51-8AB54A3928F8
-								SourceFieldId -1141704780
+								SourceFieldId -1141704780 (CockpitAnims)
 								TargetFieldId 193450864 (In2)
 							member(20)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/8B6E590A-05EB-4BF6-8EC4-BD391BFD5718
@@ -3108,22 +3108,22 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(27)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/BA16EF9D-0F11-432A-9F64-BD3DF3D9DDEA
 								Target Levels/SP_Jet/CarrierStart/88325F7F-C2B1-43C3-9F51-8AB54A3928F8
-								SourceFieldId 240208164
+								SourceFieldId 240208164 (CockpitLoopOpen)
 								TargetFieldId 193450867 (In1)
 							member(28)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/D37AD019-0C1C-44EB-BB2C-1C81DF757080
 								Target Levels/SP_Jet/CarrierStart/99D97D77-53F8-4770-9047-1C4ECAD6E084
-								SourceFieldId -1707828577
+								SourceFieldId -1707828577 (PlacementLoopF18)
 								TargetFieldId 193450864 (In2)
 							member(29)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/844AB00F-4C1E-4423-8876-FAB206968458
 								Target Levels/SP_Jet/CarrierStart/E4836690-FB5B-4C5D-AF7F-94E4A401DEA2
-								SourceFieldId 1775398500
+								SourceFieldId 1775398500 (FlightPathWingMan_vehicleRoot)
 								TargetFieldId 193450865 (In3)
 							member(30)::PropertyConnection
 								Source Levels/SP_Jet/CarrierStart/6FF80885-AE6E-47AB-A696-006398AAE946
 								Target Levels/SP_Jet/CarrierStart/E4836690-FB5B-4C5D-AF7F-94E4A401DEA2
-								SourceFieldId 1630838245
+								SourceFieldId 1630838245 (TakeOffWingMan_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(31)::PropertyConnection
 								Source Levels/SP_Jet/Animations/EA678E37-BC7A-4BBB-ACB1-F707D94E990F
@@ -3138,12 +3138,12 @@ SubWorldData FC80EFFE-8528-43E8-9A4A-39598E25C16D #primary instance
 							member(33)::PropertyConnection
 								Source Levels/SP_Jet/Carrier_StaffAnimations/8687F5EF-183E-4381-AC57-7664ED829C6D
 								Target Levels/SP_Jet/Animations/7090ED49-2781-495F-89C3-14BA222A2752
-								SourceFieldId -936116411
+								SourceFieldId -936116411 (AircraftTow_Anim)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(34)::PropertyConnection
 								Source Levels/SP_Jet/Carrier_StaffAnimations/8687F5EF-183E-4381-AC57-7664ED829C6D
 								Target Levels/SP_Jet/Animations/3C51F373-CF9B-4E65-8523-358D39D36B86
-								SourceFieldId -458757883
+								SourceFieldId -458757883 (PlaneDragged)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(35)::PropertyConnection
 								Source Levels/SP_Jet/Animations/86204375-512C-48CB-B537-D649F92DCCB9

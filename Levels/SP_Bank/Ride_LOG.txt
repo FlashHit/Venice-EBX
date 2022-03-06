@@ -1455,7 +1455,7 @@ ScenarioWaypointData D9F2AE43-60F4-417D-8647-8BE61198BB8E
 		$::WaypointData
 			$::DataContainer
 			UseClientsPosition False
-			SchematicsNameHash -1590439175
+			SchematicsNameHash -1590439175 (KickDoor)
 			WaypointId 208
 		BaseTask::AILocoBaseTaskData
 			PoseChangeMovingTowards AntPoseEnum_NoChange

@@ -8237,12 +8237,12 @@ LevelData ABF09525-7A7C-7985-31C2-480BED863C4F #primary instance
 									member(0)::PropertyConnection
 										Source Levels/XP2_Factory/Train/36DC0B0F-415E-4373-A92F-00F4B0ACFAFF
 										Target Levels/XP2_Factory/Backdrop/44DFC890-4649-4928-940C-ACA8AA618EF7
-										SourceFieldId 1978664878
+										SourceFieldId 1978664878 (Train_Moving)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(1)::PropertyConnection
 										Source Levels/XP2_Factory/Train/36DC0B0F-415E-4373-A92F-00F4B0ACFAFF
 										Target Levels/XP2_Factory/Backdrop/9C5428CC-9CA8-4AC1-8634-739C5F7B2F14
-										SourceFieldId -1307532445
+										SourceFieldId -1307532445 (Train_Moving_2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(2)::PropertyConnection
 										Source Levels/XP2_Factory/Sound_Schematic/DD7B3FFC-BF6D-4C9D-AE03-83C0C5BBA00E
@@ -8517,22 +8517,22 @@ LevelData ABF09525-7A7C-7985-31C2-480BED863C4F #primary instance
 									member(56)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/E81D3C1C-D2CF-4577-968E-F5ACBCB88E28
 										Target Levels/XP2_Factory/FX/42939BE9-B10C-463A-9139-52D74931ED8C
-										SourceFieldId -1741800092
+										SourceFieldId -1741800092 (Rotor_Rotation_Front)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(57)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/E81D3C1C-D2CF-4577-968E-F5ACBCB88E28
 										Target Levels/XP2_Factory/FX/3974672E-508C-485D-A518-A0BF0913F738
-										SourceFieldId -572688383
+										SourceFieldId -572688383 (Rotor_Rotation_Rear)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(58)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/573159F8-C8CE-4B8D-8E2D-4D85179BF007
 										Target Levels/XP2_Factory/FX/165F290E-81DE-4078-B9EF-0F2484DDC5ED
-										SourceFieldId -1773832752
+										SourceFieldId -1773832752 (SidePress_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(59)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/573159F8-C8CE-4B8D-8E2D-4D85179BF007
 										Target Levels/XP2_Factory/FX_Schematic/D34FAEC2-2966-441F-906A-DFD25CBCD758
-										SourceFieldId -1773832752
+										SourceFieldId -1773832752 (SidePress_Animation)
 										TargetFieldId 193450867 (In1)
 									member(60)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/D34FAEC2-2966-441F-906A-DFD25CBCD758
@@ -8542,7 +8542,7 @@ LevelData ABF09525-7A7C-7985-31C2-480BED863C4F #primary instance
 									member(61)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/573159F8-C8CE-4B8D-8E2D-4D85179BF007
 										Target Levels/XP2_Factory/FX_Schematic/50C62866-80A1-4194-9762-278586BA8F58
-										SourceFieldId -1773832752
+										SourceFieldId -1773832752 (SidePress_Animation)
 										TargetFieldId 193450867 (In1)
 									member(62)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/50C62866-80A1-4194-9762-278586BA8F58
@@ -8552,12 +8552,12 @@ LevelData ABF09525-7A7C-7985-31C2-480BED863C4F #primary instance
 									member(63)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/044A9F9E-86FB-47D1-8CF7-E604C62D68D7
 										Target Levels/XP2_Factory/FX/0291775B-B73A-47D2-BACC-3388503FB41E
-										SourceFieldId -1800422244
+										SourceFieldId -1800422244 (F18Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(64)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/044A9F9E-86FB-47D1-8CF7-E604C62D68D7
 										Target Levels/XP2_Factory/FX_Schematic/6C2C546B-0B9B-49B6-A6A8-C0DFB0713F07
-										SourceFieldId -1800422244
+										SourceFieldId -1800422244 (F18Animation)
 										TargetFieldId 193450867 (In1)
 									member(65)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/6C2C546B-0B9B-49B6-A6A8-C0DFB0713F07
@@ -8567,7 +8567,7 @@ LevelData ABF09525-7A7C-7985-31C2-480BED863C4F #primary instance
 									member(66)::PropertyConnection
 										Source Levels/XP2_Factory/FX_Schematic/189FDCE5-E77D-475A-9F95-418A5A497A8B
 										Target Levels/XP2_Factory/FX/F2822B8B-81F6-46E4-944B-5F7DDDD38AAF
-										SourceFieldId -1800422244
+										SourceFieldId -1800422244 (F18Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(67)::PropertyConnection
 										Source Levels/XP2_Factory/Sound/23EA9A95-43C9-46CC-9651-0464C6E6ECA5
@@ -26595,7 +26595,7 @@ StaticModelGroupEntityData 54510336-709E-1D5C-3364-DDE72EEFC023
 			InstanceCount 17
 			HealthStateEntityManagerId 271
 			PhysicsPartRange::IndexRange
-				First 5381 ()
+				First 5381
 				Last 5601
 			PhysicsPartCountPerInstance 13
 			NetworkIdRange::IndexRange

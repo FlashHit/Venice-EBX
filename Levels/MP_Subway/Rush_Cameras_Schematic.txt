@@ -29,7 +29,7 @@ SequenceEntityData 509BA104-A251-4662-A4EB-81B26DD26EE7
 TransformPartPropertyTrackData C9B63114-EEBD-4E86-BCF9-678DB8D2E567
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -44,7 +44,7 @@ TransformPartPropertyTrackData C9B63114-EEBD-4E86-BCF9-678DB8D2E567
 TransformPartPropertyTrackData CE5B377C-6C6D-430C-9574-556D21FE3E11
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -59,7 +59,7 @@ TransformPartPropertyTrackData CE5B377C-6C6D-430C-9574-556D21FE3E11
 TransformPartPropertyTrackData 3C4063C4-72BB-433F-93D3-F4805E40A842
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -74,7 +74,7 @@ TransformPartPropertyTrackData 3C4063C4-72BB-433F-93D3-F4805E40A842
 TransformPartPropertyTrackData 2054A6F8-E29B-4022-9BDA-6A6A33574474
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -89,7 +89,7 @@ TransformPartPropertyTrackData 2054A6F8-E29B-4022-9BDA-6A6A33574474
 TransformPartPropertyTrackData A6F78528-90E3-4069-8DF1-57856AD8FB3E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -104,7 +104,7 @@ TransformPartPropertyTrackData A6F78528-90E3-4069-8DF1-57856AD8FB3E
 TransformPartPropertyTrackData 9E988018-FF52-454F-8364-ED2857F4917A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 975295405
+		Id 975295405 (CameraTrack_01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -3286,7 +3286,7 @@ SubWorldData BEF3ED7B-B98B-4EEC-BD23-CF6A639B2310 #primary instance
 							member(7)::PropertyConnection
 								Source Levels/XP3_Shield/ConquestSmall0_Logic_Schematic/DC0CD1AD-09A4-4D11-A2D2-1EA6E6169EC9
 								Target Levels/XP3_Shield/ConquestSmall0_Logic/4C926B3D-970F-4B37-9E7B-EAE9F18DB216
-								SourceFieldId -1531924778
+								SourceFieldId -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(8)::PropertyConnection
 								Source Levels/XP3_Shield/ConquestSmall0_Logic_Schematic/71974E2B-B803-4BF2-A3D7-58246167750F

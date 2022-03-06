@@ -1553,7 +1553,7 @@ InterfaceDescriptorData A45EFA9C-8490-F35A-44DA-7213863E301F
 			member(1)::DataField
 				Value 
 				ValueRef *nullGuid*
-				Id 877271231
+				Id 877271231 (DoorTransform)
 				AccessType FieldAccessType_Target
 	InputEvents::array
 		member(0)::DynamicEvent
@@ -7252,7 +7252,7 @@ SubWorldData 06FC4FFF-8A0B-4B5B-A084-FC6F746EDE49 #primary instance
 							member(0)::PropertyConnection
 								Source A45EFA9C-8490-F35A-44DA-7213863E301F
 								Target Levels/SP_Paris/Upper_Office_Squad_Logic/F06BC98E-B4F3-47C1-9406-E744DE013516
-								SourceFieldId 877271231
+								SourceFieldId 877271231 (DoorTransform)
 								TargetFieldId -2024647575 (Transform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Paris/UpperOffice_SND/6A70311F-F6D9-4A79-90D7-8F8FEE20B2EA

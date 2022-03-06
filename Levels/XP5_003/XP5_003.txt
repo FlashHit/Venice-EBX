@@ -16481,8 +16481,8 @@ StaticModelGroupEntityData B880E9F7-53E2-F2FB-ADA2-C2E5CEF52751
 			InstanceCount 1
 			HealthStateEntityManagerId 136
 			PhysicsPartRange::IndexRange
-				First 5381 ()
-				Last 5381 ()
+				First 5381
+				Last 5381
 			PhysicsPartCountPerInstance 1
 			NetworkIdRange::IndexRange
 				First 4294967295

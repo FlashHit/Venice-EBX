@@ -18323,17 +18323,17 @@ SubWorldData 718F9A46-D8C0-4214-BBCD-D0B117C9EFD6 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkingLotSurroundingsSchema/33143960-B5EE-44E1-91D5-06D1CCA52E36
 								Target Levels/SP_Earthquake/ParkingLotSurroundingProps/890D32E2-F0CB-4B32-A326-E33B83032F89
-								SourceFieldId 173464484
+								SourceFieldId 173464484 (lamp1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkingLotSurroundingsSchema/98837297-586B-4DBD-AFEC-99DFC5210A13
 								Target Levels/SP_Earthquake/ParkingLotSurroundingProps/858FF81F-F1B9-46D6-B017-9B63F32CDB55
-								SourceFieldId 173464487
+								SourceFieldId 173464487 (lamp2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkinglotSurrounding_ART_SCM/7FAC4B8B-20F9-435B-904C-664D5C5DC3F8
 								Target Levels/SP_Earthquake/ParkingLotSurroundingProps/8B29B24E-967D-4252-B53C-188EE0E65A56
-								SourceFieldId 877271231
+								SourceFieldId 877271231 (DoorTransform)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkingLotSurroundingProps/B2137BB2-FF10-4A79-88B4-44FD38CBDBD4
@@ -18348,12 +18348,12 @@ SubWorldData 718F9A46-D8C0-4214-BBCD-D0B117C9EFD6 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkinglotSurrounding_ART_SCM/A22BC63F-F4E4-469B-B48C-89BAA29A3AD3
 								Target Levels/SP_Earthquake/ParkingLotSurroundingProps/5762F026-EF14-4F8C-AC3A-521E2A147C91
-								SourceFieldId -1684925807
+								SourceFieldId -1684925807 (Door02)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Earthquake/ParkinglotSurrounding_ART_SCM/A22BC63F-F4E4-469B-B48C-89BAA29A3AD3
 								Target Levels/SP_Earthquake/ParkingLotSurroundingProps/9F4C6F6A-EA23-4359-AFAC-08C2333281F6
-								SourceFieldId -1684925806
+								SourceFieldId -1684925806 (Door01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(7)::PropertyConnection
 								Source 190ECFB0-4F88-1673-2AB5-E431DD40A2C9

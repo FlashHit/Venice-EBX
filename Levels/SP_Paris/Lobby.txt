@@ -3018,7 +3018,7 @@ SubWorldData 736FD0DD-D712-4E55-81A5-FE8C92E0ABB1 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Paris/Lobby_AssaultEvent/37430016-B2A0-4FD2-8016-4AE418E3CA9B
 								Target Levels/SP_Paris/Lobby_Logic/AF0B0D2F-0845-41A0-9268-1F8010B481A1
-								SourceFieldId 25946414
+								SourceFieldId 25946414 (SoundLocator)
 								TargetFieldId -2024647575 (Transform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Paris/Lobby_AssaultEvent/22F60E56-885F-49B2-ADB0-BD35ED378776
@@ -3074,12 +3074,12 @@ SubWorldData 736FD0DD-D712-4E55-81A5-FE8C92E0ABB1 #primary instance
 							member(4)::LinkConnection
 								Source Levels/SP_Paris/Lobby_SquadMovement/795A0EC9-166F-4EC5-BA64-DDCDD9E59BB4
 								Target 09CAADAB-3BE4-C137-C7C4-9C6185E9A388
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 754398100
 							member(5)::LinkConnection
 								Source Levels/SP_Paris/Lobby_SquadMovement/EF7B42C5-0F77-4F73-A74A-E3F848BD901B
 								Target 09CAADAB-3BE4-C137-C7C4-9C6185E9A388
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 110844735
 							member(6)::LinkConnection
 								Source Levels/SP_Paris/Lobby_SquadMovement/F7B31817-391E-4CED-A89D-8E8BBBDBC3B8

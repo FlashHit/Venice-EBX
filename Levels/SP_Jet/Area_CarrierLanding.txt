@@ -2489,7 +2489,7 @@ SubWorldData ACA12641-82A1-4EF8-B548-9CF16BB34103 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Jet/Area_CarrierLanding_Schematics/39D98301-4E73-42AF-BAC4-9529BF3993E2
 								Target Levels/SP_Jet/Art_CarrierLanding/A3DC5065-4523-4A31-A58F-72FE9153D4C5
-								SourceFieldId -1707828577
+								SourceFieldId -1707828577 (PlacementLoopF18)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Jet/Area_CarrierLanding_Schematics/8C36F984-49D0-46EF-9D4A-EEDB45563FDA
@@ -2499,7 +2499,7 @@ SubWorldData ACA12641-82A1-4EF8-B548-9CF16BB34103 #primary instance
 							member(2)::PropertyConnection
 								Source Levels/SP_Jet/Area_CarrierLanding_Schematics/17CE9CD7-6F86-4D52-A682-EF74E3D6C195
 								Target Levels/SP_Jet/Art_CarrierLanding/C025E2DC-01D7-42B0-AFC7-966E6E7D4EE2
-								SourceFieldId -59617915
+								SourceFieldId -59617915 (CarrierCarTransform)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Jet/Area_CarrierLanding_Schematics/34F2B781-0B4C-48B1-857F-45BD7610D375

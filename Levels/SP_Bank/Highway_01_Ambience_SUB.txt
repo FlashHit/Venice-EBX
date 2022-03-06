@@ -191,12 +191,12 @@ SubWorldData 55134B6A-4243-4A6D-9278-AEDD2E51F3DB #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Bank/Highway_01_Junction_SCM/3D54F654-66AF-4771-967C-BCACFD7E4928
 								Target Levels/SP_Bank/Highway_01_Ambience_LOG/1ABC2D47-CFC6-4BBB-8CC9-56B726A6D243
-								SourceFieldId -525531561
+								SourceFieldId -525531561 (Drive_01)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Bank/Highway_01_Junction_SCM/3D54F654-66AF-4771-967C-BCACFD7E4928
 								Target Levels/SP_Bank/Highway_01_Ambience_LOG/07B3043D-054D-4631-B58D-1E85E4CF4953
-								SourceFieldId -525531564
+								SourceFieldId -525531564 (Drive_02)
 								TargetFieldId -409930682 (BlueprintTransform)
 						LinkConnections::array
 							member(0)::LinkConnection

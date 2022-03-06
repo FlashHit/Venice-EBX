@@ -51,7 +51,7 @@ SyncedBoolEntityData A1462865-3502-4EAB-9F5C-7AC4ECFF4E3F
 TransformPartPropertyTrackData D108DC52-FDFB-4533-BA1C-4CFE21DDD143
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -66,7 +66,7 @@ TransformPartPropertyTrackData D108DC52-FDFB-4533-BA1C-4CFE21DDD143
 TransformPartPropertyTrackData 538AE4E0-2715-4A44-83F6-9DFF951F51F6
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -81,7 +81,7 @@ TransformPartPropertyTrackData 538AE4E0-2715-4A44-83F6-9DFF951F51F6
 TransformPartPropertyTrackData 60B294DE-46EC-4C25-A532-CF59B12D4D75
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -96,7 +96,7 @@ TransformPartPropertyTrackData 60B294DE-46EC-4C25-A532-CF59B12D4D75
 TransformPartPropertyTrackData F737A743-9B24-42D7-A1FD-FAAA152867BB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -111,7 +111,7 @@ TransformPartPropertyTrackData F737A743-9B24-42D7-A1FD-FAAA152867BB
 TransformPartPropertyTrackData 33B246D4-6350-4C17-8A80-875E4525D942
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -126,7 +126,7 @@ TransformPartPropertyTrackData 33B246D4-6350-4C17-8A80-875E4525D942
 TransformPartPropertyTrackData 3B9EA012-78FD-440E-B994-98C4C6607BD4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

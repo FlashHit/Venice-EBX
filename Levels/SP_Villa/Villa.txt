@@ -7555,7 +7555,7 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Villa/Villa_FLANK1_Schematic/139F8906-8197-410C-B96A-82DC77EB6E93
 								Target Levels/SP_Villa/Villa_FLANK1_Schematic/0899BF30-31C9-4911-9119-59E4ED914487
-								SourceFieldId -61895174
+								SourceFieldId -61895174 (OpenGroundFloorDoor)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/SP_Villa/Villa_FLANK1_Schematic/0899BF30-31C9-4911-9119-59E4ED914487
@@ -7590,7 +7590,7 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 							member(12)::PropertyConnection
 								Source Levels/SP_Villa/Villa_HALL/D681121D-FFC4-45C3-8EC2-FFDE5BB38538
 								Target Levels/SP_Villa/Villa_HALL/B48FE78F-8A32-4D84-AA5F-FF2989C1C217
-								SourceFieldId -1116439490
+								SourceFieldId -1116439490 (KickDoorIn)
 								TargetFieldId 5862146 (In)
 							member(13)::PropertyConnection
 								Source Levels/SP_Villa/Villa_HALL/B48FE78F-8A32-4D84-AA5F-FF2989C1C217
@@ -7610,7 +7610,7 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 							member(16)::PropertyConnection
 								Source Levels/SP_Villa/Villa_GALLERY/9E5111B4-5E4D-4379-AA49-30C84ED393AF
 								Target Levels/SP_Villa/Villa_LOGIC/82E1B91E-E570-4AA6-9956-99F0519D55E1
-								SourceFieldId -326536499
+								SourceFieldId -326536499 (KickDoorOpen)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(17)::PropertyConnection
 								Source Levels/SP_Villa/Villa_GALLERY/6D6121D3-506C-4F73-B271-CCAABD286B49
@@ -7665,12 +7665,12 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 							member(27)::PropertyConnection
 								Source Levels/SP_Villa/Villa_MAINROOM/E5E664CA-48D5-43D0-88A7-CE8346AB51A4
 								Target Levels/SP_Villa/Villa_MAINROOM/C25F5784-FFF7-4734-9E4E-0C6993002A8F
-								SourceFieldId -1022390523
+								SourceFieldId -1022390523 (BlowDoor)
 								TargetFieldId 193450867 (In1)
 							member(28)::PropertyConnection
 								Source Levels/SP_Villa/Villa_MAINROOM/1BF91AD9-25DA-43DC-8F89-6F8922541AE8
 								Target Levels/SP_Villa/Villa_MAINROOM/C25F5784-FFF7-4734-9E4E-0C6993002A8F
-								SourceFieldId -1590439175
+								SourceFieldId -1590439175 (KickDoor)
 								TargetFieldId 193450870 (In4)
 							member(29)::PropertyConnection
 								Source Levels/SP_Villa/Villa_MAINROOM/C25F5784-FFF7-4734-9E4E-0C6993002A8F
@@ -8266,7 +8266,7 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 							member(113)::LinkConnection
 								Source Levels/SP_Villa/Villa_HALL/C93A0C0D-8FA2-4C53-9068-00F861E21A51
 								Target 05B02344-478B-9764-9F68-211A1756F25F
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 1003054603
 							member(114)::LinkConnection
 								Source Levels/SP_Villa/Villa_HALL/F6E06E39-224A-4689-9C3B-5F944DE22097
@@ -9052,7 +9052,7 @@ SubWorldData BEE459C1-C198-46DB-B83F-702AF20AB904 #primary instance
 								Source Levels/SP_Villa/Villa_SQUAD_Schematic/6AD067B4-1754-4741-ABC6-EF06906785A6
 								Target Levels/SP_Villa/Villa_SQUAD/89D63BA0-FE91-45AB-A161-4673538B03A2
 								SourceFieldId -1251941306 (Waypoint)
-								TargetFieldId -1590439175
+								TargetFieldId -1590439175 (KickDoor)
 							member(271)::LinkConnection
 								Source Levels/SP_Villa/Villa_SQUAD_Schematic/6AD067B4-1754-4741-ABC6-EF06906785A6
 								Target 05B02344-478B-9764-9F68-211A1756F25F

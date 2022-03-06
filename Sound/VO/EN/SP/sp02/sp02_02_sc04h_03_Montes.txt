@@ -14,7 +14,7 @@ SoundWaveAsset BCCCD47C-8AC7-0284-8744-DBDDFD680E4F #primary instance
 				ChunkSize 266088
 			member(2)::SoundDataChunk
 				ChunkId BD4FA1C2-F263-76F6-C5AE-AA34D2073F84
-				ChunkSize 177648 (U)
+				ChunkSize 177648
 			member(3)::SoundDataChunk
 				ChunkId 98957F63-EBD2-656E-2C54-4F1352E59FE4
 				ChunkSize 176356

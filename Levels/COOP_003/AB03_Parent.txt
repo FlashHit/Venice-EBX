@@ -1712,7 +1712,7 @@ SubWorldData C01A98FE-D943-4396-9796-B368C90CB43E #primary instance
 							member(2)::PropertyConnection
 								Source Levels/COOP_003/AB03_GameplayLogic_Schematic/B056F204-8C75-4A93-AD11-EDCC5CE5D5F8
 								Target Levels/COOP_003/AB03_GameplayLogic/561BF013-40FF-43DD-9B9E-3F2F3490DC4F
-								SourceFieldId -223076202
+								SourceFieldId -223076202 (Chopper)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(3)::PropertyConnection
 								Source Levels/COOP_003/AB03_GameplayLogic_Schematic/3C5F09C0-DEE2-47E9-9096-4571E56B8FAD

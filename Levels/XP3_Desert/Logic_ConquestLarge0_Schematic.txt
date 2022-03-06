@@ -170,7 +170,7 @@ SequenceEntityData A218C315-487A-4231-9E42-76718313CB4B
 TransformPartPropertyTrackData 32ED8C8D-0D57-42F9-82B4-3E90B42039ED
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -185,7 +185,7 @@ TransformPartPropertyTrackData 32ED8C8D-0D57-42F9-82B4-3E90B42039ED
 TransformPartPropertyTrackData CC2D202D-E635-4CAE-8B5F-4C20E1434CDE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -200,7 +200,7 @@ TransformPartPropertyTrackData CC2D202D-E635-4CAE-8B5F-4C20E1434CDE
 TransformPartPropertyTrackData 707F9B42-2172-4E54-A220-2A19F998E0A5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -215,7 +215,7 @@ TransformPartPropertyTrackData 707F9B42-2172-4E54-A220-2A19F998E0A5
 TransformPartPropertyTrackData 6944D098-B5D6-47AE-B953-5FF514AF8FBF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -230,7 +230,7 @@ TransformPartPropertyTrackData 6944D098-B5D6-47AE-B953-5FF514AF8FBF
 TransformPartPropertyTrackData 60CE0483-63B2-41BE-BD0B-D43248B0576D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -245,7 +245,7 @@ TransformPartPropertyTrackData 60CE0483-63B2-41BE-BD0B-D43248B0576D
 TransformPartPropertyTrackData 242E766C-2B86-4982-8A3E-4D0BA2AF9A20
 	$::PropertyTrackData
 		$::DataContainer
-		Id 880930866
+		Id 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

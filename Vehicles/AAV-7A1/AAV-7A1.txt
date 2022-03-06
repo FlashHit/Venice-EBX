@@ -11026,7 +11026,7 @@ WeaponComponentData A8C42586-39D2-4CBA-9B4F-3CCE6959C223
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381
 WheelConfigData 002C13BD-209E-4CBE-999D-A738F4CFF8BB
 	$::DataContainer
 	Offset::Vec3

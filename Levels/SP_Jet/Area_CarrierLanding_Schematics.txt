@@ -465,7 +465,7 @@ SoundEntityData 869A3BC4-97AB-4A5E-BD64-2645FCDCB0A3
 TransformPartPropertyTrackData 248011F7-1625-49AF-AA65-5CB439833006
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -480,7 +480,7 @@ TransformPartPropertyTrackData 248011F7-1625-49AF-AA65-5CB439833006
 TransformPartPropertyTrackData 91B63141-F04E-439A-8649-797FA605EA1B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -495,7 +495,7 @@ TransformPartPropertyTrackData 91B63141-F04E-439A-8649-797FA605EA1B
 TransformPartPropertyTrackData DE4BE3B8-2ED6-43C8-986E-745059408804
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -510,7 +510,7 @@ TransformPartPropertyTrackData DE4BE3B8-2ED6-43C8-986E-745059408804
 TransformPartPropertyTrackData 2FFF0284-EF1B-4199-83A0-326CDFB844AA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -525,7 +525,7 @@ TransformPartPropertyTrackData 2FFF0284-EF1B-4199-83A0-326CDFB844AA
 TransformPartPropertyTrackData 4DE7841E-F010-43C6-B15B-6DFC146BE5B3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -540,7 +540,7 @@ TransformPartPropertyTrackData 4DE7841E-F010-43C6-B15B-6DFC146BE5B3
 TransformPartPropertyTrackData 6D0DAC39-1566-4929-A63F-2EC3A6234207
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1707828577
+		Id -1707828577 (PlacementLoopF18)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -645,7 +645,7 @@ TransformPartPropertyTrackData F6D45383-F0F3-407D-BCD5-BA53B28909C5
 TransformPartPropertyTrackData 8A48A2E4-E6FD-433B-AADD-E2004536E674
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -660,7 +660,7 @@ TransformPartPropertyTrackData 8A48A2E4-E6FD-433B-AADD-E2004536E674
 TransformPartPropertyTrackData C4AB991E-D40B-49B0-82A1-2453BA7B2831
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -675,7 +675,7 @@ TransformPartPropertyTrackData C4AB991E-D40B-49B0-82A1-2453BA7B2831
 TransformPartPropertyTrackData A45AFAE0-9D58-4D3C-9B4E-5770EE3B1904
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -690,7 +690,7 @@ TransformPartPropertyTrackData A45AFAE0-9D58-4D3C-9B4E-5770EE3B1904
 TransformPartPropertyTrackData 9729CEB5-EBD8-49D4-920C-F2AEFF12FB0D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -705,7 +705,7 @@ TransformPartPropertyTrackData 9729CEB5-EBD8-49D4-920C-F2AEFF12FB0D
 TransformPartPropertyTrackData F16274F9-26EA-4665-B5CD-A96CBBA84A8D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -720,7 +720,7 @@ TransformPartPropertyTrackData F16274F9-26EA-4665-B5CD-A96CBBA84A8D
 TransformPartPropertyTrackData FE1CAF47-8F18-44CD-A5B1-21207A30002C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -59617915
+		Id -59617915 (CarrierCarTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

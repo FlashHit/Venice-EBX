@@ -158,7 +158,7 @@ SpatialPrefabBlueprint C59203E6-8F28-2251-3150-609C81BF1E04 #primary instance
 						member(0)::PropertyConnection
 							Source ACC12D59-E79A-4238-BB87-4104C5A75E23
 							Target E69AC655-B1F3-41F0-9D20-90282AC534C1
-							SourceFieldId 2088194848
+							SourceFieldId 2088194848 (wave)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections *nullArray*
@@ -176,7 +176,7 @@ SpatialPrefabBlueprint C59203E6-8F28-2251-3150-609C81BF1E04 #primary instance
 TransformPartPropertyTrackData B7F9F8CF-EC85-4D4F-AEB1-7F2B7314B244
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -191,7 +191,7 @@ TransformPartPropertyTrackData B7F9F8CF-EC85-4D4F-AEB1-7F2B7314B244
 TransformPartPropertyTrackData DCCDE453-5EE0-4ED3-9C61-127259C38B67
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -206,7 +206,7 @@ TransformPartPropertyTrackData DCCDE453-5EE0-4ED3-9C61-127259C38B67
 TransformPartPropertyTrackData B5B5AF83-B097-474C-AE13-72A2813A5036
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -221,7 +221,7 @@ TransformPartPropertyTrackData B5B5AF83-B097-474C-AE13-72A2813A5036
 TransformPartPropertyTrackData 0EE56F8C-F7E4-4C9D-8C9E-A9F49F556D14
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -236,7 +236,7 @@ TransformPartPropertyTrackData 0EE56F8C-F7E4-4C9D-8C9E-A9F49F556D14
 TransformPartPropertyTrackData 41715289-C83C-4C3D-B127-FCD0632A63C9
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -251,7 +251,7 @@ TransformPartPropertyTrackData 41715289-C83C-4C3D-B127-FCD0632A63C9
 TransformPartPropertyTrackData 36CC2376-56F8-4845-8DDE-2F9AB756EEFE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2088194848
+		Id 2088194848 (wave)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

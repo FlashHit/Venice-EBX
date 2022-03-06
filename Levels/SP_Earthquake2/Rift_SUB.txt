@@ -8769,7 +8769,7 @@ SubWorldData 1AFC4E4F-D39E-450F-9D18-7CDD7CC22CC3 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake2/Rift_SCM/47F7162A-C483-461C-9939-A4F59DC22EEC
 								Target Levels/SP_Earthquake2/Rift_LOG/B612C1DE-BE43-47CF-9802-3F2FB1473BEF
-								SourceFieldId 207064906
+								SourceFieldId 207064906 (AKaim)
 								TargetFieldId -2024647575 (Transform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/Rift_SND/C1C6CCA8-21EE-4397-9CBB-D540C1F7B47D

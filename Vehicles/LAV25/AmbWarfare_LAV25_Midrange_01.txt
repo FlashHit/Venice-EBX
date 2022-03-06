@@ -321,9 +321,9 @@ InterfaceDescriptorData 51395D61-7B9D-4525-B0F8-DEED2B1513D5
 		member(1)::DynamicEvent
 			Id -1083150591
 		member(2)::DynamicEvent
-			Id 571224958
+			Id 571224958 (RotateTurret_90_Left)
 		member(3)::DynamicEvent
-			Id 1691890501
+			Id 1691890501 (RotateTurret_90_Right)
 		member(4)::DynamicEvent
 			Id 1389707149
 		member(5)::DynamicEvent
@@ -517,17 +517,17 @@ SpatialPrefabBlueprint BB964F41-FE38-5CB0-A7DE-4F3214FA0C3C #primary instance
 						member(0)::PropertyConnection
 							Source 5AB4D890-11B7-4CD5-B2D3-4451D4321A6C
 							Target 7405B637-6465-4453-B59B-4A46C5EC6F85
-							SourceFieldId 571224958
+							SourceFieldId 571224958 (RotateTurret_90_Left)
 							TargetFieldId 193450867 (In1)
 						member(1)::PropertyConnection
 							Source 5E79F4F1-A803-4482-B404-B0FB6D360F2F
 							Target 7405B637-6465-4453-B59B-4A46C5EC6F85
-							SourceFieldId 1691890501
+							SourceFieldId 1691890501 (RotateTurret_90_Right)
 							TargetFieldId 193450864 (In2)
 						member(2)::PropertyConnection
 							Source FD6B67D2-6F37-411C-A5F2-891D8A67C28B
 							Target 0565341C-CAC7-4B1A-A19F-C38653FFCCEC
-							SourceFieldId 1178015212
+							SourceFieldId 1178015212 (Turret_Movment)
 							TargetFieldId 193450864 (In2)
 						member(3)::PropertyConnection
 							Source 7405B637-6465-4453-B59B-4A46C5EC6F85
@@ -558,7 +558,7 @@ SpatialPrefabBlueprint BB964F41-FE38-5CB0-A7DE-4F3214FA0C3C #primary instance
 						Source 51395D61-7B9D-4525-B0F8-DEED2B1513D5
 						Target 5AB4D890-11B7-4CD5-B2D3-4451D4321A6C
 						SourceEvent::EventSpec
-							Id 571224958
+							Id 571224958 (RotateTurret_90_Left)
 						TargetEvent::EventSpec
 							Id 230748069 (Start)
 						TargetType EventConnectionTargetType_Client
@@ -566,7 +566,7 @@ SpatialPrefabBlueprint BB964F41-FE38-5CB0-A7DE-4F3214FA0C3C #primary instance
 						Source 51395D61-7B9D-4525-B0F8-DEED2B1513D5
 						Target 5E79F4F1-A803-4482-B404-B0FB6D360F2F
 						SourceEvent::EventSpec
-							Id 1691890501
+							Id 1691890501 (RotateTurret_90_Right)
 						TargetEvent::EventSpec
 							Id 230748069 (Start)
 						TargetType EventConnectionTargetType_Client
@@ -1060,7 +1060,7 @@ TransformMultiplierEntityData 0565341C-CAC7-4B1A-A19F-C38653FFCCEC
 TransformPartPropertyTrackData 4EA18E4A-589A-4BC7-A09F-A7BB3C6F829E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1075,7 +1075,7 @@ TransformPartPropertyTrackData 4EA18E4A-589A-4BC7-A09F-A7BB3C6F829E
 TransformPartPropertyTrackData D48A1CDA-A761-4BBB-AAFD-C828CA3E634F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1090,7 +1090,7 @@ TransformPartPropertyTrackData D48A1CDA-A761-4BBB-AAFD-C828CA3E634F
 TransformPartPropertyTrackData 84CC9A17-9BD2-42C7-AC91-2BE2EAFAF6C2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1105,7 +1105,7 @@ TransformPartPropertyTrackData 84CC9A17-9BD2-42C7-AC91-2BE2EAFAF6C2
 TransformPartPropertyTrackData 332194D8-D49A-4100-BCF5-9D4FA39D2F27
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1120,7 +1120,7 @@ TransformPartPropertyTrackData 332194D8-D49A-4100-BCF5-9D4FA39D2F27
 TransformPartPropertyTrackData 060411F4-0A2F-4E1C-9B31-F02C14E65DC9
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1135,7 +1135,7 @@ TransformPartPropertyTrackData 060411F4-0A2F-4E1C-9B31-F02C14E65DC9
 TransformPartPropertyTrackData DDD674C3-BA8E-407E-A52E-613666B5C9E8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 571224958
+		Id 571224958 (RotateTurret_90_Left)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1150,7 +1150,7 @@ TransformPartPropertyTrackData DDD674C3-BA8E-407E-A52E-613666B5C9E8
 TransformPartPropertyTrackData 9BD3E0F7-5490-4E14-A9D8-FF389A1A64FA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1165,7 +1165,7 @@ TransformPartPropertyTrackData 9BD3E0F7-5490-4E14-A9D8-FF389A1A64FA
 TransformPartPropertyTrackData 6DB58917-0656-4543-8E92-614DB2993EA8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1180,7 +1180,7 @@ TransformPartPropertyTrackData 6DB58917-0656-4543-8E92-614DB2993EA8
 TransformPartPropertyTrackData EC9D5BA1-9D8D-42C4-967E-7D5541A55754
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1195,7 +1195,7 @@ TransformPartPropertyTrackData EC9D5BA1-9D8D-42C4-967E-7D5541A55754
 TransformPartPropertyTrackData 27AF4415-A7F3-4EA4-B98B-2E448251D97C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1210,7 +1210,7 @@ TransformPartPropertyTrackData 27AF4415-A7F3-4EA4-B98B-2E448251D97C
 TransformPartPropertyTrackData 601C59EE-9043-4309-A201-5BE6762CCE09
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1225,7 +1225,7 @@ TransformPartPropertyTrackData 601C59EE-9043-4309-A201-5BE6762CCE09
 TransformPartPropertyTrackData 416426FF-14F0-4F01-B850-5E2ED8348049
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1691890501
+		Id 1691890501 (RotateTurret_90_Right)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1240,7 +1240,7 @@ TransformPartPropertyTrackData 416426FF-14F0-4F01-B850-5E2ED8348049
 TransformPartPropertyTrackData 81AE77CA-F29E-4A8F-8197-56693B14CCFB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1255,7 +1255,7 @@ TransformPartPropertyTrackData 81AE77CA-F29E-4A8F-8197-56693B14CCFB
 TransformPartPropertyTrackData 71C76931-3529-48E0-A090-1FC9D0D72AF7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1270,7 +1270,7 @@ TransformPartPropertyTrackData 71C76931-3529-48E0-A090-1FC9D0D72AF7
 TransformPartPropertyTrackData AEB8318D-936A-4AE8-BC70-41349FB001C0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1285,7 +1285,7 @@ TransformPartPropertyTrackData AEB8318D-936A-4AE8-BC70-41349FB001C0
 TransformPartPropertyTrackData 29FC98E6-DF40-44FB-8CC2-22371FB4CB12
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1300,7 +1300,7 @@ TransformPartPropertyTrackData 29FC98E6-DF40-44FB-8CC2-22371FB4CB12
 TransformPartPropertyTrackData 6661B7E1-ED1A-4602-8749-ADABEBF67068
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1315,7 +1315,7 @@ TransformPartPropertyTrackData 6661B7E1-ED1A-4602-8749-ADABEBF67068
 TransformPartPropertyTrackData 0C17BA0D-4C19-43D6-91D7-EDCEA50644F5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1178015212
+		Id 1178015212 (Turret_Movment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -1392,7 +1392,7 @@ SubWorldData 1DECC86F-A66F-4057-AE2C-5788C77B1700 #primary instance
 							member(4)::PropertyConnection
 								Source Levels/SP_Sniper/MallDefence_WAVE4/8A4BB293-2478-4E46-A4E3-B4628F18BEFF
 								Target Levels/SP_Sniper/MallDefence_WAVE4/C43BFADC-29AB-4FBE-8D3E-4150D6E8998F
-								SourceFieldId -1306260342
+								SourceFieldId -1306260342 (OspreyPath)
 								TargetFieldId 193450867 (In1)
 							member(5)::PropertyConnection
 								Source Levels/SP_Sniper/MallDefence_WAVE4/C43BFADC-29AB-4FBE-8D3E-4150D6E8998F
@@ -1402,7 +1402,7 @@ SubWorldData 1DECC86F-A66F-4057-AE2C-5788C77B1700 #primary instance
 							member(6)::PropertyConnection
 								Source Levels/SP_Sniper/MallDefence_WAVE4/87A3DBE0-B155-449A-9D2F-07C744984AFE
 								Target Levels/SP_Sniper/MallDefence_WAVE4/C43BFADC-29AB-4FBE-8D3E-4150D6E8998F
-								SourceFieldId 77929267
+								SourceFieldId 77929267 (OspreyTakeOff)
 								TargetFieldId 193450864 (In2)
 							member(7)::PropertyConnection
 								Source Levels/SP_Sniper/MallDefence_LOGIC_WAVE5/2F0D2D2C-CC1F-4FF8-82A7-BBD002A18AFB

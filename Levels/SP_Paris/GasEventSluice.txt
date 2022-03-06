@@ -6563,7 +6563,7 @@ SubWorldData D4BC4DDA-B972-41C4-9233-15C7354D1883 #primary instance
 							member(12)::PropertyConnection
 								Source Levels/SP_Paris/GasEventSluice_Logic_Schematic/112627F1-7780-41DD-AF62-4D9CE53D4BB7
 								Target Levels/SP_Paris/GasEventSluice_Logic/77285B76-1265-477B-8F76-9F7AD792ACCB
-								SourceFieldId 397352506
+								SourceFieldId 397352506 (close_door)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(13)::PropertyConnection
 								Source Levels/SP_Paris/GasEventSluice_Squad/2EB37E2B-D027-4AB0-91C6-A6BB75ECC50C

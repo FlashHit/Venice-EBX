@@ -931,7 +931,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(77)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/7721A4DA-685F-4EB9-A7E4-0B2DA1FB770B
 										Target Levels/COOP_010/General_Connecting_Gameplay/DFC0F43C-F1A8-4678-9EA7-25B5A5158269
-										SourceFieldId 2047472411
+										SourceFieldId 2047472411 (Buff1_Door1)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(78)::PropertyConnection
 										Source 108EF0F4-C49D-92CF-293A-8DA278C71A93
@@ -941,7 +941,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(79)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/2C214B02-5A2F-423C-A97B-F974D332CD9E
 										Target Levels/COOP_010/General_Connecting_Gameplay/DB16C1C0-9DD5-44C5-877B-A7F33BEB56A1
-										SourceFieldId 887982025
+										SourceFieldId 887982025 (Door_Buff2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(80)::PropertyConnection
 										Source 108EF0F4-C49D-92CF-293A-8DA278C71A93
@@ -976,7 +976,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(86)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/8EB6FD24-668E-4F05-B013-EFE2C7A2B09D
 										Target Levels/COOP_010/General_Connecting_Gameplay/1ED22473-63F2-4466-B6C4-8817D7741FF0
-										SourceFieldId -240171623
+										SourceFieldId -240171623 (Sub_Out_Door)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(87)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3DDE78D8-0924-4F09-906D-38B870BE64A5
@@ -986,7 +986,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(88)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/24360343-10C1-4CF7-B6D4-6B77FE9687A2
 										Target Levels/COOP_010/General_Connecting_Gameplay/5D3E082C-F5DA-4CF4-A799-E6C56D44BC56
-										SourceFieldId -933888637
+										SourceFieldId -933888637 (Door_VIP)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(89)::PropertyConnection
 										Source 108EF0F4-C49D-92CF-293A-8DA278C71A93
@@ -1016,22 +1016,22 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(94)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/EF5039DA-7A3A-4BF5-BCA7-3295987895D0
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/68AED037-B572-402D-B73F-5BAEC416D12A
-										SourceFieldId 887982025
+										SourceFieldId 887982025 (Door_Buff2)
 										TargetFieldId 193450867 (In1)
 									member(95)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3D954F9F-4A8F-4D10-B5A6-13B70A7F434D
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/68AED037-B572-402D-B73F-5BAEC416D12A
-										SourceFieldId 887982025
+										SourceFieldId 887982025 (Door_Buff2)
 										TargetFieldId 193450864 (In2)
 									member(96)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/45D0F30F-A98D-4E11-A149-8A663EEE4D67
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/6043C8A2-7471-4621-8F29-646063364B4C
-										SourceFieldId -1470522151
+										SourceFieldId -1470522151 (Door_Left_1)
 										TargetFieldId 193450867 (In1)
 									member(97)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/45D0F30F-A98D-4E11-A149-8A663EEE4D67
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/528B3994-152C-4CEE-BDB1-61D4DE5D6B83
-										SourceFieldId -1470522150
+										SourceFieldId -1470522150 (Door_Left_2)
 										TargetFieldId 193450867 (In1)
 									member(98)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/6043C8A2-7471-4621-8F29-646063364B4C
@@ -1046,32 +1046,32 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(100)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/86852D51-C476-424C-8712-D7D4BCE27132
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/6043C8A2-7471-4621-8F29-646063364B4C
-										SourceFieldId -1470522151
+										SourceFieldId -1470522151 (Door_Left_1)
 										TargetFieldId 193450864 (In2)
 									member(101)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/86852D51-C476-424C-8712-D7D4BCE27132
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/528B3994-152C-4CEE-BDB1-61D4DE5D6B83
-										SourceFieldId -1470522150
+										SourceFieldId -1470522150 (Door_Left_2)
 										TargetFieldId 193450864 (In2)
 									member(102)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/584ED19F-A1FC-4FE0-8B55-A0CCB555B37A
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/7A284515-8028-4857-AD10-5A6F929AB490
-										SourceFieldId -957212862
+										SourceFieldId -957212862 (Door_Right_1)
 										TargetFieldId 193450867 (In1)
 									member(103)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/584ED19F-A1FC-4FE0-8B55-A0CCB555B37A
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/A343D286-F4E4-4E91-B844-EE66518EC447
-										SourceFieldId -957212863
+										SourceFieldId -957212863 (Door_Right_2)
 										TargetFieldId 193450867 (In1)
 									member(104)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3A6AFE30-7B54-4FD9-8337-03DFD1323E0B
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/7A284515-8028-4857-AD10-5A6F929AB490
-										SourceFieldId -957212862
+										SourceFieldId -957212862 (Door_Right_1)
 										TargetFieldId 193450864 (In2)
 									member(105)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3A6AFE30-7B54-4FD9-8337-03DFD1323E0B
 										Target Levels/COOP_010/General_Connecting_Gameplay_Schematic/A343D286-F4E4-4E91-B844-EE66518EC447
-										SourceFieldId -957212863
+										SourceFieldId -957212863 (Door_Right_2)
 										TargetFieldId 193450864 (In2)
 									member(106)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/7A284515-8028-4857-AD10-5A6F929AB490
@@ -1096,22 +1096,22 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									member(110)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3E7EFBFA-C57E-44EC-BAE3-3DBC6D40A273
 										Target Levels/COOP_010/General_Connecting_Gameplay/B5E760DA-152C-4EBC-9419-D48B05E67CAF
-										SourceFieldId -957212862
+										SourceFieldId -957212862 (Door_Right_1)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(111)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/3E7EFBFA-C57E-44EC-BAE3-3DBC6D40A273
 										Target Levels/COOP_010/General_Connecting_Gameplay/F3C0287F-573B-4CCA-B335-C684D4BC1FE8
-										SourceFieldId -957212863
+										SourceFieldId -957212863 (Door_Right_2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(112)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/C93E25ED-7038-429E-A450-F2C0CE301E2F
 										Target Levels/COOP_010/General_Connecting_Gameplay/AB3BE8A0-6A73-4A82-A1C4-056F6F287568
-										SourceFieldId -1470522151
+										SourceFieldId -1470522151 (Door_Left_1)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(113)::PropertyConnection
 										Source Levels/COOP_010/General_Connecting_Gameplay_Schematic/C93E25ED-7038-429E-A450-F2C0CE301E2F
 										Target Levels/COOP_010/General_Connecting_Gameplay/BB470AB4-2180-4789-A2AE-D8306992F35B
-										SourceFieldId -1470522150
+										SourceFieldId -1470522150 (Door_Left_2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(114)::PropertyConnection
 										Source 108EF0F4-C49D-92CF-293A-8DA278C71A93
@@ -6672,7 +6672,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/56A8301A-A7EF-4B6E-B9B7-4F962A946D4F
 									SourceEvent::EventSpec
-										Id 5859406
+										Id 5859406 (29)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6680,7 +6680,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/59C9F916-AFD5-444B-AC0A-C6CB7C04772C
 									SourceEvent::EventSpec
-										Id 5859406
+										Id 5859406 (29)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6688,7 +6688,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/59C9F916-AFD5-444B-AC0A-C6CB7C04772C
 									SourceEvent::EventSpec
-										Id 5859407
+										Id 5859407 (28)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6696,7 +6696,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/A2AE759B-F7FB-4D10-9F3D-C38661546369
 									SourceEvent::EventSpec
-										Id 5859407
+										Id 5859407 (28)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6720,7 +6720,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/7280BD25-88B4-42DC-A4CC-5623F8880B86
 									SourceEvent::EventSpec
-										Id 5859393
+										Id 5859393 (26)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6728,7 +6728,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/0D58727D-F489-4FE4-B6A7-102C560E20E5
 									SourceEvent::EventSpec
-										Id 5859393
+										Id 5859393 (26)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6752,7 +6752,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/2E073D0D-4924-4AC7-8889-2A95D0B3260C
 									SourceEvent::EventSpec
-										Id 5859395
+										Id 5859395 (24)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6760,7 +6760,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/88A084D1-B885-47D1-B1E8-65100DFD52A3
 									SourceEvent::EventSpec
-										Id 5859395
+										Id 5859395 (24)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6784,7 +6784,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/C51D2688-84D5-4D42-8A7A-6E5237494032
 									SourceEvent::EventSpec
-										Id 5859397
+										Id 5859397 (22)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6792,7 +6792,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/5E10B5A0-3FBB-4387-8422-7D3383553F02
 									SourceEvent::EventSpec
-										Id 5859397
+										Id 5859397 (22)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6800,7 +6800,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/5E10B5A0-3FBB-4387-8422-7D3383553F02
 									SourceEvent::EventSpec
-										Id 5859398
+										Id 5859398 (21)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6808,7 +6808,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/47577BCC-2D08-4D1C-9D7B-3DA09E24AD1A
 									SourceEvent::EventSpec
-										Id 5859398
+										Id 5859398 (21)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6832,7 +6832,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/9BCD8183-99B5-49FB-AAAE-4D70277368B6
 									SourceEvent::EventSpec
-										Id 5859373
+										Id 5859373 (19)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -6840,7 +6840,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/18B8E822-DB44-4ABD-9308-6FB1DCF7ADF9
 									SourceEvent::EventSpec
-										Id 5859373
+										Id 5859373 (19)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7208,7 +7208,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/834DE9E8-6EC1-4099-817A-9F9A3E1E8762
 									SourceEvent::EventSpec
-										Id 5859430
+										Id 5859430 (30)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7216,7 +7216,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/56A8301A-A7EF-4B6E-B9B7-4F962A946D4F
 									SourceEvent::EventSpec
-										Id 5859430
+										Id 5859430 (30)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7224,7 +7224,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/DE04AD6D-1075-4793-9B45-F29F14ECC527
 									SourceEvent::EventSpec
-										Id 5859431
+										Id 5859431 (31)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7232,7 +7232,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/834DE9E8-6EC1-4099-817A-9F9A3E1E8762
 									SourceEvent::EventSpec
-										Id 5859431
+										Id 5859431 (31)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7256,7 +7256,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/A34B5676-7C2D-4B70-ABAD-DDF02F0A7791
 									SourceEvent::EventSpec
-										Id 5859429
+										Id 5859429 (33)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7264,7 +7264,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E4E5865C-4CE4-431F-BCDE-62A07B3E289D
 									SourceEvent::EventSpec
-										Id 5859429
+										Id 5859429 (33)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7272,7 +7272,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F2900060-FBE6-4CAE-9C4E-54C6FC099A8B
 									SourceEvent::EventSpec
-										Id 5859426
+										Id 5859426 (34)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7280,7 +7280,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/A34B5676-7C2D-4B70-ABAD-DDF02F0A7791
 									SourceEvent::EventSpec
-										Id 5859426
+										Id 5859426 (34)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7288,7 +7288,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E3BA1F9A-1417-4726-B1F5-3F3FB5590B0A
 									SourceEvent::EventSpec
-										Id 5859427
+										Id 5859427 (35)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7296,7 +7296,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F2900060-FBE6-4CAE-9C4E-54C6FC099A8B
 									SourceEvent::EventSpec
-										Id 5859427
+										Id 5859427 (35)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7304,7 +7304,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/FB59B57F-A53F-40EF-A3FC-148012ED5355
 									SourceEvent::EventSpec
-										Id 5859424
+										Id 5859424 (36)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7312,7 +7312,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E3BA1F9A-1417-4726-B1F5-3F3FB5590B0A
 									SourceEvent::EventSpec
-										Id 5859424
+										Id 5859424 (36)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7320,7 +7320,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/3F9F2057-637F-4C81-9D98-A6AACD5245BF
 									SourceEvent::EventSpec
-										Id 5859425
+										Id 5859425 (37)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7328,7 +7328,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/FB59B57F-A53F-40EF-A3FC-148012ED5355
 									SourceEvent::EventSpec
-										Id 5859425
+										Id 5859425 (37)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7336,7 +7336,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F34E06A9-DD0C-412B-B53E-9AE12865D4B1
 									SourceEvent::EventSpec
-										Id 5859438
+										Id 5859438 (38)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7344,7 +7344,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/3F9F2057-637F-4C81-9D98-A6AACD5245BF
 									SourceEvent::EventSpec
-										Id 5859438
+										Id 5859438 (38)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7352,7 +7352,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/BF77B548-D167-43FB-A0C7-0B974404C9BF
 									SourceEvent::EventSpec
-										Id 5859439
+										Id 5859439 (39)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7360,7 +7360,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F34E06A9-DD0C-412B-B53E-9AE12865D4B1
 									SourceEvent::EventSpec
-										Id 5859439
+										Id 5859439 (39)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7384,7 +7384,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/3729BE29-E265-415B-B089-B2505087EB00
 									SourceEvent::EventSpec
-										Id 5859200
+										Id 5859200 (41)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7392,7 +7392,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/A2B455C2-8318-4035-81D3-6C7B1610C163
 									SourceEvent::EventSpec
-										Id 5859200
+										Id 5859200 (41)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7400,7 +7400,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/D1E47333-491A-4FCB-8BE2-C7EA4FE4FDA6
 									SourceEvent::EventSpec
-										Id 5859203
+										Id 5859203 (42)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7408,7 +7408,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/3729BE29-E265-415B-B089-B2505087EB00
 									SourceEvent::EventSpec
-										Id 5859203
+										Id 5859203 (42)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7416,7 +7416,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/C1A26BC7-8EEB-4A6D-BCCA-37B62B18A5B7
 									SourceEvent::EventSpec
-										Id 5859202
+										Id 5859202 (43)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7424,7 +7424,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/D1E47333-491A-4FCB-8BE2-C7EA4FE4FDA6
 									SourceEvent::EventSpec
-										Id 5859202
+										Id 5859202 (43)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7432,7 +7432,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/5491AC02-F08D-45AC-B22C-EED2EEA0B948
 									SourceEvent::EventSpec
-										Id 5859205
+										Id 5859205 (44)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7440,7 +7440,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/C1A26BC7-8EEB-4A6D-BCCA-37B62B18A5B7
 									SourceEvent::EventSpec
-										Id 5859205
+										Id 5859205 (44)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7464,7 +7464,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/4A4583D9-2373-4B66-85EE-BDCA8884A0D2
 									SourceEvent::EventSpec
-										Id 5859207
+										Id 5859207 (46)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7472,7 +7472,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/3E447188-769D-4FE1-9857-983EB419EFC5
 									SourceEvent::EventSpec
-										Id 5859207
+										Id 5859207 (46)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7480,7 +7480,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/4C388BD4-1599-4E5C-9689-E07057E91FBE
 									SourceEvent::EventSpec
-										Id 5859206
+										Id 5859206 (47)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7488,7 +7488,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/4A4583D9-2373-4B66-85EE-BDCA8884A0D2
 									SourceEvent::EventSpec
-										Id 5859206
+										Id 5859206 (47)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7496,7 +7496,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/FACE09A3-C64A-4627-88BA-86B944C68D4D
 									SourceEvent::EventSpec
-										Id 5859209
+										Id 5859209 (48)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7504,7 +7504,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/4C388BD4-1599-4E5C-9689-E07057E91FBE
 									SourceEvent::EventSpec
-										Id 5859209
+										Id 5859209 (48)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7512,7 +7512,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/B74BCAC1-E4F0-40F3-BF81-9A5E44BA4468
 									SourceEvent::EventSpec
-										Id 5859208
+										Id 5859208 (49)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7520,7 +7520,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/FACE09A3-C64A-4627-88BA-86B944C68D4D
 									SourceEvent::EventSpec
-										Id 5859208
+										Id 5859208 (49)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7544,7 +7544,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/BE4F23D1-531F-40AE-8C87-48E3EC871CF3
 									SourceEvent::EventSpec
-										Id 5859233
+										Id 5859233 (51)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7552,7 +7552,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/177879E5-4643-4BF3-9F4E-2FFF9BE65E33
 									SourceEvent::EventSpec
-										Id 5859233
+										Id 5859233 (51)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7560,7 +7560,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E263124A-6FBC-41E7-9D40-46AE7FCC2E00
 									SourceEvent::EventSpec
-										Id 5859234
+										Id 5859234 (52)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7568,7 +7568,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/BE4F23D1-531F-40AE-8C87-48E3EC871CF3
 									SourceEvent::EventSpec
-										Id 5859234
+										Id 5859234 (52)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7576,7 +7576,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/C0218982-B355-4FD5-9473-970481FA4348
 									SourceEvent::EventSpec
-										Id 5859235
+										Id 5859235 (53)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7584,7 +7584,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E263124A-6FBC-41E7-9D40-46AE7FCC2E00
 									SourceEvent::EventSpec
-										Id 5859235
+										Id 5859235 (53)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7592,7 +7592,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/054426FF-2D90-441E-9CC7-C7CCCBAC4A3E
 									SourceEvent::EventSpec
-										Id 5859236
+										Id 5859236 (54)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7600,7 +7600,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/C0218982-B355-4FD5-9473-970481FA4348
 									SourceEvent::EventSpec
-										Id 5859236
+										Id 5859236 (54)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7608,7 +7608,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F9D37A65-1B92-49F2-9ADB-29E9FFF665F1
 									SourceEvent::EventSpec
-										Id 5859237
+										Id 5859237 (55)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7616,7 +7616,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/054426FF-2D90-441E-9CC7-C7CCCBAC4A3E
 									SourceEvent::EventSpec
-										Id 5859237
+										Id 5859237 (55)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7624,7 +7624,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/9E2162AB-E2C2-4828-A027-30DBA6780E57
 									SourceEvent::EventSpec
-										Id 5859238
+										Id 5859238 (56)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7632,7 +7632,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/F9D37A65-1B92-49F2-9ADB-29E9FFF665F1
 									SourceEvent::EventSpec
-										Id 5859238
+										Id 5859238 (56)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7640,7 +7640,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E84D63A7-9106-418E-80EC-9C04DB57238D
 									SourceEvent::EventSpec
-										Id 5859239
+										Id 5859239 (57)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7648,7 +7648,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/9E2162AB-E2C2-4828-A027-30DBA6780E57
 									SourceEvent::EventSpec
-										Id 5859239
+										Id 5859239 (57)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7656,7 +7656,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/1C06C764-2BE1-4661-94B7-9F98817D5180
 									SourceEvent::EventSpec
-										Id 5859240
+										Id 5859240 (58)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7664,7 +7664,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/E84D63A7-9106-418E-80EC-9C04DB57238D
 									SourceEvent::EventSpec
-										Id 5859240
+										Id 5859240 (58)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7672,7 +7672,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/076098E9-E668-44C2-A8BE-D4FED2E80D23
 									SourceEvent::EventSpec
-										Id 5859241
+										Id 5859241 (59)
 									TargetEvent::EventSpec
 										Id -1643756729 (HideMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7680,7 +7680,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/1C06C764-2BE1-4661-94B7-9F98817D5180
 									SourceEvent::EventSpec
-										Id 5859241
+										Id 5859241 (59)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server
@@ -7688,7 +7688,7 @@ LevelData 9692E084-C4EC-CCAC-E7A1-4C34837C779B #primary instance
 									Source Levels/COOP_010/General_MissionObjectives_Schematic/3C2C4C2D-3223-492C-88D2-E588E7C58EB7
 									Target Levels/COOP_010/General_MissionObjectives/076098E9-E668-44C2-A8BE-D4FED2E80D23
 									SourceEvent::EventSpec
-										Id 5859267
+										Id 5859267 (60)
 									TargetEvent::EventSpec
 										Id 2002318980 (ShowMarker)
 									TargetType EventConnectionTargetType_Server

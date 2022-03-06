@@ -157,7 +157,7 @@ SpatialPrefabBlueprint 296FF96E-9E9B-42F9-B0A4-20487C825045 #primary instance
 						member(2)::PropertyConnection
 							Source 1FFE39E6-5A0D-4819-9535-B1200964C5CE
 							Target D2358D20-4999-4322-B362-2A58138B239F
-							SourceFieldId 501392349
+							SourceFieldId 501392349 (EOR_Sequence)
 							TargetFieldId -2024647575 (Transform)
 					LinkConnections *nullArray*
 				EventConnections::array
@@ -258,7 +258,7 @@ SyncedBoolEntityData 4B6CE485-3710-4509-AF92-C41BF30F2AEE
 TransformPartPropertyTrackData 160C6E11-8A40-4070-8CDC-98EDC95DE3C5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -273,7 +273,7 @@ TransformPartPropertyTrackData 160C6E11-8A40-4070-8CDC-98EDC95DE3C5
 TransformPartPropertyTrackData 6B15F4EB-C8E6-4429-998D-7A92BBD992E1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -288,7 +288,7 @@ TransformPartPropertyTrackData 6B15F4EB-C8E6-4429-998D-7A92BBD992E1
 TransformPartPropertyTrackData 4AB5E994-7538-45E6-84A0-0089FDA2045A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -303,7 +303,7 @@ TransformPartPropertyTrackData 4AB5E994-7538-45E6-84A0-0089FDA2045A
 TransformPartPropertyTrackData 7B659E72-0334-44F8-AB3F-EFD477FE2051
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -318,7 +318,7 @@ TransformPartPropertyTrackData 7B659E72-0334-44F8-AB3F-EFD477FE2051
 TransformPartPropertyTrackData 667AD4F0-0144-4054-BE21-FC0E5816D521
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -333,7 +333,7 @@ TransformPartPropertyTrackData 667AD4F0-0144-4054-BE21-FC0E5816D521
 TransformPartPropertyTrackData 1858C3EA-086C-41C6-8BF0-62B9E6F86E77
 	$::PropertyTrackData
 		$::DataContainer
-		Id 501392349
+		Id 501392349 (EOR_Sequence)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

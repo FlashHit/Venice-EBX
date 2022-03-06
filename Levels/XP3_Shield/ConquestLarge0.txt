@@ -3384,7 +3384,7 @@ SubWorldData 05CA762A-2C5B-45C1-B6F6-AB8F8E0CDA20 #primary instance
 							member(13)::PropertyConnection
 								Source Levels/XP3_Shield/ConquestLarge0_Logic_Schematic/F479BCC3-9923-4E64-856F-70D4BB308B81
 								Target Levels/XP3_Shield/ConquestLarge0_Logic/593B8513-A40A-4ABB-9456-71140445593C
-								SourceFieldId -1531924778
+								SourceFieldId -1531924778 (Gunship_1200x1100_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(14)::PropertyConnection
 								Source AF8E6EC5-E0CD-1216-59EA-BF0C685EB5FC

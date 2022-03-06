@@ -4099,7 +4099,7 @@ SyncedSequenceEntityData 465C41C1-8AEC-4C60-A7D1-4FCC0A14F89B
 TransformPartPropertyTrackData 7F9203F0-9C4A-4D4B-BB8D-74ACE34EFEEB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4114,7 +4114,7 @@ TransformPartPropertyTrackData 7F9203F0-9C4A-4D4B-BB8D-74ACE34EFEEB
 TransformPartPropertyTrackData 402CAD3C-9237-4668-9542-6EE718567AD3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4129,7 +4129,7 @@ TransformPartPropertyTrackData 402CAD3C-9237-4668-9542-6EE718567AD3
 TransformPartPropertyTrackData FC21CDBF-CDF2-47CC-9115-8822AC02AACF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4144,7 +4144,7 @@ TransformPartPropertyTrackData FC21CDBF-CDF2-47CC-9115-8822AC02AACF
 TransformPartPropertyTrackData 3D2CD02E-5389-4771-8EBC-FC93F73500CB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4159,7 +4159,7 @@ TransformPartPropertyTrackData 3D2CD02E-5389-4771-8EBC-FC93F73500CB
 TransformPartPropertyTrackData 99747ECC-BA2C-488B-B6EA-5F2AE3DD0BB9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4174,7 +4174,7 @@ TransformPartPropertyTrackData 99747ECC-BA2C-488B-B6EA-5F2AE3DD0BB9
 TransformPartPropertyTrackData 97292625-579F-4E68-AC21-C30F909BCB5C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -598969684
+		Id -598969684 (pnematic)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4515,7 +4515,7 @@ VehicleBlueprint 3E148A16-F550-4927-ADF7-9BB822CAACE3 #primary instance
 						member(21)::PropertyConnection
 							Source 290838F2-93AF-4206-A7AF-DA538448C09A
 							Target 64FB9D52-59BA-42CA-81C2-93B72F621D1E
-							SourceFieldId -598969684
+							SourceFieldId -598969684 (pnematic)
 							TargetFieldId -2024647575 (Transform)
 						member(22)::PropertyConnection
 							Source 290838F2-93AF-4206-A7AF-DA538448C09A

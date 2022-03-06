@@ -30427,7 +30427,7 @@ StaticModelGroupEntityData 6BF7C74E-E7CE-F1CE-555C-CDB4029FD8DF
 			PhysicsPartCountPerInstance 1
 			NetworkIdRange::IndexRange
 				First 5369
-				Last 5381 ()
+				Last 5381
 			NetworkIdCountPerInstance 1
 		member(272)::StaticModelGroupMemberData
 			InstanceTransforms *nullArray*

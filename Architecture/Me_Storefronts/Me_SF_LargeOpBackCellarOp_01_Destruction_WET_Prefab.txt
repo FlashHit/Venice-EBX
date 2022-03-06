@@ -21,7 +21,7 @@ InterfaceDescriptorData 146EB934-F936-4037-A527-835AECA701CA
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862038
+			Id 5862038 (C0)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 IrReverbEntityData EA1E674B-C1DD-4FB1-A2A6-BEC90AC5F11D
@@ -293,9 +293,9 @@ SpatialPrefabBlueprint 832E48B0-E576-A2CA-A13A-B772D6BA6E3A #primary instance
 						Source A40677E6-28E5-4949-9F6D-91E9B96387E0
 						Target 146EB934-F936-4037-A527-835AECA701CA
 						SourceEvent::EventSpec
-							Id 5862038
+							Id 5862038 (C0)
 						TargetEvent::EventSpec
-							Id 5862038
+							Id 5862038 (C0)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor 146EB934-F936-4037-A527-835AECA701CA
 				NeedNetworkId False

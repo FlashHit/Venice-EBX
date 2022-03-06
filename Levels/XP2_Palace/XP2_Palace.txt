@@ -6994,27 +6994,27 @@ LevelData E756D29A-7FE8-4299-B7AB-939BD9914A1E #primary instance
 									member(1)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/40FDB303-0D72-4C6D-91E0-83F42B7DF404
 										Target Levels/XP2_Palace/fx/3C428657-7380-407A-ADB1-0426D9BF0505
-										SourceFieldId -1356861245
+										SourceFieldId -1356861245 (AN22_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(2)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/40FDB303-0D72-4C6D-91E0-83F42B7DF404
 										Target Levels/XP2_Palace/fx/8FFD0437-6B81-4E6F-854B-698A79347BFD
-										SourceFieldId 1031427314
+										SourceFieldId 1031427314 (F18_Animation1)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(3)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/40FDB303-0D72-4C6D-91E0-83F42B7DF404
 										Target Levels/XP2_Palace/fx/ED97D213-F277-49F4-9DDE-2947170E8077
-										SourceFieldId 1031427313
+										SourceFieldId 1031427313 (F18_Animation2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(4)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/58FA7A42-EAD4-4410-8634-FA771F84E4FD
 										Target Levels/XP2_Palace/fx/D70310CF-2B19-4F8C-901C-E6FC58F53085
-										SourceFieldId -84118132
+										SourceFieldId -84118132 (Su35_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(5)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/58FA7A42-EAD4-4410-8634-FA771F84E4FD
 										Target Levels/XP2_Palace/FX_Schematic/1C117CDD-C27D-4E16-9718-7299BC56763E
-										SourceFieldId -84118132
+										SourceFieldId -84118132 (Su35_Animation)
 										TargetFieldId 193450867 (In1)
 									member(6)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/1C117CDD-C27D-4E16-9718-7299BC56763E
@@ -7024,27 +7024,27 @@ LevelData E756D29A-7FE8-4299-B7AB-939BD9914A1E #primary instance
 									member(7)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/58FA7A42-EAD4-4410-8634-FA771F84E4FD
 										Target Levels/XP2_Palace/FX_Schematic/1C117CDD-C27D-4E16-9718-7299BC56763E
-										SourceFieldId -749647773
+										SourceFieldId -749647773 (F18_Animation)
 										TargetFieldId 193450864 (In2)
 									member(8)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/6B2BFA2F-90C5-452D-B2D6-6B23BAB8C43E
 										Target Levels/XP2_Palace/fx/A8C0C104-275D-446C-86E4-756261DE3346
-										SourceFieldId -749647773
+										SourceFieldId -749647773 (F18_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(9)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/6B2BFA2F-90C5-452D-B2D6-6B23BAB8C43E
 										Target Levels/XP2_Palace/fx/84DDC88C-50B0-4ADF-BCF6-252A216567EC
-										SourceFieldId -84118132
+										SourceFieldId -84118132 (Su35_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(10)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/73EAD9A4-D37B-457D-84A4-5A4D5949903B
 										Target Levels/XP2_Palace/fx/984AC8A3-9CDA-469C-A1B8-7DBED5110BDD
-										SourceFieldId -84118132
+										SourceFieldId -84118132 (Su35_Animation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(11)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/73EAD9A4-D37B-457D-84A4-5A4D5949903B
 										Target Levels/XP2_Palace/fx/A50CBA85-4445-4E9C-920B-85685CFA99EE
-										SourceFieldId 1519068990
+										SourceFieldId 1519068990 (Su35_Animation2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(12)::PropertyConnection
 										Source Levels/XP2_Palace/FX_Schematic/40FDB303-0D72-4C6D-91E0-83F42B7DF404
@@ -27385,7 +27385,7 @@ StaticModelGroupEntityData 8D7BEAFF-B87E-E8E7-15F2-C1D6A342D73E
 			HealthStateEntityManagerId 293
 			PhysicsPartRange::IndexRange
 				First 5369
-				Last 5381 ()
+				Last 5381
 			PhysicsPartCountPerInstance 1
 			NetworkIdRange::IndexRange
 				First 4294967295

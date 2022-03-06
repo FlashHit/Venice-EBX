@@ -4214,22 +4214,22 @@ SubWorldData 11694D6B-11C3-46D1-AFDA-F83A24E453F3 #primary instance
 							member(28)::PropertyConnection
 								Source Levels/MP_018/Beachlanding/A1F9A9D5-5FB5-4AAB-B686-31E3ABA157B1
 								Target Levels/MP_018/Base_1_Triggered_Effects/871A31A1-FBA5-47B0-A266-8051330D97B0
-								SourceFieldId -2013347390
+								SourceFieldId -2013347390 (StartBoatSequence)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(29)::PropertyConnection
 								Source Levels/MP_018/Beachlanding/69621BB0-5099-4196-9B09-BB09F1B41817
 								Target Levels/MP_018/Base_1_Triggered_Effects/F9249047-E3DA-4A97-BA00-362051836ADF
-								SourceFieldId 14120540
+								SourceFieldId 14120540 (Start_Humvee_Sequence)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(30)::PropertyConnection
 								Source Levels/MP_018/FlyBy_Camera/6BDA6FD8-5C93-4EE5-9E0C-E13E58EEC620
 								Target Levels/MP_018/Cameras/DD3CFB6D-26CC-4D22-933E-07C3A5C9D6ED
-								SourceFieldId -1581264272
+								SourceFieldId -1581264272 (PropertyTrack_01c)
 								TargetFieldId -2024647575 (Transform)
 							member(31)::PropertyConnection
 								Source Levels/MP_018/RushEOR_Camera/4AC282C0-9ECE-4369-9609-AD42383AB060
 								Target Levels/MP_018/Cameras/AED3FE08-8ADC-4487-843A-50D1102B71B9
-								SourceFieldId -1075322463
+								SourceFieldId -1075322463 (CameraPos1)
 								TargetFieldId -2024647575 (Transform)
 							member(32)::PropertyConnection
 								Source 20EC2715-7009-F27E-35C2-5B8B9BCD2F52

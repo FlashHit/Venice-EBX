@@ -6935,12 +6935,12 @@ SubWorldData CAA6CA97-D634-4854-8664-96718BCAB177 #primary instance
 							member(7)::PropertyConnection
 								Source Levels/SP_Earthquake2/LargeBuilding_GARAGE/541536DF-D7D7-4A39-9394-6D2A7690592B
 								Target Levels/SP_Earthquake2/LargeBuilding_ART/FBA306EB-7C45-45CE-BDBE-C82F2CB757A6
-								SourceFieldId 334583592
+								SourceFieldId 334583592 (Gas_Cabin)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(8)::PropertyConnection
 								Source Levels/SP_Earthquake2/LargeBuilding_GARAGE/541536DF-D7D7-4A39-9394-6D2A7690592B
 								Target Levels/SP_Earthquake2/LargeBuilding_ART/C5A215B6-E2E5-4588-8D0F-F246C366EC45
-								SourceFieldId 1421708220
+								SourceFieldId 1421708220 (Wall_Electrics)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(9)::PropertyConnection
 								Source Levels/SP_Earthquake2/LargeBuilding_GARAGE/541536DF-D7D7-4A39-9394-6D2A7690592B

@@ -8180,7 +8180,7 @@ LevelData F6E7241C-CEB7-2F31-751B-2AD9BBB7B612 #primary instance
 									Source Levels/XP3_Valley/ART_RadarSite/A9BA61EF-BE1F-421C-8483-485F72B2D5C9
 									Target Levels/XP3_Valley/ART_RadarSite/82872007-428D-4C7A-AFE0-29F274922D75
 									SourceEvent::EventSpec
-										Id 5862032
+										Id 5862032 (C6)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer
@@ -8508,7 +8508,7 @@ LevelData F6E7241C-CEB7-2F31-751B-2AD9BBB7B612 #primary instance
 									Source Levels/XP3_Valley/ART_CommunicationCenter/6EE956F4-A76A-44E5-9C0D-9AC53C7DDE68
 									Target Levels/XP3_Valley/ART_CommunicationCenter/D3B7A952-4778-44E4-8DED-DF9450F0CE73
 									SourceEvent::EventSpec
-										Id 5862038
+										Id 5862038 (C0)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer
@@ -8516,7 +8516,7 @@ LevelData F6E7241C-CEB7-2F31-751B-2AD9BBB7B612 #primary instance
 									Source Levels/XP3_Valley/ART_CommunicationCenter/E9F55373-FAA5-4EFF-9909-B2E6D2929BDD
 									Target Levels/XP3_Valley/ART_CommunicationCenter/6DCF28A6-76AC-41D0-B6B0-7BD2D4B018CF
 									SourceEvent::EventSpec
-										Id 5862038
+										Id 5862038 (C0)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer

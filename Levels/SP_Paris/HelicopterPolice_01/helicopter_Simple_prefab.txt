@@ -96,7 +96,7 @@ SpatialPrefabBlueprint 03259B5B-1819-8BAF-15C2-A2B1D811D393 #primary instance
 						member(0)::PropertyConnection
 							Source 979D2CCB-4DBE-40D7-8FED-BA08FCDF1206
 							Target 65463EDE-5A80-4875-98F2-7C124B209401
-							SourceFieldId 485757501
+							SourceFieldId 485757501 (LightMovment)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections *nullArray*
@@ -112,7 +112,7 @@ SpatialPrefabBlueprint 03259B5B-1819-8BAF-15C2-A2B1D811D393 #primary instance
 TransformPartPropertyTrackData C949AE97-ACA4-4096-A22D-C5FA742381AF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -127,7 +127,7 @@ TransformPartPropertyTrackData C949AE97-ACA4-4096-A22D-C5FA742381AF
 TransformPartPropertyTrackData 7BED2180-7948-4AF4-8ACB-011ED96F6AFA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -142,7 +142,7 @@ TransformPartPropertyTrackData 7BED2180-7948-4AF4-8ACB-011ED96F6AFA
 TransformPartPropertyTrackData 90A0E564-1489-42FC-BC99-9E5EA64178A1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -157,7 +157,7 @@ TransformPartPropertyTrackData 90A0E564-1489-42FC-BC99-9E5EA64178A1
 TransformPartPropertyTrackData 798C9710-CA6B-4EDB-83D5-B17C547C083B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -172,7 +172,7 @@ TransformPartPropertyTrackData 798C9710-CA6B-4EDB-83D5-B17C547C083B
 TransformPartPropertyTrackData 388481DF-8286-4DA7-A126-52ADB6C43BD0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -187,7 +187,7 @@ TransformPartPropertyTrackData 388481DF-8286-4DA7-A126-52ADB6C43BD0
 TransformPartPropertyTrackData DC2F28AA-08D5-4FDD-9139-EFF8C167B2CD
 	$::PropertyTrackData
 		$::DataContainer
-		Id 485757501
+		Id 485757501 (LightMovment)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

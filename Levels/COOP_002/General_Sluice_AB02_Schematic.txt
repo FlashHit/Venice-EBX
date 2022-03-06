@@ -1037,7 +1037,7 @@ TransformHubEntityData 9EB33047-84D3-4DC2-A6C5-7F3D74BEB952
 TransformPartPropertyTrackData 55D8334E-EA10-480C-9DCD-FD03B591E92B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1052,7 +1052,7 @@ TransformPartPropertyTrackData 55D8334E-EA10-480C-9DCD-FD03B591E92B
 TransformPartPropertyTrackData C0F1FA8D-8414-4438-BF47-D6C49320483A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1067,7 +1067,7 @@ TransformPartPropertyTrackData C0F1FA8D-8414-4438-BF47-D6C49320483A
 TransformPartPropertyTrackData 254328D1-BCD6-4883-BF15-6BBAF3B0E6E9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1082,7 +1082,7 @@ TransformPartPropertyTrackData 254328D1-BCD6-4883-BF15-6BBAF3B0E6E9
 TransformPartPropertyTrackData 0822A092-44AE-4864-BF97-1E9454D28962
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1097,7 +1097,7 @@ TransformPartPropertyTrackData 0822A092-44AE-4864-BF97-1E9454D28962
 TransformPartPropertyTrackData C0BAE63E-126F-4178-BA96-556B67DB8736
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1112,7 +1112,7 @@ TransformPartPropertyTrackData C0BAE63E-126F-4178-BA96-556B67DB8736
 TransformPartPropertyTrackData 800BF6F3-1BB2-44F2-868A-5F99BE384EB6
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1127,7 +1127,7 @@ TransformPartPropertyTrackData 800BF6F3-1BB2-44F2-868A-5F99BE384EB6
 TransformPartPropertyTrackData B513046C-5B0F-4439-A361-80F2887EF021
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1142,7 +1142,7 @@ TransformPartPropertyTrackData B513046C-5B0F-4439-A361-80F2887EF021
 TransformPartPropertyTrackData 35AD2284-72B4-4E96-9E1A-B3B1C1CA677C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1157,7 +1157,7 @@ TransformPartPropertyTrackData 35AD2284-72B4-4E96-9E1A-B3B1C1CA677C
 TransformPartPropertyTrackData 893F804C-EB64-45B0-BF3E-E74362A41E07
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1172,7 +1172,7 @@ TransformPartPropertyTrackData 893F804C-EB64-45B0-BF3E-E74362A41E07
 TransformPartPropertyTrackData AB2AB440-BBDE-47D5-A250-4CE575520007
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1187,7 +1187,7 @@ TransformPartPropertyTrackData AB2AB440-BBDE-47D5-A250-4CE575520007
 TransformPartPropertyTrackData C1B73531-AA7D-4F9F-B79C-2910ADE0279F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1202,7 +1202,7 @@ TransformPartPropertyTrackData C1B73531-AA7D-4F9F-B79C-2910ADE0279F
 TransformPartPropertyTrackData FC52FF82-A40B-44F5-AD44-C83B21848A22
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1217,7 +1217,7 @@ TransformPartPropertyTrackData FC52FF82-A40B-44F5-AD44-C83B21848A22
 TransformPartPropertyTrackData 06CE001E-20AB-426B-A927-2C16DB0FC868
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1232,7 +1232,7 @@ TransformPartPropertyTrackData 06CE001E-20AB-426B-A927-2C16DB0FC868
 TransformPartPropertyTrackData 2581C44C-1865-45CB-8013-2C8D5B4325DF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1247,7 +1247,7 @@ TransformPartPropertyTrackData 2581C44C-1865-45CB-8013-2C8D5B4325DF
 TransformPartPropertyTrackData 12D9A20E-D039-4864-B829-55967BBCBBA3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1262,7 +1262,7 @@ TransformPartPropertyTrackData 12D9A20E-D039-4864-B829-55967BBCBBA3
 TransformPartPropertyTrackData F4714602-B422-44DB-8B29-65401DCEC3CA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1277,7 +1277,7 @@ TransformPartPropertyTrackData F4714602-B422-44DB-8B29-65401DCEC3CA
 TransformPartPropertyTrackData 83C240D5-2D35-4C2A-8366-4FD4CE94E8F1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1292,7 +1292,7 @@ TransformPartPropertyTrackData 83C240D5-2D35-4C2A-8366-4FD4CE94E8F1
 TransformPartPropertyTrackData 0A72BD1D-6B3A-423B-8798-191CA8D85F64
 	$::PropertyTrackData
 		$::DataContainer
-		Id 232001385
+		Id 232001385 (Door_Up)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1307,7 +1307,7 @@ TransformPartPropertyTrackData 0A72BD1D-6B3A-423B-8798-191CA8D85F64
 TransformPartPropertyTrackData 9A05E259-BBB4-4DB6-9430-06F0638AB7CB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1322,7 +1322,7 @@ TransformPartPropertyTrackData 9A05E259-BBB4-4DB6-9430-06F0638AB7CB
 TransformPartPropertyTrackData 75DAE60E-B1E4-4598-B5E3-9B365FD66A6A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1337,7 +1337,7 @@ TransformPartPropertyTrackData 75DAE60E-B1E4-4598-B5E3-9B365FD66A6A
 TransformPartPropertyTrackData 58242EDF-2EFF-4F68-B206-DDB6262F63D1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1352,7 +1352,7 @@ TransformPartPropertyTrackData 58242EDF-2EFF-4F68-B206-DDB6262F63D1
 TransformPartPropertyTrackData C97BACEA-F2B4-4265-AF12-79F3B238BF0C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1367,7 +1367,7 @@ TransformPartPropertyTrackData C97BACEA-F2B4-4265-AF12-79F3B238BF0C
 TransformPartPropertyTrackData 9E69C4E4-9FD6-41A1-88FE-A6C053BF8F27
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1382,7 +1382,7 @@ TransformPartPropertyTrackData 9E69C4E4-9FD6-41A1-88FE-A6C053BF8F27
 TransformPartPropertyTrackData 402C96F6-C7CA-4F99-8062-4DDC902235A0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -754368642
+		Id -754368642 (Door_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1397,7 +1397,7 @@ TransformPartPropertyTrackData 402C96F6-C7CA-4F99-8062-4DDC902235A0
 TransformPartPropertyTrackData E8E1BFF3-8C85-46C3-866B-5230A42E3881
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1412,7 +1412,7 @@ TransformPartPropertyTrackData E8E1BFF3-8C85-46C3-866B-5230A42E3881
 TransformPartPropertyTrackData 38D73D40-54E1-4AE6-B109-2D9C7F724674
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1427,7 +1427,7 @@ TransformPartPropertyTrackData 38D73D40-54E1-4AE6-B109-2D9C7F724674
 TransformPartPropertyTrackData 992119CA-7890-4B58-BBF6-E1116AD9A322
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1442,7 +1442,7 @@ TransformPartPropertyTrackData 992119CA-7890-4B58-BBF6-E1116AD9A322
 TransformPartPropertyTrackData C4C08D53-BE63-49E1-AD50-B468F352E007
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1457,7 +1457,7 @@ TransformPartPropertyTrackData C4C08D53-BE63-49E1-AD50-B468F352E007
 TransformPartPropertyTrackData 8863A12F-4057-4FD9-93A3-5580D6CE24F1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1472,7 +1472,7 @@ TransformPartPropertyTrackData 8863A12F-4057-4FD9-93A3-5580D6CE24F1
 TransformPartPropertyTrackData 285225CD-6B0F-4753-97F8-974D17B5357C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 209242689
+		Id 209242689 (Door2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

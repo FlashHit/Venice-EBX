@@ -640,7 +640,7 @@ SubWorldData F2425196-C5B4-4CD2-8653-D44B68168D45 #primary instance
 							member(30)::PropertyConnection
 								Source Levels/SP_Valley/ForestIntro/6D0948E4-0D52-4404-A7CE-98D100399376
 								Target A0EFEA6B-4B6B-513E-1D21-647014471662
-								SourceFieldId -117501648
+								SourceFieldId -117501648 (Spinning_Wheels)
 								TargetFieldId 364865413
 						LinkConnections::array
 							member(0)::LinkConnection

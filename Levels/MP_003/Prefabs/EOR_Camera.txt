@@ -92,7 +92,7 @@ SpatialPrefabBlueprint 0905062C-DE1F-45FF-AAAA-5A4E63D6C39B #primary instance
 						member(0)::PropertyConnection
 							Source 94A2391C-15D5-4825-8042-52A1FCD70281
 							Target 27E510D6-EB5D-4639-AA57-EF6B30E112F3
-							SourceFieldId -1075322463
+							SourceFieldId -1075322463 (CameraPos1)
 							TargetFieldId -2024647575 (Transform)
 					LinkConnections *nullArray*
 				EventConnections::array
@@ -150,7 +150,7 @@ SyncedBoolEntityData 833E92BC-D633-4766-89F3-C3B03D36D46A
 TransformPartPropertyTrackData 991FCE95-1DB0-4059-B7EE-BFCDF00293D6
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -165,7 +165,7 @@ TransformPartPropertyTrackData 991FCE95-1DB0-4059-B7EE-BFCDF00293D6
 TransformPartPropertyTrackData 3275EAA0-7F77-4378-ADBE-425A3954B4F4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -180,7 +180,7 @@ TransformPartPropertyTrackData 3275EAA0-7F77-4378-ADBE-425A3954B4F4
 TransformPartPropertyTrackData 65FFBF1D-957D-4F18-B672-132FD893104D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -195,7 +195,7 @@ TransformPartPropertyTrackData 65FFBF1D-957D-4F18-B672-132FD893104D
 TransformPartPropertyTrackData C3F302E1-71F3-442C-81CB-3D3DC3664A44
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -210,7 +210,7 @@ TransformPartPropertyTrackData C3F302E1-71F3-442C-81CB-3D3DC3664A44
 TransformPartPropertyTrackData D4E951A2-D0B4-4825-BF66-5CE321483A06
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -225,7 +225,7 @@ TransformPartPropertyTrackData D4E951A2-D0B4-4825-BF66-5CE321483A06
 TransformPartPropertyTrackData A6153044-D2F3-4B44-B2BB-695655B2AE9B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1075322463
+		Id -1075322463 (CameraPos1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

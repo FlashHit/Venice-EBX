@@ -29,7 +29,7 @@ SoundWaveAsset 86045234-F5F2-6781-A60B-080FBDF1E81D #primary instance
 				ChunkSize 145612
 			member(7)::SoundDataChunk
 				ChunkId 2905E0AF-9C34-2EDE-5D3C-9C5C4A392510
-				ChunkSize 177648 (U)
+				ChunkSize 177648
 	Variations::array
 		member(0) E5B959DB-E8BD-A908-CE26-648EE0390AFE
 		member(1) 1DBF01FE-ADF8-C479-E46D-3BBAA8C8A0C8

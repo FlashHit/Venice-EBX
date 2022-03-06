@@ -5909,7 +5909,7 @@ TransformPartPropertyTrackData EC4D90A5-C888-4110-9483-54C35AE8EC17
 TransformPartPropertyTrackData B84B9290-0F20-415D-BD2D-8C6E2F2EFEF2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -5924,7 +5924,7 @@ TransformPartPropertyTrackData B84B9290-0F20-415D-BD2D-8C6E2F2EFEF2
 TransformPartPropertyTrackData 1255EE3C-8BF3-4416-874D-D0A9B2D8C8E8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -5939,7 +5939,7 @@ TransformPartPropertyTrackData 1255EE3C-8BF3-4416-874D-D0A9B2D8C8E8
 TransformPartPropertyTrackData 8ECC0CAB-B75F-404C-9DB5-0837E756885E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -5954,7 +5954,7 @@ TransformPartPropertyTrackData 8ECC0CAB-B75F-404C-9DB5-0837E756885E
 TransformPartPropertyTrackData 5B423D17-B46B-4FDA-8DA6-5760563BAE4F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -5969,7 +5969,7 @@ TransformPartPropertyTrackData 5B423D17-B46B-4FDA-8DA6-5760563BAE4F
 TransformPartPropertyTrackData 0B4132AC-B123-4DED-94E9-4EC7250344BF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -5984,7 +5984,7 @@ TransformPartPropertyTrackData 0B4132AC-B123-4DED-94E9-4EC7250344BF
 TransformPartPropertyTrackData 88FF5531-5C7D-4777-BDF1-7E0360A2F582
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1834680755
+		Id -1834680755 (Up_Down)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -6811,7 +6811,7 @@ VehicleBlueprint A36C9712-54B3-A5FF-8627-7BC7EFA0C668 #primary instance
 						member(2)::PropertyConnection
 							Source 2C29F752-5621-4323-8DD7-0A0254E005FE
 							Target EFBC0002-6C94-411A-AF18-AE80A77C5A9F
-							SourceFieldId -1834680755
+							SourceFieldId -1834680755 (Up_Down)
 							TargetFieldId -2024647575 (Transform)
 						member(3)::PropertyConnection
 							Source C8598B2F-D9F1-44A1-A985-7698D1308097

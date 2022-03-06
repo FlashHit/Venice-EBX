@@ -1168,7 +1168,7 @@ SequenceEntityData 7C6EA39D-0ADE-4AB0-BE2D-7F46D7F3D23B
 			Time 0
 		member(1)::SequenceEventData
 			Event::EventSpec
-				Id -1590439175
+				Id -1590439175 (KickDoor)
 			Time 503
 	SequenceStartTime 0
 	SequenceLength 5000

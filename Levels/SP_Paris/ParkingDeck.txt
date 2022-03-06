@@ -9485,12 +9485,12 @@ SubWorldData 73447F53-77D4-4112-A9AC-972435F9D740 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Paris/Parkingdeck_Logic/5D4408A3-672F-4567-92A7-64A30B615AE5
 								Target Levels/SP_Paris/AB03_Logic/6EECED07-B8F4-4BDE-B98B-CCD07E6DA4D5
-								SourceFieldId 1089918485
+								SourceFieldId 1089918485 (Move_FX)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Paris/Parkingdeck_Logic/19C53489-9FBA-42EA-AC1B-753912E3CAD7
 								Target Levels/SP_Paris/AB03_Logic/90D47DC7-444F-4118-86A0-0F5B913F27C2
-								SourceFieldId 742662428
+								SourceFieldId 742662428 (move_rpg2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Paris/AB03_Logic/658BA9BE-1CB3-4E19-9A2B-374DB0B6ACD0

@@ -1108,7 +1108,7 @@ SequenceEntityData FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 			Time 0
 		member(1)::SequenceEventData
 			Event::EventSpec
-				Id 5862244
+				Id 5862244 (ON)
 			Time 500
 		member(2)::SequenceEventData
 			Event::EventSpec
@@ -1247,7 +1247,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target 0EC47F71-7921-48CC-BFAC-A38E9D2D99B5
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1263,7 +1263,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target A47F9B56-B0D4-4AB5-9453-B4FDC7147685
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1271,7 +1271,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target 08255AEA-3247-4D90-9676-09D3187AA06B
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1279,7 +1279,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target AB725CE4-5EAD-4678-ADCC-9CA54E578A24
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1287,7 +1287,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target 316ED855-A23F-43EA-9F6C-9C8784B51BE2
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1327,7 +1327,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target 250A985A-BBDA-4076-9CFF-9D7EC22CA12F
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1335,7 +1335,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target 2400F0C4-92E5-426C-9987-96C45D85E174
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client
@@ -1343,7 +1343,7 @@ SpatialPrefabBlueprint 6A45AD82-CF1D-E91C-0CBB-51A5B14B01A4 #primary instance
 						Source FC4023C5-2423-4386-BAFE-CA1704EC7D4F
 						Target E65D470D-0B4C-46E9-A5FB-C4BF0D069C0B
 						SourceEvent::EventSpec
-							Id 5862244
+							Id 5862244 (ON)
 						TargetEvent::EventSpec
 							Id -1952177180 (Enable)
 						TargetType EventConnectionTargetType_Client

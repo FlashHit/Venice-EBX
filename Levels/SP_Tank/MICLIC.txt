@@ -915,7 +915,7 @@ SubWorldData FED5218E-78CE-4F58-86EA-62A5EDB78BC2 #primary instance
 							member(10)::PropertyConnection
 								Source Levels/SP_Tank/MICLIC_FriendlyAI/8F2E5D77-7D08-4C31-A4CF-296505024FCD
 								Target 7FDF3A1B-548A-4335-2729-B3699E02A396
-								SourceFieldId -956534555
+								SourceFieldId -956534555 (OutsideTo50CalPropsAnim)
 								TargetFieldId -2095960984
 							member(11)::PropertyConnection
 								Source 7FDF3A1B-548A-4335-2729-B3699E02A396
@@ -1641,12 +1641,12 @@ SubWorldData FED5218E-78CE-4F58-86EA-62A5EDB78BC2 #primary instance
 							member(136)::LinkConnection
 								Source Levels/SP_Tank/MICLIC_AI/D3D4DC45-5C08-4AD9-9AB4-61C96E92C1C7
 								Target Levels/SP_Tank/MICLIC_WP/14F23B49-A2E0-4C43-BA9D-8C7936FFF7DC
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(137)::LinkConnection
 								Source Levels/SP_Tank/MICLIC_AI/DB256E56-7168-41C9-B893-2AF56FA3413A
 								Target Levels/SP_Tank/MICLIC_WP/4846B48E-C761-46B6-AE3A-2A37FABB6BB2
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(138)::LinkConnection
 								Source Levels/SP_Tank/MICLIC_VO/B15893FE-9C62-4E9E-B43A-8E94C0595FBC

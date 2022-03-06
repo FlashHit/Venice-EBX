@@ -278,12 +278,12 @@ SpatialPrefabBlueprint 5BE1D48A-CA83-988C-024C-CD1866D5D1D4 #primary instance
 						member(0)::PropertyConnection
 							Source EAD50801-8B0E-4CD8-B348-C05D8599D522
 							Target F4C781D9-AEC9-4E4B-86A2-96531C1A4F4D
-							SourceFieldId -1017024392
+							SourceFieldId -1017024392 (A10Firing)
 							TargetFieldId -409930682 (BlueprintTransform)
 						member(1)::PropertyConnection
 							Source EAD50801-8B0E-4CD8-B348-C05D8599D522
 							Target D575643D-8942-478B-855B-4F13EFF8F227
-							SourceFieldId -1017024392
+							SourceFieldId -1017024392 (A10Firing)
 							TargetFieldId -2024647575 (Transform)
 						member(2)::PropertyConnection
 							Source 54CB56E2-DCF0-4C45-85B0-97B4BE1EACC1
@@ -400,7 +400,7 @@ SpatialPrefabBlueprint 5BE1D48A-CA83-988C-024C-CD1866D5D1D4 #primary instance
 TransformPartPropertyTrackData 671FAE48-E4E6-4591-9F2B-D281E0500E6A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -415,7 +415,7 @@ TransformPartPropertyTrackData 671FAE48-E4E6-4591-9F2B-D281E0500E6A
 TransformPartPropertyTrackData 7C1B9587-A7BC-4413-9611-F407DF08A6C0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -430,7 +430,7 @@ TransformPartPropertyTrackData 7C1B9587-A7BC-4413-9611-F407DF08A6C0
 TransformPartPropertyTrackData 781371CD-94E1-4AC5-BE4D-B9AB4C6AF019
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -445,7 +445,7 @@ TransformPartPropertyTrackData 781371CD-94E1-4AC5-BE4D-B9AB4C6AF019
 TransformPartPropertyTrackData AACF4465-851B-4FFC-B85D-DD63E8A1B504
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -460,7 +460,7 @@ TransformPartPropertyTrackData AACF4465-851B-4FFC-B85D-DD63E8A1B504
 TransformPartPropertyTrackData 6B173C12-30B5-431E-BB5D-56D7CF727293
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -475,7 +475,7 @@ TransformPartPropertyTrackData 6B173C12-30B5-431E-BB5D-56D7CF727293
 TransformPartPropertyTrackData EA963E09-FE95-47E6-88CB-10C210120F6E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1017024392
+		Id -1017024392 (A10Firing)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

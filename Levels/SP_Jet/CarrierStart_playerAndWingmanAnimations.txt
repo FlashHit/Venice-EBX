@@ -79,12 +79,12 @@ SubWorldData 1BA291C2-AFC4-4FF8-B687-5ACD1AAE9E4D #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/6C924A38-0AFD-432B-A7BD-AD014A32B3A3
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/67389E8A-B460-48F3-BFFA-22BBF8CF27AB
-								SourceFieldId 1322074878
+								SourceFieldId 1322074878 (TakeOffPilot_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(1)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/6FC55A40-1B48-41F5-B235-BC0815C08782
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/67389E8A-B460-48F3-BFFA-22BBF8CF27AB
-								SourceFieldId -768565569
+								SourceFieldId -768565569 (FlightPathPilot_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(2)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/6C924A38-0AFD-432B-A7BD-AD014A32B3A3
@@ -104,17 +104,17 @@ SubWorldData 1BA291C2-AFC4-4FF8-B687-5ACD1AAE9E4D #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/F442163D-6FF0-4916-9D70-0D71230E7F85
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/B556F193-CC72-49F4-ACB3-4DE0F3C095B1
-								SourceFieldId 1630838245
+								SourceFieldId 1630838245 (TakeOffWingMan_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/E985FD9E-B62D-4080-83C2-B6383CF5BF7E
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/B556F193-CC72-49F4-ACB3-4DE0F3C095B1
-								SourceFieldId 1775398500
+								SourceFieldId 1775398500 (FlightPathWingMan_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(7)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/833ACE05-9049-4450-9E9E-61F1F881ACA7
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/D32DBA2D-1F03-4590-B62A-033A93C7A6C5
-								SourceFieldId -574691847
+								SourceFieldId -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(8)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/B556F193-CC72-49F4-ACB3-4DE0F3C095B1
@@ -134,7 +134,7 @@ SubWorldData 1BA291C2-AFC4-4FF8-B687-5ACD1AAE9E4D #primary instance
 							member(11)::PropertyConnection
 								Source Levels/SP_Jet/PlayerAndWingmanAnimations/55778573-EE66-4260-A47E-D1478FA2ECB1
 								Target Levels/SP_Jet/PlayerAndWingmanAnimations/FE26F976-F39F-48D5-B5D6-398A52262276
-								SourceFieldId -1431074846
+								SourceFieldId -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 						LinkConnections *nullArray*
 					EventConnections::array

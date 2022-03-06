@@ -4843,22 +4843,22 @@ SubWorldData B4EE3556-56C3-4456-B81B-1BA63D8E5EBC #primary instance
 							member(2)::PropertyConnection
 								Source Levels/SP_Paris/Trading_Floor_Logic_Schematic/9CC2B3F8-535F-4D98-9EEF-AE7EEB0D8EE9
 								Target Levels/SP_Paris/Trading_Floor_Logic/25507F21-5D6E-4255-8E18-DB4112F7D31D
-								SourceFieldId -478745703
+								SourceFieldId -478745703 (SealDoor1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Paris/Trading_Floor_Logic_Schematic/9CC2B3F8-535F-4D98-9EEF-AE7EEB0D8EE9
 								Target Levels/SP_Paris/Trading_Floor_Logic/43057BC1-8F22-4214-95B5-221155E30307
-								SourceFieldId -478745702
+								SourceFieldId -478745702 (SealDoor2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Paris/Trading_Floor_Logic_Schematic/9CC2B3F8-535F-4D98-9EEF-AE7EEB0D8EE9
 								Target Levels/SP_Paris/Trading_Floor_Logic/7670298C-D814-4FD4-ADC4-CA24CD3453B7
-								SourceFieldId -478745701
+								SourceFieldId -478745701 (SealDoor3)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Paris/Trading_Floor_Logic_Schematic/9CC2B3F8-535F-4D98-9EEF-AE7EEB0D8EE9
 								Target Levels/SP_Paris/Trading_Floor_Logic/5D802B86-B261-405C-94FC-2BC743FFCE4C
-								SourceFieldId -478745700
+								SourceFieldId -478745700 (SealDoor4)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Paris/Trading_Floor_Logic_Schematic/2312E678-D3A9-4CEF-8AB1-B8C2BF3A6164

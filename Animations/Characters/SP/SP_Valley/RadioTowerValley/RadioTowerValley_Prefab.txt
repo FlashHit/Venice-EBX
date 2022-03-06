@@ -511,7 +511,7 @@ SpatialPrefabBlueprint 98CA356B-EB2C-B0E1-7AB4-0E2D30359951 #primary instance
 						member(5)::PropertyConnection
 							Source 1A32D4B1-A1F8-4C82-ABCE-47316485CB85
 							Target 5619A7A7-58D4-4148-90D4-4B484A7778FB
-							SourceFieldId 1909141308
+							SourceFieldId 1909141308 (Locator_High)
 							TargetFieldId -2024647575 (Transform)
 						member(6)::PropertyConnection
 							Source 5619A7A7-58D4-4148-90D4-4B484A7778FB
@@ -691,7 +691,7 @@ SpatialPrefabBlueprint 98CA356B-EB2C-B0E1-7AB4-0E2D30359951 #primary instance
 TransformPartPropertyTrackData F9D86FB2-748D-4DBC-B693-F4C3FBE34D9C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -706,7 +706,7 @@ TransformPartPropertyTrackData F9D86FB2-748D-4DBC-B693-F4C3FBE34D9C
 TransformPartPropertyTrackData D23AF187-EDBE-4DF7-A2EA-50872ABF2115
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -721,7 +721,7 @@ TransformPartPropertyTrackData D23AF187-EDBE-4DF7-A2EA-50872ABF2115
 TransformPartPropertyTrackData 8224CA3C-AE4E-41C9-A443-7D2D385AF37F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -736,7 +736,7 @@ TransformPartPropertyTrackData 8224CA3C-AE4E-41C9-A443-7D2D385AF37F
 TransformPartPropertyTrackData F92E25C2-E555-486A-8C45-E496A959B69D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -751,7 +751,7 @@ TransformPartPropertyTrackData F92E25C2-E555-486A-8C45-E496A959B69D
 TransformPartPropertyTrackData 8BAF024A-8D91-4196-9140-5604F68837FE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -766,7 +766,7 @@ TransformPartPropertyTrackData 8BAF024A-8D91-4196-9140-5604F68837FE
 TransformPartPropertyTrackData 85F716AF-F2CC-4458-9DF2-93992BC4DC6B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1909141308
+		Id 1909141308 (Locator_High)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

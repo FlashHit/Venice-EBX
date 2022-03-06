@@ -503,12 +503,12 @@ SubWorldData 5DA214F1-7F0E-4CB9-857D-04BCBD811847 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/COOP_007/AB02_GameplayLogic_Wave_1_Schematic/6EA3F76A-6310-4878-9578-13ADC8255227
 								Target Levels/COOP_007/AB02_GameplayLogic_Wave_1_Schematic/E9C83136-49E0-4D1D-8C53-4F8929B5980C
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 193450867 (In1)
 							member(1)::PropertyConnection
 								Source Levels/COOP_007/AB02_GameplayLogic_Wave_1_Schematic/783193F5-793D-4B1E-AD63-88ED3130E2B8
 								Target Levels/COOP_007/AB02_GameplayLogic_Wave_1_Schematic/E9C83136-49E0-4D1D-8C53-4F8929B5980C
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 193450864 (In2)
 							member(2)::PropertyConnection
 								Source Levels/COOP_007/AB02_GameplayLogic_Wave_1_Schematic/E9C83136-49E0-4D1D-8C53-4F8929B5980C

@@ -28,13 +28,13 @@ InterfaceDescriptorData CFF3B4DE-D6DD-4578-946B-F1469A085313
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 		member(1)::DynamicEvent
-			Id 5862567
+			Id 5862567 (P2)
 		member(2)::DynamicEvent
-			Id 5862566
+			Id 5862566 (P3)
 		member(3)::DynamicEvent
-			Id 5862561
+			Id 5862561 (P4)
 		member(4)::DynamicEvent
 			Id -1452333337 (OnDestroyed)
 	InputLinks *nullArray*
@@ -263,33 +263,33 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target CFF3B4DE-D6DD-4578-946B-F1469A085313
 						SourceEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(1)::EventConnection
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target CFF3B4DE-D6DD-4578-946B-F1469A085313
 						SourceEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(2)::EventConnection
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target CFF3B4DE-D6DD-4578-946B-F1469A085313
 						SourceEvent::EventSpec
-							Id 5862566
+							Id 5862566 (P3)
 						TargetEvent::EventSpec
-							Id 5862566
+							Id 5862566 (P3)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(3)::EventConnection
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target CFF3B4DE-D6DD-4578-946B-F1469A085313
 						SourceEvent::EventSpec
-							Id 5862561
+							Id 5862561 (P4)
 						TargetEvent::EventSpec
-							Id 5862561
+							Id 5862561 (P4)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(4)::EventConnection
 						Source 90884B53-6193-4E34-82B6-378280A92E39
@@ -303,7 +303,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 7A44626B-6239-4A3D-81B1-B97FE95470F2
 						SourceEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -311,7 +311,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 7A44626B-6239-4A3D-81B1-B97FE95470F2
 						SourceEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -319,7 +319,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 7A44626B-6239-4A3D-81B1-B97FE95470F2
 						SourceEvent::EventSpec
-							Id 5862566
+							Id 5862566 (P3)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -327,7 +327,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 7A44626B-6239-4A3D-81B1-B97FE95470F2
 						SourceEvent::EventSpec
-							Id 5862561
+							Id 5862561 (P4)
 						TargetEvent::EventSpec
 							Id -395651742 (Decrement)
 						TargetType EventConnectionTargetType_Client
@@ -359,7 +359,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 90C900D2-9B4E-46D9-8DFE-9E78CEAB3FA2
 						SourceEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetEvent::EventSpec
 							Id -274579609 (Destroy)
 						TargetType EventConnectionTargetType_Server
@@ -367,7 +367,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 90C900D2-9B4E-46D9-8DFE-9E78CEAB3FA2
 						SourceEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetEvent::EventSpec
 							Id -274579609 (Destroy)
 						TargetType EventConnectionTargetType_Server
@@ -375,7 +375,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 9D684B49-EC6E-4553-9AC2-0310A189A9A9
 						SourceEvent::EventSpec
-							Id 5862566
+							Id 5862566 (P3)
 						TargetEvent::EventSpec
 							Id -274579609 (Destroy)
 						TargetType EventConnectionTargetType_Server
@@ -383,7 +383,7 @@ SpatialPrefabBlueprint 16C26FB4-8158-4079-A950-3A112D6A7C96 #primary instance
 						Source 90884B53-6193-4E34-82B6-378280A92E39
 						Target 9D684B49-EC6E-4553-9AC2-0310A189A9A9
 						SourceEvent::EventSpec
-							Id 5862561
+							Id 5862561 (P4)
 						TargetEvent::EventSpec
 							Id -274579609 (Destroy)
 						TargetType EventConnectionTargetType_Server

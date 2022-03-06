@@ -2563,7 +2563,7 @@ TransformMultiplierEntityData F67F2B30-0795-4A47-BD8D-057809691DB9
 TransformPartPropertyTrackData 84A6EEA3-03EA-49CC-8F9A-446330F85DF4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2578,7 +2578,7 @@ TransformPartPropertyTrackData 84A6EEA3-03EA-49CC-8F9A-446330F85DF4
 TransformPartPropertyTrackData 01A501CC-88AC-49BA-9698-9DE44A993DA4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2593,7 +2593,7 @@ TransformPartPropertyTrackData 01A501CC-88AC-49BA-9698-9DE44A993DA4
 TransformPartPropertyTrackData 4067DEC7-0586-4995-B17F-4000E14D2762
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2608,7 +2608,7 @@ TransformPartPropertyTrackData 4067DEC7-0586-4995-B17F-4000E14D2762
 TransformPartPropertyTrackData 8B7840E6-6C92-4F38-9C78-9B0858708F5F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2623,7 +2623,7 @@ TransformPartPropertyTrackData 8B7840E6-6C92-4F38-9C78-9B0858708F5F
 TransformPartPropertyTrackData EC6FA489-6E9C-458D-819F-C83FA0483A0B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2638,7 +2638,7 @@ TransformPartPropertyTrackData EC6FA489-6E9C-458D-819F-C83FA0483A0B
 TransformPartPropertyTrackData 5E4AE21C-19B9-469A-B039-CB158143A5E0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1650041280
+		Id -1650041280 (BogeyBankingFlaresLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2653,7 +2653,7 @@ TransformPartPropertyTrackData 5E4AE21C-19B9-469A-B039-CB158143A5E0
 TransformPartPropertyTrackData D61E490E-CE9B-477F-A21B-E78641EBC5AE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2668,7 +2668,7 @@ TransformPartPropertyTrackData D61E490E-CE9B-477F-A21B-E78641EBC5AE
 TransformPartPropertyTrackData 112E9F44-AE4B-4BB5-B272-BF5C2C520C08
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2683,7 +2683,7 @@ TransformPartPropertyTrackData 112E9F44-AE4B-4BB5-B272-BF5C2C520C08
 TransformPartPropertyTrackData 2FB9CB67-232A-451A-B9FD-1AA20BC25071
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2698,7 +2698,7 @@ TransformPartPropertyTrackData 2FB9CB67-232A-451A-B9FD-1AA20BC25071
 TransformPartPropertyTrackData 2AFDF767-A2E5-4A28-BC0D-96031D31A424
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2713,7 +2713,7 @@ TransformPartPropertyTrackData 2AFDF767-A2E5-4A28-BC0D-96031D31A424
 TransformPartPropertyTrackData 9E61C0A3-CD19-4C56-8EBB-D6064D6E2915
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2728,7 +2728,7 @@ TransformPartPropertyTrackData 9E61C0A3-CD19-4C56-8EBB-D6064D6E2915
 TransformPartPropertyTrackData C499E3CF-D198-48C8-BB9B-3E13DD2C724D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1807026405
+		Id -1807026405 (BogeyBankingFlaresRight_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

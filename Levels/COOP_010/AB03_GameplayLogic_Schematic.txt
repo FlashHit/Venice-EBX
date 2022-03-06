@@ -2401,7 +2401,7 @@ SoundPrimeEntityData 08B46BCE-E69C-47A6-BE44-59BAC0BCB330
 TransformPartPropertyTrackData 137002FC-5EF9-42E0-A196-49845B8834D3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2416,7 +2416,7 @@ TransformPartPropertyTrackData 137002FC-5EF9-42E0-A196-49845B8834D3
 TransformPartPropertyTrackData 2BEA67FD-082C-4CA6-8A1A-09E5EE5B4DBA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2431,7 +2431,7 @@ TransformPartPropertyTrackData 2BEA67FD-082C-4CA6-8A1A-09E5EE5B4DBA
 TransformPartPropertyTrackData 7CA2E96B-C4DD-4586-81E1-F504B42E89FF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2446,7 +2446,7 @@ TransformPartPropertyTrackData 7CA2E96B-C4DD-4586-81E1-F504B42E89FF
 TransformPartPropertyTrackData 85DCF6C3-FF1D-47F6-8AF3-2FFA45FDEB61
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2461,7 +2461,7 @@ TransformPartPropertyTrackData 85DCF6C3-FF1D-47F6-8AF3-2FFA45FDEB61
 TransformPartPropertyTrackData 476818DC-C468-4BD8-AD49-2E071BC31137
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2476,7 +2476,7 @@ TransformPartPropertyTrackData 476818DC-C468-4BD8-AD49-2E071BC31137
 TransformPartPropertyTrackData C6B29BA4-0061-40AB-9FF7-A344C9E47D26
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2089156973
+		Id 2089156973 (Heli)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

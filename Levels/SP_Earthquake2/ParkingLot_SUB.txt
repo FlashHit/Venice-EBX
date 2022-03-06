@@ -8626,7 +8626,7 @@ SubWorldData B1AC4FEA-DA93-41EB-AE18-334BFB32835A #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake2/ParkingLot_SCM/FB822FBB-2DE1-4D48-A687-249D434D9E52
 								Target Levels/SP_Earthquake2/ParkingLot_ART/1F4BA123-4585-46BA-BCDB-7EFD776452D1
-								SourceFieldId -976477980
+								SourceFieldId -976477980 (Van_Fall)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/ParkingLot_SCM/D85E0764-F00F-41FB-8AF1-35526402BEE8
@@ -8641,7 +8641,7 @@ SubWorldData B1AC4FEA-DA93-41EB-AE18-334BFB32835A #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake2/ParkingLot_SCM/FB822FBB-2DE1-4D48-A687-249D434D9E52
 								Target Levels/SP_Earthquake2/ParkingLot_SND_SCM/E032FC6E-D7AC-4235-A4A5-7286102718D8
-								SourceFieldId -976477980
+								SourceFieldId -976477980 (Van_Fall)
 								TargetFieldId -2024647575 (Transform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Earthquake2/ParkingLot_SND/8B450FBA-AF0B-4DE4-ADDF-87D20FDDC6D0

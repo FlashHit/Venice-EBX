@@ -400,27 +400,27 @@ SubWorldData F4CD6429-BFDD-4100-ACFE-B6A89026852E #primary instance
 							member(8)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/A926824D-B8D7-4B72-B326-1C09BA77452A
 								Target Levels/SP_Bank/Intro_LOG/F11008DC-A8AA-4B0B-8324-9F6D59326D2B
-								SourceFieldId 888269057
+								SourceFieldId 888269057 (Humvees1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(9)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/A926824D-B8D7-4B72-B326-1C09BA77452A
 								Target Levels/SP_Bank/Intro_LOG/FC92B6F4-6CFD-4797-B7D5-BEAEEE826926
-								SourceFieldId 888269058
+								SourceFieldId 888269058 (Humvees2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(10)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/A926824D-B8D7-4B72-B326-1C09BA77452A
 								Target Levels/SP_Bank/Intro_LOG/EEC8BBE0-71EA-4B41-897D-B958D56D18B1
-								SourceFieldId 888269059
+								SourceFieldId 888269059 (Humvees3)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(11)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/A926824D-B8D7-4B72-B326-1C09BA77452A
 								Target Levels/SP_Bank/Intro_LOG/AB0C26F4-7A5A-49D9-A9AE-77C9A3154CAD
-								SourceFieldId 888269060
+								SourceFieldId 888269060 (Humvees4)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(12)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/A926824D-B8D7-4B72-B326-1C09BA77452A
 								Target Levels/SP_Bank/Intro_LOG/5241FD80-5C41-4A78-8F61-32B93B77BD77
-								SourceFieldId 888269061
+								SourceFieldId 888269061 (Humvees5)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(13)::PropertyConnection
 								Source Levels/SP_Bank/Intro_SCM/1BAE9621-3D53-4CCD-B505-0F5402005E33

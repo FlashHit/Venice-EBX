@@ -17303,7 +17303,7 @@ StaticModelGroupEntityData B12FDA41-4397-24FF-3998-DDA05BDFFF30
 				Last 7270
 			PhysicsPartCountPerInstance 2
 			NetworkIdRange::IndexRange
-				First 5381 ()
+				First 5381
 				Last 5399
 			NetworkIdCountPerInstance 1
 		member(106)::StaticModelGroupMemberData

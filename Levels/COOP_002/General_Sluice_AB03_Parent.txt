@@ -4545,17 +4545,17 @@ SubWorldData 7BF8E973-4362-48A5-9FA0-2FA0B83AECC0 #primary instance
 							member(1)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB03_Schematic/B33CB345-86D1-4B60-9A47-76207C14C016
 								Target Levels/COOP_002/General_Sluice_AB03_Schematic/82CCD247-CFC4-46D4-B163-ACDC846AAE3A
-								SourceFieldId -446691764
+								SourceFieldId -446691764 (Exit_Door)
 								TargetFieldId 193450864 (In2)
 							member(2)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB03_Schematic/DD0918EC-02B5-493F-BCAF-F444F4A67307
 								Target Levels/COOP_002/General_Sluice_AB03_Schematic/82CCD247-CFC4-46D4-B163-ACDC846AAE3A
-								SourceFieldId -446691764
+								SourceFieldId -446691764 (Exit_Door)
 								TargetFieldId 193450867 (In1)
 							member(3)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB03_Schematic/4985DA02-FA14-4D17-B67C-F3A492C8BE68
 								Target Levels/COOP_002/General_Sluice_AB03/BE65D1A1-9E85-4346-A4F7-461DD24CB50D
-								SourceFieldId 1050839291
+								SourceFieldId 1050839291 (Garage_Door)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(4)::PropertyConnection
 								Source 744616E7-1BD8-41F8-1CAC-AF63A5723A79
@@ -4565,7 +4565,7 @@ SubWorldData 7BF8E973-4362-48A5-9FA0-2FA0B83AECC0 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB03_Schematic/F0B5C0FF-D483-4352-984B-F47DC7A59A9E
 								Target Levels/COOP_002/General_Sluice_AB03_Schematic/82CCD247-CFC4-46D4-B163-ACDC846AAE3A
-								SourceFieldId -446691764
+								SourceFieldId -446691764 (Exit_Door)
 								TargetFieldId 193450865 (In3)
 							member(6)::PropertyConnection
 								Source Levels/COOP_002/General_Sluice_AB03_Schematic/82CCD247-CFC4-46D4-B163-ACDC846AAE3A

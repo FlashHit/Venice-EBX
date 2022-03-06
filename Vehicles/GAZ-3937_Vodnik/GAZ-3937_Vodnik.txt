@@ -6860,7 +6860,7 @@ WeaponComponentData 97105EF3-988A-4CF0-9615-FECE2D66AA8E
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381
 WheelComponentData F0C9F01C-3006-482E-89F5-A1B5101F2592
 	$::PartComponentData
 		$::ComponentData

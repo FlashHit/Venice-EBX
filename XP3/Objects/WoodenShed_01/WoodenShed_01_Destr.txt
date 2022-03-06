@@ -92,11 +92,11 @@ InterfaceDescriptorData A1E909D7-0917-44CA-B006-18072A3883B1
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 		member(1)::DynamicEvent
-			Id 5862567
+			Id 5862567 (P2)
 		member(2)::DynamicEvent
-			Id 5862566
+			Id 5862566 (P3)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 ObjectBlueprint 9CE3681F-675A-DF6C-52AF-F96921509DDF #primary instance
@@ -115,7 +115,7 @@ ObjectBlueprint 9CE3681F-675A-DF6C-52AF-F96921509DDF #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862564
+						Id 5862564 (P1)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(1)::EventConnection
 					Source 6884C8C3-E499-AB09-FAC1-DCE13551A764
@@ -123,7 +123,7 @@ ObjectBlueprint 9CE3681F-675A-DF6C-52AF-F96921509DDF #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862567
+						Id 5862567 (P2)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(2)::EventConnection
 					Source 0425E5F6-5BC5-3BC9-4F7D-F4CF234DD4E2
@@ -131,7 +131,7 @@ ObjectBlueprint 9CE3681F-675A-DF6C-52AF-F96921509DDF #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862566
+						Id 5862566 (P3)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor A1E909D7-0917-44CA-B006-18072A3883B1
 			NeedNetworkId False

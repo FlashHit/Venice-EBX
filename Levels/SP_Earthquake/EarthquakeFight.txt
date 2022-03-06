@@ -590,7 +590,7 @@ SequenceEntityData CD96CD8B-9E42-4E78-B9A8-3FE223D8452F
 TransformPartPropertyTrackData 46960406-5592-40B9-B77A-0700C9D01F04
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -605,7 +605,7 @@ TransformPartPropertyTrackData 46960406-5592-40B9-B77A-0700C9D01F04
 TransformPartPropertyTrackData 0A71C0AC-14D8-4DDB-AC64-0EA77F60758A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -620,7 +620,7 @@ TransformPartPropertyTrackData 0A71C0AC-14D8-4DDB-AC64-0EA77F60758A
 TransformPartPropertyTrackData 38E3737F-BDAC-4F6A-8AA8-2DFD5063EF55
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -635,7 +635,7 @@ TransformPartPropertyTrackData 38E3737F-BDAC-4F6A-8AA8-2DFD5063EF55
 TransformPartPropertyTrackData B6E14E6D-979A-4797-9224-E2D94D0969C4
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -650,7 +650,7 @@ TransformPartPropertyTrackData B6E14E6D-979A-4797-9224-E2D94D0969C4
 TransformPartPropertyTrackData 53AE696A-F1DC-4A10-9142-1626EFF37886
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -665,7 +665,7 @@ TransformPartPropertyTrackData 53AE696A-F1DC-4A10-9142-1626EFF37886
 TransformPartPropertyTrackData 78E52B1F-626E-4556-ABBF-4DB3F524EAB1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 886970615
+		Id 886970615 (Technicalearthquake)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

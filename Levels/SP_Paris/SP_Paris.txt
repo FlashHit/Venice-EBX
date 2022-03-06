@@ -1040,7 +1040,7 @@ LevelData 60CD4EB3-B3CF-215E-EC25-BD95C5D23185 #primary instance
 										Source Levels/SP_Paris/Animation/69707902-6075-45A7-B861-C10A780FBFB3
 										Target B04B5FDA-5C47-46EF-ADCE-B64A55DBC689
 										SourceFieldId 193453899 (Out)
-										TargetFieldId 877271231
+										TargetFieldId 877271231 (DoorTransform)
 									member(55)::PropertyConnection
 										Source Levels/SP_Paris/Animation/287912CE-3532-476C-847B-9D6E4DE1451E
 										Target Levels/SP_Paris/Animation/329AA8EE-C0D9-486B-86E6-675D3B8E0770

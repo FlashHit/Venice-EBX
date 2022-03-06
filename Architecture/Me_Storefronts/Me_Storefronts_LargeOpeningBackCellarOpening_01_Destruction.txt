@@ -361,7 +361,7 @@ InterfaceDescriptorData 900A1EDA-491C-43B4-813D-B009DBEEC11B
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862038
+			Id 5862038 (C0)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 ObjectBlueprint 48B81A5C-991B-9C81-8507-A27B3BAD731E #primary instance
@@ -380,7 +380,7 @@ ObjectBlueprint 48B81A5C-991B-9C81-8507-A27B3BAD731E #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862038
+						Id 5862038 (C0)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor 900A1EDA-491C-43B4-813D-B009DBEEC11B
 			NeedNetworkId False

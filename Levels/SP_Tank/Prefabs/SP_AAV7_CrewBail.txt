@@ -1460,7 +1460,7 @@ SpatialPrefabBlueprint 95C92244-C1C4-4693-9CD9-53053012DE5A #primary instance
 						member(9)::PropertyConnection
 							Source 0401B17F-D8F7-4BDE-8ACE-231CC8C4AEB8
 							Target 22337F95-F53E-44F5-8CED-EB958BD92037
-							SourceFieldId 631848157
+							SourceFieldId 631848157 (CloseRamp)
 							TargetFieldId 193450865 (In3)
 						member(10)::PropertyConnection
 							Source 22337F95-F53E-44F5-8CED-EB958BD92037
@@ -2166,7 +2166,7 @@ TransformHubEntityData 22337F95-F53E-44F5-8CED-EB958BD92037
 TransformPartPropertyTrackData 689F73B4-3FE1-4DB4-A727-BD8D997C9C2A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2181,7 +2181,7 @@ TransformPartPropertyTrackData 689F73B4-3FE1-4DB4-A727-BD8D997C9C2A
 TransformPartPropertyTrackData 07B48A22-A68E-45A0-9892-1C816B78A635
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2196,7 +2196,7 @@ TransformPartPropertyTrackData 07B48A22-A68E-45A0-9892-1C816B78A635
 TransformPartPropertyTrackData 5BEED45B-066D-4A56-A2EE-598FF5BB2CE5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2211,7 +2211,7 @@ TransformPartPropertyTrackData 5BEED45B-066D-4A56-A2EE-598FF5BB2CE5
 TransformPartPropertyTrackData 34E40C9F-A6E4-46C5-A6FC-64C6E583B460
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2226,7 +2226,7 @@ TransformPartPropertyTrackData 34E40C9F-A6E4-46C5-A6FC-64C6E583B460
 TransformPartPropertyTrackData 44434D09-5EC2-46E0-93F1-868C33EABF2E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2241,7 +2241,7 @@ TransformPartPropertyTrackData 44434D09-5EC2-46E0-93F1-868C33EABF2E
 TransformPartPropertyTrackData EA6869AB-2FC9-4BB5-9338-7AAFDE16BACF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 631848157
+		Id 631848157 (CloseRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

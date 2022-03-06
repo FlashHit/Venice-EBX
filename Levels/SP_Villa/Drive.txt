@@ -736,7 +736,7 @@ SubWorldData 5A18C02B-A6AA-43C6-8635-4EB46A333E31 #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Villa/Drive_Logic_s/9AD2E554-E31C-4A17-8272-9B2270D59FB8
 								Target Levels/SP_Villa/Drive_Logic_s/2840DBF0-450D-4472-8DE7-1443132DA536
-								SourceFieldId -1305229381
+								SourceFieldId -1305229381 (OpenPoolDoor)
 								TargetFieldId 5862146 (In)
 							member(2)::PropertyConnection
 								Source Levels/SP_Villa/Drive_Logic_s/2840DBF0-450D-4472-8DE7-1443132DA536
@@ -756,12 +756,12 @@ SubWorldData 5A18C02B-A6AA-43C6-8635-4EB46A333E31 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Villa/Drive_Logic_s/01627D8C-22B0-444D-8294-957DD85717BD
 								Target Levels/SP_Villa/Drive_Logic_s/BAC583B4-B4E8-4A0D-93E1-538CAC990731
-								SourceFieldId -389866486
+								SourceFieldId -389866486 (CloseShutter)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/SP_Villa/Drive_Logic_s/9D097769-E4C0-4B3A-8649-B979289575FD
 								Target Levels/SP_Villa/Drive_Logic_s/BAC583B4-B4E8-4A0D-93E1-538CAC990731
-								SourceFieldId 568558760
+								SourceFieldId 568558760 (OpenShutter)
 								TargetFieldId 193450864 (In2)
 							member(7)::PropertyConnection
 								Source Levels/SP_Villa/Drive_Logic_s/BAC583B4-B4E8-4A0D-93E1-538CAC990731

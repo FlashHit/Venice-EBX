@@ -670,12 +670,12 @@ SubWorldData C6C31B89-A4BE-4D90-9D2C-5864293ECF70 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightAssault/42E88BF0-4D08-48A1-BBDC-58CCA6473F0C
 								Target Levels/SP_Earthquake/BridgeFightLogic/378D7BB4-177D-42BF-A485-10BB39485624
-								SourceFieldId 1617831797
+								SourceFieldId 1617831797 (Littlebird01)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightAssault/42E88BF0-4D08-48A1-BBDC-58CCA6473F0C
 								Target Levels/SP_Earthquake/BridgeFightLogic/A3AB94BD-F266-4D80-A944-495EDE7CFDBA
-								SourceFieldId 1617831798
+								SourceFieldId 1617831798 (Littlebird02)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightAssault/2ACFDAF6-E971-4F01-BD2A-F27FFE9D4E1C
@@ -825,7 +825,7 @@ SubWorldData C6C31B89-A4BE-4D90-9D2C-5864293ECF70 #primary instance
 							member(31)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightTechnical/9DB2934B-5D8C-43E8-9482-3F2ECCA2744A
 								Target Levels/SP_Earthquake/BridgeFightLogic/F3A2E61B-D603-41A1-BC33-0A5BD1BA8849
-								SourceFieldId -1015149421
+								SourceFieldId -1015149421 (TecTruck_Right)
 								TargetFieldId 486296679 (SequencerTrack)
 							member(32)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightTechnical/2F4B9062-14AD-4D36-9949-5759681724CC
@@ -855,7 +855,7 @@ SubWorldData C6C31B89-A4BE-4D90-9D2C-5864293ECF70 #primary instance
 							member(37)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightTechnical/0F03DE89-D903-4A55-BFCA-F4FC38857A56
 								Target Levels/SP_Earthquake/BridgeFightLogic/7FA630DF-C2BC-430C-A206-3FE097236983
-								SourceFieldId -91408743
+								SourceFieldId -91408743 (TecTruck_Crash_vehicleRoot)
 								TargetFieldId 486296679 (SequencerTrack)
 							member(38)::PropertyConnection
 								Source Levels/SP_Earthquake/BridgeFightTechnical/CBB3D6C9-6C9D-4F1E-B466-F0BE462F3518

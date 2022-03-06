@@ -9024,7 +9024,7 @@ SubWorldData F280ED56-812E-477A-9D44-5402197941AE #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Villa/Basement_Logic_s/F7D39B34-4265-4296-8783-2C916A72B742
 								Target Levels/SP_Villa/Basement_Logic_s/C3839133-0D1A-47B3-B7D7-A6B8379C1634
-								SourceFieldId -1753497019
+								SourceFieldId -1753497019 (OpenMGTunnelDoor)
 								TargetFieldId 193450867 (In1)
 							member(4)::PropertyConnection
 								Source Levels/SP_Villa/Basement_Logic_s/FD7E4378-6CA3-45A7-8C31-12588FA35F81
@@ -9054,7 +9054,7 @@ SubWorldData F280ED56-812E-477A-9D44-5402197941AE #primary instance
 							member(9)::PropertyConnection
 								Source Levels/SP_Villa/Basement_Logic_s/BDAA08A7-F969-4799-A56C-15A57A11C81B
 								Target Levels/SP_Villa/Basement_Logic_s/847052C5-1F42-461B-9A59-9AB13D5B0ECE
-								SourceFieldId 1376389796
+								SourceFieldId 1376389796 (OpenMOUTDoor)
 								TargetFieldId 5862146 (In)
 							member(10)::PropertyConnection
 								Source Levels/SP_Villa/Basement_Logic_s/847052C5-1F42-461B-9A59-9AB13D5B0ECE
@@ -9079,7 +9079,7 @@ SubWorldData F280ED56-812E-477A-9D44-5402197941AE #primary instance
 							member(14)::PropertyConnection
 								Source Levels/SP_Villa/Basement_SQUAD_Schematic/81C630FB-3125-4BE1-8D31-BD30BDB52ECF
 								Target Levels/SP_Villa/Basement_Logic/7C8FB73D-CCA9-491B-A337-5B21298046C0
-								SourceFieldId -326536499
+								SourceFieldId -326536499 (KickDoorOpen)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(15)::PropertyConnection
 								Source Levels/SP_Villa/Basement_SQUAD_Schematic/F0DC2539-5F7D-468C-A4FE-D4EB77385DA0

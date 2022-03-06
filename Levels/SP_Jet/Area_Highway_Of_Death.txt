@@ -27427,12 +27427,12 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(2)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/B2C90650-45A2-478A-B3B6-4D9618D234BB
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/05ED02D4-BCAA-4E89-B264-DA1DA8EC9ECC
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(3)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/4DA0750B-BCF8-40BF-9853-ABFFF684B3EE
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/05ED02D4-BCAA-4E89-B264-DA1DA8EC9ECC
-								SourceFieldId -66759822
+								SourceFieldId -66759822 (A10Right_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(4)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/05ED02D4-BCAA-4E89-B264-DA1DA8EC9ECC
@@ -27442,17 +27442,17 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/5C5C5756-3600-4A7E-9AAB-69419B1CFBA0
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/F0460156-9241-4803-8B7F-3D5E51D44A3B
-								SourceFieldId -468950671
+								SourceFieldId -468950671 (Jdam_Flyby_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/5275F531-514E-40DC-B129-F394F66DF2C3
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/0AC4FFDF-2BCE-4654-AF4D-25182A53ABE0
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(7)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/3C804FDD-BC27-4C89-BAB3-489B22834000
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/0AC4FFDF-2BCE-4654-AF4D-25182A53ABE0
-								SourceFieldId -66759822
+								SourceFieldId -66759822 (A10Right_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(8)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/0AC4FFDF-2BCE-4654-AF4D-25182A53ABE0
@@ -27497,12 +27497,12 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(16)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/1D148E3A-B00D-4FFE-B626-CFD120493F79
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/0BA5E831-29D5-412D-9280-EBF482E186B7
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(17)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/E0878F3E-BC1A-4F7B-97EE-8795AEF2D211
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/0BA5E831-29D5-412D-9280-EBF482E186B7
-								SourceFieldId -66759822
+								SourceFieldId -66759822 (A10Right_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(18)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/0BA5E831-29D5-412D-9280-EBF482E186B7
@@ -27532,12 +27532,12 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(23)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/FBF04F8C-F54B-4D4E-BFCC-26E3ACF0C737
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/F0460156-9241-4803-8B7F-3D5E51D44A3B
-								SourceFieldId -468950671
+								SourceFieldId -468950671 (Jdam_Flyby_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(24)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/B6A83568-3B02-43BB-924F-607D0F1B36E3
 								Target Levels/SP_Jet/Schematic_Highway_Of_Death/0AC4FFDF-2BCE-4654-AF4D-25182A53ABE0
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450865 (In3)
 							member(25)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_Highway_Of_Death/E894A8C9-AF02-4F5C-98AA-06E4CD2A7584
@@ -27612,17 +27612,17 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(39)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_HWoD_Targets/646FEA8E-122C-4908-8375-1434CB7B647C
 								Target Levels/SP_Jet/Schematic_HWoD_Targets/4AC8321C-6D9B-4085-AC06-3AEACD25E08F
-								SourceFieldId -682737556
+								SourceFieldId -682737556 (VIPHelo1_landing_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(40)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_HWoD_Targets/711967C3-F0E8-4E8A-BFAE-6990CD2076A5
 								Target Levels/SP_Jet/Schematic_HWoD_Targets/4AC8321C-6D9B-4085-AC06-3AEACD25E08F
-								SourceFieldId -438301205
+								SourceFieldId -438301205 (VIPHelo1_starting_vehicleRoot)
 								TargetFieldId 193450865 (In3)
 							member(41)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_HWoD_Targets/87568D30-FC98-42BF-941A-793CDB45848A
 								Target Levels/SP_Jet/Schematic_HWoD_Targets/4AC8321C-6D9B-4085-AC06-3AEACD25E08F
-								SourceFieldId 1656618189
+								SourceFieldId 1656618189 (VIPHelo1_landed_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(42)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_HWoD_Targets/4AC8321C-6D9B-4085-AC06-3AEACD25E08F
@@ -27687,17 +27687,17 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(54)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_EnemyFighters/DCC2EA43-5EEB-4E1A-A0AA-988DCECE3F31
 								Target Levels/SP_Jet/HighwayOfDeath_Gameplay/AF36F4B3-805D-4A36-8A3A-3AE8EBCD046A
-								SourceFieldId 1359494439
+								SourceFieldId 1359494439 (Fighter01)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(55)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_EnemyFighters/100A45CB-B970-4750-9AAC-57C87F9FA95D
 								Target Levels/SP_Jet/HighwayOfDeath_Gameplay/F9A92F21-BCD8-4FC9-B73C-8B141BF45D96
-								SourceFieldId 1359494439
+								SourceFieldId 1359494439 (Fighter01)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(56)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_EnemyFighters/F49B02C1-ABF6-4E8A-8C0A-D8E1176C0E12
 								Target Levels/SP_Jet/HighwayOfDeath_Gameplay/EC80E0BE-5138-4FAA-9166-F45E4AF9EC0A
-								SourceFieldId 1359494439
+								SourceFieldId 1359494439 (Fighter01)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(57)::PropertyConnection
 								Source Levels/SP_Jet/Schematic_EnemyFighters/8C03E37B-0E94-4ADA-A232-11DFD2D935F3
@@ -27762,17 +27762,17 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(69)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/6C864853-D46D-434A-AB05-EF26C22662F7
 								Target Levels/SP_Jet/IntroPlanes/758CDE5E-D33B-4B85-9BD5-9334831C6681
-								SourceFieldId 1301145337
+								SourceFieldId 1301145337 (BombRunAnimation_Intro_A10_1_vehicleRoot)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(70)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/09B85351-5B54-46E6-9CEA-01FCB83C1F80
 								Target Levels/SP_Jet/IntroPlanes/645ABB37-D199-4CD9-BE5E-CF8AA299D186
-								SourceFieldId -2125750534
+								SourceFieldId -2125750534 (BombRunAnimation_Intro_A10_2_vehicleRoot)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(71)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/BA2C9769-E5DD-4C55-9B17-A756FE66C776
 								Target Levels/SP_Jet/BombRunIntro/11CF8857-0CE9-4E6F-A80F-2CB6E719CB78
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(72)::PropertyConnection
 								Source Levels/SP_Jet/HighwayOfDeath_Gameplay/B5DB3529-0399-422D-B673-9CBAE741F1D1
@@ -27787,12 +27787,12 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(74)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/1E34E9B7-D978-4627-B794-A0E30B66A2B3
 								Target Levels/SP_Jet/BombRunIntro/DA511EC8-4C92-42D8-8FD8-7E2EDD33CC7C
-								SourceFieldId 864105896
+								SourceFieldId 864105896 (BombRunAnimation_Intro_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(75)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/1E34E9B7-D978-4627-B794-A0E30B66A2B3
 								Target Levels/SP_Jet/HighwayOfDeath_Gameplay/E37A4F3B-4F36-43AD-8DDB-B67427D60FF6
-								SourceFieldId 864105896
+								SourceFieldId 864105896 (BombRunAnimation_Intro_vehicleRoot)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(76)::PropertyConnection
 								Source Levels/SP_Jet/HighwayOfDeath_Gameplay/26A74585-3C56-4F00-8078-722138D43199
@@ -27802,7 +27802,7 @@ SubWorldData 42AFD486-3409-4B24-89B7-99479C0BC091 #primary instance
 							member(77)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/F2469BA1-DB36-4AD1-98D0-2A54B7FED837
 								Target Levels/SP_Jet/BombRunIntro/ADE157D7-7B4C-435E-B523-58115B085F65
-								SourceFieldId 632806953
+								SourceFieldId 632806953 (A10Left_Flyby.mb_vehicleRoot)
 								TargetFieldId 193450867 (In1)
 							member(78)::PropertyConnection
 								Source Levels/SP_Jet/BombRunIntro/ADE157D7-7B4C-435E-B523-58115B085F65

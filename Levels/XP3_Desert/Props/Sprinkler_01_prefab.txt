@@ -96,7 +96,7 @@ SpatialPrefabBlueprint 233963CA-3C51-1824-6995-FDDD55F658B5 #primary instance
 						member(0)::PropertyConnection
 							Source 7EE818EF-30E4-4245-8D4B-155BCB9845C5
 							Target F17633A3-8481-462F-A918-C3D150C95425
-							SourceFieldId -1617960781
+							SourceFieldId -1617960781 (SprinklerArm_MOVE)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections *nullArray*
@@ -112,7 +112,7 @@ SpatialPrefabBlueprint 233963CA-3C51-1824-6995-FDDD55F658B5 #primary instance
 TransformPartPropertyTrackData FC268E00-2813-4F25-83A4-659C5BDB8DFC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -127,7 +127,7 @@ TransformPartPropertyTrackData FC268E00-2813-4F25-83A4-659C5BDB8DFC
 TransformPartPropertyTrackData 67BF070E-0F07-41FE-B22B-A11D7E4878DE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -142,7 +142,7 @@ TransformPartPropertyTrackData 67BF070E-0F07-41FE-B22B-A11D7E4878DE
 TransformPartPropertyTrackData 8BF6B8B4-4182-4742-9468-AEA3B3606653
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -157,7 +157,7 @@ TransformPartPropertyTrackData 8BF6B8B4-4182-4742-9468-AEA3B3606653
 TransformPartPropertyTrackData F6651E12-9C65-43F8-999A-6BEE7311D807
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -172,7 +172,7 @@ TransformPartPropertyTrackData F6651E12-9C65-43F8-999A-6BEE7311D807
 TransformPartPropertyTrackData 76F7B69C-4D3C-403D-A5F1-EBA5EE1254F2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -187,7 +187,7 @@ TransformPartPropertyTrackData 76F7B69C-4D3C-403D-A5F1-EBA5EE1254F2
 TransformPartPropertyTrackData F220C1FD-A9EC-4DBC-9F96-53C48966ECCA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1617960781
+		Id -1617960781 (SprinklerArm_MOVE)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

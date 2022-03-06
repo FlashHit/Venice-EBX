@@ -7365,37 +7365,37 @@ LevelData 6B89BBFC-8E20-EB0A-BBBC-936D548B899B #primary instance
 									member(46)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/C603F3CB-1858-4AA3-8974-1FB23E07181F
 										Target Levels/MP_013/Effects/03D4612F-7B9C-4C18-8236-392063E9FDFD
-										SourceFieldId 1176258362
+										SourceFieldId 1176258362 (F18_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(47)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/BF749394-4ADA-44AB-BAB4-D470344BC99F
 										Target Levels/MP_013/Effects/0FCBFB28-EDCD-4A24-A6A0-927D58B8CB27
-										SourceFieldId 1176258362
+										SourceFieldId 1176258362 (F18_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(48)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/0535F494-614C-49EC-8676-FA6B90F22394
 										Target Levels/MP_013/Effects/83C283B2-9098-45AB-902F-42DDE7BF4501
-										SourceFieldId 1176258362
+										SourceFieldId 1176258362 (F18_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(49)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/0535F494-614C-49EC-8676-FA6B90F22394
 										Target Levels/MP_013/Effects/3E540CDE-1BE0-4A8F-B0E5-37D697B07C56
-										SourceFieldId 1134611801
+										SourceFieldId 1134611801 (F18_02_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(50)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/0535F494-614C-49EC-8676-FA6B90F22394
 										Target Levels/MP_013/Effects/6D976B07-2C23-4B6D-A9C5-8139C8744DBD
-										SourceFieldId 1097852536
+										SourceFieldId 1097852536 (F18_03_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(51)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/0535F494-614C-49EC-8676-FA6B90F22394
 										Target Levels/MP_013/Effects/2F27F964-BA52-4CC8-B8EA-23326AC08F70
-										SourceFieldId 1065684383
+										SourceFieldId 1065684383 (F18_04_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(52)::PropertyConnection
 										Source Levels/MP_013/Effects_Schematic/0535F494-614C-49EC-8676-FA6B90F22394
 										Target Levels/MP_013/Effects/C6A7CC15-0F77-4D8C-B987-734273A8341F
-										SourceFieldId 1028925118
+										SourceFieldId 1028925118 (F18_05_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(53)::PropertyConnection
 										Source Levels/MP_013/Lighting/615ADDA1-67BE-4124-B5B3-435FC2CAE277

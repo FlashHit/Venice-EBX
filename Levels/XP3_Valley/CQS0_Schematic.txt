@@ -100,7 +100,7 @@ SequenceEntityData 48B4CFFC-1033-4E23-ADDC-FCCD14E45D95
 TransformPartPropertyTrackData C3669639-1DB7-4B49-BE97-A5C89CAAF979
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -115,7 +115,7 @@ TransformPartPropertyTrackData C3669639-1DB7-4B49-BE97-A5C89CAAF979
 TransformPartPropertyTrackData CF66A15D-F038-4B9E-B964-77B2A5EC06E3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -130,7 +130,7 @@ TransformPartPropertyTrackData CF66A15D-F038-4B9E-B964-77B2A5EC06E3
 TransformPartPropertyTrackData 91352352-86A1-41AD-8452-281B76B3DB3C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -145,7 +145,7 @@ TransformPartPropertyTrackData 91352352-86A1-41AD-8452-281B76B3DB3C
 TransformPartPropertyTrackData CE467FEF-1F58-444F-B44B-6CC93305A09C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -160,7 +160,7 @@ TransformPartPropertyTrackData CE467FEF-1F58-444F-B44B-6CC93305A09C
 TransformPartPropertyTrackData 6B1DCC6D-C94C-4A8B-8363-3834B359C3C0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -175,7 +175,7 @@ TransformPartPropertyTrackData 6B1DCC6D-C94C-4A8B-8363-3834B359C3C0
 TransformPartPropertyTrackData F5ABBDF3-7D3D-4C5C-94CB-6FE441FCA19E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 983173852
+		Id 983173852 (Gunship_920x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -2910,17 +2910,17 @@ SubWorldData 77D90C45-877F-4D1C-B398-2E5E386D037B #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake2/Bazaar_SCM/17679029-70B1-4D24-BDAA-819C29ABD7FB
 								Target Levels/SP_Earthquake2/Bazaar_LOG/85AD9BD3-23D6-4FE3-924F-98AF3679D30E
-								SourceFieldId -1410799897
+								SourceFieldId -1410799897 (Osprey)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/Bazaar_SCM/17679029-70B1-4D24-BDAA-819C29ABD7FB
 								Target Levels/SP_Earthquake2/Bazaar_LOG/85AD9BD3-23D6-4FE3-924F-98AF3679D30E
-								SourceFieldId -1410799897
+								SourceFieldId -1410799897 (Osprey)
 								TargetFieldId 1320203318
 							member(2)::PropertyConnection
 								Source Levels/SP_Earthquake2/Bazaar_SCM/17679029-70B1-4D24-BDAA-819C29ABD7FB
 								Target Levels/SP_Earthquake2/Bazaar_SND_SCM/7921558F-07A1-4DD2-96CF-56AEC9FB7409
-								SourceFieldId -1410799897
+								SourceFieldId -1410799897 (Osprey)
 								TargetFieldId -2024647575 (Transform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake2/Bazaar_Lights/C92504DA-89D9-4EBC-A7C3-270ADD90AA86

@@ -1402,7 +1402,7 @@ SoundEntityData 960C82E2-2954-4E48-94D7-5961EDA43EE7
 TransformPartPropertyTrackData 978903CF-F6DC-4E66-A4FD-D86AAD1279AF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1417,7 +1417,7 @@ TransformPartPropertyTrackData 978903CF-F6DC-4E66-A4FD-D86AAD1279AF
 TransformPartPropertyTrackData CBED281C-2DF9-4720-A5AC-CAFBFC7661A3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1432,7 +1432,7 @@ TransformPartPropertyTrackData CBED281C-2DF9-4720-A5AC-CAFBFC7661A3
 TransformPartPropertyTrackData D009D091-1BA3-4E36-9E59-6E643C17D078
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1447,7 +1447,7 @@ TransformPartPropertyTrackData D009D091-1BA3-4E36-9E59-6E643C17D078
 TransformPartPropertyTrackData F623C233-ADDC-422E-8D68-F2D0D5E42121
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1462,7 +1462,7 @@ TransformPartPropertyTrackData F623C233-ADDC-422E-8D68-F2D0D5E42121
 TransformPartPropertyTrackData 3475C4FE-C111-420B-9C57-378ECAEE2B0B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1477,7 +1477,7 @@ TransformPartPropertyTrackData 3475C4FE-C111-420B-9C57-378ECAEE2B0B
 TransformPartPropertyTrackData 16130879-F0AA-4A5B-8967-CB9F69613CDB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 25946414
+		Id 25946414 (SoundLocator)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -3629,7 +3629,7 @@ TransformPartPropertyTrackData DC128242-1AC9-48AC-A400-31B0E3C907FE
 TransformPartPropertyTrackData 7820802B-BB73-4A1A-88CB-9D0EE7F7DAC1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -3644,7 +3644,7 @@ TransformPartPropertyTrackData 7820802B-BB73-4A1A-88CB-9D0EE7F7DAC1
 TransformPartPropertyTrackData 91E0C4D9-982E-4787-970F-5D3771FEFB26
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -3659,7 +3659,7 @@ TransformPartPropertyTrackData 91E0C4D9-982E-4787-970F-5D3771FEFB26
 TransformPartPropertyTrackData 94716787-9168-4461-AB25-0E6E9D81355C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -3674,7 +3674,7 @@ TransformPartPropertyTrackData 94716787-9168-4461-AB25-0E6E9D81355C
 TransformPartPropertyTrackData 8DB4E2EF-52D5-41B2-B0C9-C95B4DBD8FDE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -3689,7 +3689,7 @@ TransformPartPropertyTrackData 8DB4E2EF-52D5-41B2-B0C9-C95B4DBD8FDE
 TransformPartPropertyTrackData 0CCFB785-9CBC-4DDB-AB34-91FD07A636B1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -3704,7 +3704,7 @@ TransformPartPropertyTrackData 0CCFB785-9CBC-4DDB-AB34-91FD07A636B1
 TransformPartPropertyTrackData C19C564D-017A-426F-AFF8-8E4BAF195C49
 	$::PropertyTrackData
 		$::DataContainer
-		Id -956534555
+		Id -956534555 (OutsideTo50CalPropsAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

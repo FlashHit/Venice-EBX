@@ -607,7 +607,7 @@ SoundEntityData F355CD40-044B-463D-9948-AC49698CAFD3
 TransformPartPropertyTrackData AC1B333E-5230-4C95-BC02-A401F6C5AF26
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -622,7 +622,7 @@ TransformPartPropertyTrackData AC1B333E-5230-4C95-BC02-A401F6C5AF26
 TransformPartPropertyTrackData ED68638D-5D77-458A-832E-D6DE67856D74
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -637,7 +637,7 @@ TransformPartPropertyTrackData ED68638D-5D77-458A-832E-D6DE67856D74
 TransformPartPropertyTrackData D4122C67-BAD8-4BDE-AEE9-CF9CA2DD3B2B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -652,7 +652,7 @@ TransformPartPropertyTrackData D4122C67-BAD8-4BDE-AEE9-CF9CA2DD3B2B
 TransformPartPropertyTrackData EECBDBDC-CEFB-4574-A141-56E7EEFFA6D1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -667,7 +667,7 @@ TransformPartPropertyTrackData EECBDBDC-CEFB-4574-A141-56E7EEFFA6D1
 TransformPartPropertyTrackData CB5A0AB9-4CA5-47D2-89E1-C93495E87C16
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -682,7 +682,7 @@ TransformPartPropertyTrackData CB5A0AB9-4CA5-47D2-89E1-C93495E87C16
 TransformPartPropertyTrackData 6F667B9C-BC70-4900-8B07-FB2D7454B55A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 73521011
+		Id 73521011 (Tank1_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -697,7 +697,7 @@ TransformPartPropertyTrackData 6F667B9C-BC70-4900-8B07-FB2D7454B55A
 TransformPartPropertyTrackData E731CA3F-8E73-4C7B-8FA7-FA6970DB6989
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -712,7 +712,7 @@ TransformPartPropertyTrackData E731CA3F-8E73-4C7B-8FA7-FA6970DB6989
 TransformPartPropertyTrackData 211A1D04-94BE-4241-A03D-9142069EE886
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -727,7 +727,7 @@ TransformPartPropertyTrackData 211A1D04-94BE-4241-A03D-9142069EE886
 TransformPartPropertyTrackData 231A4FFB-54C5-475B-BDA4-95C4ADAB438C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -742,7 +742,7 @@ TransformPartPropertyTrackData 231A4FFB-54C5-475B-BDA4-95C4ADAB438C
 TransformPartPropertyTrackData 0AB696C8-9B3C-412E-B18B-D8EF08FDCB25
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -757,7 +757,7 @@ TransformPartPropertyTrackData 0AB696C8-9B3C-412E-B18B-D8EF08FDCB25
 TransformPartPropertyTrackData EAE55B4F-7EF1-48D6-8DAE-D8924CD104A7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -772,7 +772,7 @@ TransformPartPropertyTrackData EAE55B4F-7EF1-48D6-8DAE-D8924CD104A7
 TransformPartPropertyTrackData 452C9F30-3DF7-492E-9BBE-BD90D5823E81
 	$::PropertyTrackData
 		$::DataContainer
-		Id 62167847
+		Id 62167847 (Tank1_Chase)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -787,7 +787,7 @@ TransformPartPropertyTrackData 452C9F30-3DF7-492E-9BBE-BD90D5823E81
 TransformPartPropertyTrackData EB71A786-FC2F-425B-A48B-3CCC28F56198
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -802,7 +802,7 @@ TransformPartPropertyTrackData EB71A786-FC2F-425B-A48B-3CCC28F56198
 TransformPartPropertyTrackData 432E3E23-93B0-4C68-A094-31E535F85553
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -817,7 +817,7 @@ TransformPartPropertyTrackData 432E3E23-93B0-4C68-A094-31E535F85553
 TransformPartPropertyTrackData 564C8C82-0895-4328-9B0B-08B40CBB8CA9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -832,7 +832,7 @@ TransformPartPropertyTrackData 564C8C82-0895-4328-9B0B-08B40CBB8CA9
 TransformPartPropertyTrackData 8529A539-7A36-43C2-A473-C82DAB299E09
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -847,7 +847,7 @@ TransformPartPropertyTrackData 8529A539-7A36-43C2-A473-C82DAB299E09
 TransformPartPropertyTrackData 2FAB2B94-B8E7-4081-A551-109873891665
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -862,7 +862,7 @@ TransformPartPropertyTrackData 2FAB2B94-B8E7-4081-A551-109873891665
 TransformPartPropertyTrackData C1E214D9-5A16-4504-B222-9E6073FDED4B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -586245584
+		Id -586245584 (Tank2_Enter)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

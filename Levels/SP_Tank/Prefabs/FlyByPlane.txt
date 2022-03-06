@@ -203,7 +203,7 @@ SpatialPrefabBlueprint 5034C470-C81E-3A31-83FB-5269BCACA17E #primary instance
 						member(0)::PropertyConnection
 							Source 3D63D2CD-F197-47A8-80BB-B5E25BC86D9C
 							Target ED9C6D11-4184-45FD-82DA-03DB225BF91D
-							SourceFieldId 448259150
+							SourceFieldId 448259150 (FlyBYPrefab_vehicleRoot)
 							TargetFieldId 193450867 (In1)
 						member(1)::PropertyConnection
 							Source 5A407AF3-B2EC-4B99-8EFF-4D5005B1CCD8
@@ -330,7 +330,7 @@ TransformMultiplierEntityData ED9C6D11-4184-45FD-82DA-03DB225BF91D
 TransformPartPropertyTrackData 000771F4-DDD2-4418-8DC4-C40CA6DDC081
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -345,7 +345,7 @@ TransformPartPropertyTrackData 000771F4-DDD2-4418-8DC4-C40CA6DDC081
 TransformPartPropertyTrackData 840FB32D-112E-4BFC-A97A-0CC50B4E699E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -360,7 +360,7 @@ TransformPartPropertyTrackData 840FB32D-112E-4BFC-A97A-0CC50B4E699E
 TransformPartPropertyTrackData C735AACA-DB09-4BC8-9051-767A96BFDF3E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -375,7 +375,7 @@ TransformPartPropertyTrackData C735AACA-DB09-4BC8-9051-767A96BFDF3E
 TransformPartPropertyTrackData D52439A2-CAE8-4B00-951B-F6ABE2693C88
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -390,7 +390,7 @@ TransformPartPropertyTrackData D52439A2-CAE8-4B00-951B-F6ABE2693C88
 TransformPartPropertyTrackData F2B19185-933A-48BF-8780-72B281DE5D04
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -405,7 +405,7 @@ TransformPartPropertyTrackData F2B19185-933A-48BF-8780-72B281DE5D04
 TransformPartPropertyTrackData B3DE006F-A322-4333-8E3B-895899360E57
 	$::PropertyTrackData
 		$::DataContainer
-		Id 448259150
+		Id 448259150 (FlyBYPrefab_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

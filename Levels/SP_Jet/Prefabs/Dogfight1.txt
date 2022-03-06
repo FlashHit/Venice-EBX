@@ -834,12 +834,12 @@ LogicPrefabBlueprint 25BE2BDD-21FC-1725-6591-31A93DE98466 #primary instance
 						member(20)::PropertyConnection
 							Source 760F3CE2-8D99-44FD-B5E1-A9DBC50362C9
 							Target 347DA6FD-F55E-4BCA-9DD1-BB95F2C31D54
-							SourceFieldId -931702928
+							SourceFieldId -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 							TargetFieldId 1836083953
 						member(21)::PropertyConnection
 							Source 760F3CE2-8D99-44FD-B5E1-A9DBC50362C9
 							Target 347DA6FD-F55E-4BCA-9DD1-BB95F2C31D54
-							SourceFieldId 1929877924
+							SourceFieldId 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 							TargetFieldId 1835726885
 						member(22)::PropertyConnection
 							Source 81D12BB9-F33B-4906-A27C-F337C066ACF7
@@ -859,12 +859,12 @@ LogicPrefabBlueprint 25BE2BDD-21FC-1725-6591-31A93DE98466 #primary instance
 						member(25)::PropertyConnection
 							Source E1BE03EF-D896-4490-BEB1-614A7C6B3869
 							Target 347DA6FD-F55E-4BCA-9DD1-BB95F2C31D54
-							SourceFieldId -1242637513
+							SourceFieldId -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 							TargetFieldId 1314072758
 						member(26)::PropertyConnection
 							Source 977AA0B9-315B-47E8-ABB7-14E0DCC99D72
 							Target 347DA6FD-F55E-4BCA-9DD1-BB95F2C31D54
-							SourceFieldId 1614857684
+							SourceFieldId 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 							TargetFieldId 1956953173
 						member(27)::PropertyConnection
 							Source 1CDD2C88-2D44-4FB0-8BDD-EF11B7BBD921
@@ -4507,7 +4507,7 @@ SequenceEntityData 7E38FF86-2D76-450C-946E-2F65C149D90D
 TransformPartPropertyTrackData 9A2E9206-3560-4F03-B44B-200B5DA17D80
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4522,7 +4522,7 @@ TransformPartPropertyTrackData 9A2E9206-3560-4F03-B44B-200B5DA17D80
 TransformPartPropertyTrackData FC216FE8-A1C4-42FF-8882-B6792E88104C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4537,7 +4537,7 @@ TransformPartPropertyTrackData FC216FE8-A1C4-42FF-8882-B6792E88104C
 TransformPartPropertyTrackData EC756E27-54C7-44AF-A7AE-FADD3257C71B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4552,7 +4552,7 @@ TransformPartPropertyTrackData EC756E27-54C7-44AF-A7AE-FADD3257C71B
 TransformPartPropertyTrackData 27A651CC-BA0C-4BFA-86C8-2354584E08B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4567,7 +4567,7 @@ TransformPartPropertyTrackData 27A651CC-BA0C-4BFA-86C8-2354584E08B2
 TransformPartPropertyTrackData 3DAFEAA7-B5C0-4B08-A0AB-DFF61AE1777A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4582,7 +4582,7 @@ TransformPartPropertyTrackData 3DAFEAA7-B5C0-4B08-A0AB-DFF61AE1777A
 TransformPartPropertyTrackData 97CF5A95-DB89-44E8-8B77-B18EBD4CF097
 	$::PropertyTrackData
 		$::DataContainer
-		Id -931702928
+		Id -931702928 (DogFightLoop1BanditWingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4597,7 +4597,7 @@ TransformPartPropertyTrackData 97CF5A95-DB89-44E8-8B77-B18EBD4CF097
 TransformPartPropertyTrackData 3E2B1937-230B-45BE-BB09-8C02BEC44BC6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4612,7 +4612,7 @@ TransformPartPropertyTrackData 3E2B1937-230B-45BE-BB09-8C02BEC44BC6
 TransformPartPropertyTrackData D9F5BF12-7DD2-40D7-B2C7-9D36367A070F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4627,7 +4627,7 @@ TransformPartPropertyTrackData D9F5BF12-7DD2-40D7-B2C7-9D36367A070F
 TransformPartPropertyTrackData 3E657DCC-9E40-4CF6-ABEA-D6B41B3D33F8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4642,7 +4642,7 @@ TransformPartPropertyTrackData 3E657DCC-9E40-4CF6-ABEA-D6B41B3D33F8
 TransformPartPropertyTrackData 79CD9565-C28F-4B22-81DC-442D49A8E9B3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4657,7 +4657,7 @@ TransformPartPropertyTrackData 79CD9565-C28F-4B22-81DC-442D49A8E9B3
 TransformPartPropertyTrackData 7FE5A59E-EA70-4D62-8EC9-5CDEA04881E8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4672,7 +4672,7 @@ TransformPartPropertyTrackData 7FE5A59E-EA70-4D62-8EC9-5CDEA04881E8
 TransformPartPropertyTrackData 5A74220E-1477-4D53-BC86-F91DFBF1B119
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1929877924
+		Id 1929877924 (DogFightLoop1Wingman_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4687,7 +4687,7 @@ TransformPartPropertyTrackData 5A74220E-1477-4D53-BC86-F91DFBF1B119
 TransformPartPropertyTrackData 891943EB-F77D-4090-8296-061E466C567C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4702,7 +4702,7 @@ TransformPartPropertyTrackData 891943EB-F77D-4090-8296-061E466C567C
 TransformPartPropertyTrackData 7F67DDBC-E9AA-41F9-85B6-3EA3266813E1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4717,7 +4717,7 @@ TransformPartPropertyTrackData 7F67DDBC-E9AA-41F9-85B6-3EA3266813E1
 TransformPartPropertyTrackData 727FD60B-3DA9-470B-AF19-D61FFEC9C6AB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4732,7 +4732,7 @@ TransformPartPropertyTrackData 727FD60B-3DA9-470B-AF19-D61FFEC9C6AB
 TransformPartPropertyTrackData 31319881-FB3D-4E6F-96F1-9C7A9AB8BD0F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4747,7 +4747,7 @@ TransformPartPropertyTrackData 31319881-FB3D-4E6F-96F1-9C7A9AB8BD0F
 TransformPartPropertyTrackData E59F6F40-BA3D-4975-8DA5-6E3716EBB09D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4762,7 +4762,7 @@ TransformPartPropertyTrackData E59F6F40-BA3D-4975-8DA5-6E3716EBB09D
 TransformPartPropertyTrackData ECE7F93A-5AC1-4953-B69D-60BC2279B456
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1242637513
+		Id -1242637513 (DogFightLoop1Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4777,7 +4777,7 @@ TransformPartPropertyTrackData ECE7F93A-5AC1-4953-B69D-60BC2279B456
 TransformPartPropertyTrackData 24ABA7DD-F227-4B29-9DCB-874CE95A6010
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4792,7 +4792,7 @@ TransformPartPropertyTrackData 24ABA7DD-F227-4B29-9DCB-874CE95A6010
 TransformPartPropertyTrackData 06D3DDBA-9994-4DE9-9F83-66F6E09F21B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4807,7 +4807,7 @@ TransformPartPropertyTrackData 06D3DDBA-9994-4DE9-9F83-66F6E09F21B2
 TransformPartPropertyTrackData 0FF87FAB-477E-493E-B0FB-F909D2A58958
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4822,7 +4822,7 @@ TransformPartPropertyTrackData 0FF87FAB-477E-493E-B0FB-F909D2A58958
 TransformPartPropertyTrackData 48FE5ECF-1E9F-44A3-A05A-61BA9710F989
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4837,7 +4837,7 @@ TransformPartPropertyTrackData 48FE5ECF-1E9F-44A3-A05A-61BA9710F989
 TransformPartPropertyTrackData 2355587E-2803-4162-B46A-5C0061D7CE69
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4852,7 +4852,7 @@ TransformPartPropertyTrackData 2355587E-2803-4162-B46A-5C0061D7CE69
 TransformPartPropertyTrackData B212D485-FB1D-4E92-8B0D-AB84BB276832
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1614857684
+		Id 1614857684 (DogFightLoop2Bandit2_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

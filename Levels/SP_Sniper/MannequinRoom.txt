@@ -4593,7 +4593,7 @@ SubWorldData C2BC93B4-7E18-4860-9532-18B0BB273D7E #primary instance
 							member(24)::LinkConnection
 								Source Levels/SP_Sniper/MannequinRoom_SQUAD/32E4882C-4372-4358-A7E5-708F2AD13540
 								Target B2321DC8-28C2-F0AD-4B04-EAB87D6470DF
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 2135345941
 							member(25)::LinkConnection
 								Source Levels/SP_Sniper/MannequinRoom_SQUAD/78FD0DCC-676A-4DFB-8A8A-9C3F0FFBD8D4
@@ -5329,7 +5329,7 @@ SubWorldData C2BC93B4-7E18-4860-9532-18B0BB273D7E #primary instance
 							Source Levels/SP_Sniper/MannequinRoom_SQUAD/7C6EA39D-0ADE-4AB0-BE2D-7F46D7F3D23B
 							Target Levels/SP_Sniper/MannequinRoom_SQUAD/B9ACABAD-A537-4B55-906B-FC5C708DCEC2
 							SourceEvent::EventSpec
-								Id -1590439175
+								Id -1590439175 (KickDoor)
 							TargetEvent::EventSpec
 								Id 5862146 (In)
 							TargetType EventConnectionTargetType_Client
@@ -5345,7 +5345,7 @@ SubWorldData C2BC93B4-7E18-4860-9532-18B0BB273D7E #primary instance
 							Source Levels/SP_Sniper/MannequinRoom_SQUAD/7C6EA39D-0ADE-4AB0-BE2D-7F46D7F3D23B
 							Target B2321DC8-28C2-F0AD-4B04-EAB87D6470DF
 							SourceEvent::EventSpec
-								Id -1590439175
+								Id -1590439175 (KickDoor)
 							TargetEvent::EventSpec
 								Id -2137689625 (OpenDoor)
 							TargetType EventConnectionTargetType_ClientAndServer

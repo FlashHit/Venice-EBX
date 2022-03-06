@@ -1325,9 +1325,9 @@ InterfaceDescriptorData 8BB6183E-FBBC-4107-4C2B-9E87A7B4C286
 		member(2)::DynamicEvent
 			Id -2137728346 (OpenGate)
 		member(3)::DynamicEvent
-			Id -1448194845
+			Id -1448194845 (OpenBioDoor)
 		member(4)::DynamicEvent
-			Id -1283802495
+			Id -1283802495 (CloseBioDoor)
 		member(5)::DynamicEvent
 			Id -1473846145
 		member(6)::DynamicEvent
@@ -4975,12 +4975,12 @@ SubWorldData FC07CB93-3E44-48FD-B6DE-159002B3546A #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/0A6E1E66-6522-47F4-82E9-12F8FB9C2980
 								Target Levels/SP_Villa/GateHouse_Logic_s/C81AF560-4B33-4050-8ADB-D22ADB7378C1
-								SourceFieldId -440772812
+								SourceFieldId -440772812 (OpenGateHouseDoor)
 								TargetFieldId 193450867 (In1)
 							member(2)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/695A6429-C54E-41D1-900D-B7021676627B
 								Target Levels/SP_Villa/GateHouse_Logic_s/C81AF560-4B33-4050-8ADB-D22ADB7378C1
-								SourceFieldId -87270378
+								SourceFieldId -87270378 (CloseGateHouseDoor)
 								TargetFieldId 193450864 (In2)
 							member(3)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/FB718CD5-9AA2-4D80-BC46-2EE4CFFFB191
@@ -5005,12 +5005,12 @@ SubWorldData FC07CB93-3E44-48FD-B6DE-159002B3546A #primary instance
 							member(7)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/F68BDD09-73E0-4D39-90C1-980CA41F1D24
 								Target Levels/SP_Villa/GateHouse_Logic_s/485498C7-CA6D-4CDA-A3E1-41FA35A782AB
-								SourceFieldId -1448194845
+								SourceFieldId -1448194845 (OpenBioDoor)
 								TargetFieldId 193450867 (In1)
 							member(8)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/28C018B8-BF88-42CB-B3D1-05E9486EA8E5
 								Target Levels/SP_Villa/GateHouse_Logic_s/485498C7-CA6D-4CDA-A3E1-41FA35A782AB
-								SourceFieldId -1283802495
+								SourceFieldId -1283802495 (CloseBioDoor)
 								TargetFieldId 193450864 (In2)
 							member(9)::PropertyConnection
 								Source Levels/SP_Villa/GateHouse_Logic_s/AF04F947-9ADF-4E69-8B71-D8C5CB70A752
@@ -5431,7 +5431,7 @@ SubWorldData FC07CB93-3E44-48FD-B6DE-159002B3546A #primary instance
 							Source 8BB6183E-FBBC-4107-4C2B-9E87A7B4C286
 							Target Levels/SP_Villa/GateHouse_Logic_s/F68BDD09-73E0-4D39-90C1-980CA41F1D24
 							SourceEvent::EventSpec
-								Id -1448194845
+								Id -1448194845 (OpenBioDoor)
 							TargetEvent::EventSpec
 								Id 230748069 (Start)
 							TargetType EventConnectionTargetType_ClientAndServer
@@ -5439,7 +5439,7 @@ SubWorldData FC07CB93-3E44-48FD-B6DE-159002B3546A #primary instance
 							Source 8BB6183E-FBBC-4107-4C2B-9E87A7B4C286
 							Target Levels/SP_Villa/GateHouse_Logic_s/28C018B8-BF88-42CB-B3D1-05E9486EA8E5
 							SourceEvent::EventSpec
-								Id -1283802495
+								Id -1283802495 (CloseBioDoor)
 							TargetEvent::EventSpec
 								Id 230748069 (Start)
 							TargetType EventConnectionTargetType_ClientAndServer

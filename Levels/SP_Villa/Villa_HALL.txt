@@ -663,7 +663,7 @@ SyncedTransformEntityData B48FE78F-8A32-4D84-AA5F-FF2989C1C217
 TransformPartPropertyTrackData B70F971C-C0C6-47FC-96F3-CD64F5BE2CBC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -678,7 +678,7 @@ TransformPartPropertyTrackData B70F971C-C0C6-47FC-96F3-CD64F5BE2CBC
 TransformPartPropertyTrackData 06118E6A-0845-4E1E-A32D-B2951383403D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -693,7 +693,7 @@ TransformPartPropertyTrackData 06118E6A-0845-4E1E-A32D-B2951383403D
 TransformPartPropertyTrackData 7109B0C0-3974-4E00-88C6-7DCAAC11ED8F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -708,7 +708,7 @@ TransformPartPropertyTrackData 7109B0C0-3974-4E00-88C6-7DCAAC11ED8F
 TransformPartPropertyTrackData D7AD1288-44B7-4EB2-9D6A-B3FB4245BDCE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -723,7 +723,7 @@ TransformPartPropertyTrackData D7AD1288-44B7-4EB2-9D6A-B3FB4245BDCE
 TransformPartPropertyTrackData 4EA419E2-C1F0-48D4-9586-17E831F27A8B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -738,7 +738,7 @@ TransformPartPropertyTrackData 4EA419E2-C1F0-48D4-9586-17E831F27A8B
 TransformPartPropertyTrackData 9737D8C0-5938-455A-9D0E-3CAF97B835B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1116439490
+		Id -1116439490 (KickDoorIn)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

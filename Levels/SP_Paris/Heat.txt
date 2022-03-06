@@ -4581,7 +4581,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Paris/HeatStreet_Logic/B1F8CBB5-EF85-418D-AB5A-9F4AC523CB45
 								Target Levels/SP_Paris/Heat_Street_Logic/9A89A371-B0EE-402B-9E99-894CA7809773
-								SourceFieldId 193432000
+								SourceFieldId 193432000 (rpg)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Paris/HeatStreet_Logic/02DD4F9F-30A5-452C-AF37-EA038F95896C
@@ -4606,7 +4606,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(5)::PropertyConnection
 								Source Levels/SP_Paris/HeatStreet_Logic/B1F8CBB5-EF85-418D-AB5A-9F4AC523CB45
 								Target Levels/SP_Paris/HeatStreet_Logic/0DCB4FEE-2843-4C90-BDDA-AEEE0E25D3EC
-								SourceFieldId 193432000
+								SourceFieldId 193432000 (rpg)
 								TargetFieldId -2024647575 (Transform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Paris/HeatStreet_Logic/02DD4F9F-30A5-452C-AF37-EA038F95896C
@@ -5086,7 +5086,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(101)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/053EAC18-AC3F-450B-8C0B-28F391F066AA
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/94CA6215-FC4C-4D7D-A233-1F6496747A98
-								SourceFieldId -1199218066
+								SourceFieldId -1199218066 (Police_Chopper_part3)
 								TargetFieldId 193450864 (In2)
 							member(102)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/01C5F606-42F4-4BCF-93FB-32193177A2F6
@@ -5096,7 +5096,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(103)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/01C5F606-42F4-4BCF-93FB-32193177A2F6
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/562EAB8E-4DDD-43A6-A065-D573DE364FC4
-								SourceFieldId 1393801451
+								SourceFieldId 1393801451 (Police_Chopper_loop_part5)
 								TargetFieldId 193450864 (In2)
 							member(104)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/01C5F606-42F4-4BCF-93FB-32193177A2F6
@@ -5111,7 +5111,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(106)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/49CFD391-C858-4A0D-8919-92065A627E55
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/DB64531F-468D-44BC-A084-29953553F4F9
-								SourceFieldId 1393801450
+								SourceFieldId 1393801450 (Police_Chopper_loop_part4)
 								TargetFieldId 193450864 (In2)
 							member(107)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/053EAC18-AC3F-450B-8C0B-28F391F066AA
@@ -5126,12 +5126,12 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(109)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/0917675C-85AA-472B-9F4B-ED9B27594EBF
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/68A7D9C2-A3A2-4A39-9D3D-AD851C0481E6
-								SourceFieldId -1199218068
+								SourceFieldId -1199218068 (Police_Chopper_part1)
 								TargetFieldId 193450867 (In1)
 							member(110)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/A18D894C-2869-46E9-AB9A-833851A36B7B
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/68A7D9C2-A3A2-4A39-9D3D-AD851C0481E6
-								SourceFieldId 385678604
+								SourceFieldId 385678604 (Police_chopper_loop_part2)
 								TargetFieldId 193450864 (In2)
 							member(111)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/0917675C-85AA-472B-9F4B-ED9B27594EBF
@@ -5156,7 +5156,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(115)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/941F2D14-858E-42C5-B00B-395D4873889E
 								Target Levels/SP_Paris/Heat_Street_Logic/72D72865-6388-411A-9070-2BCEB6006590
-								SourceFieldId -1069033474
+								SourceFieldId -1069033474 (ChopperWreck)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(116)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/EAA358B1-4DAF-4611-B61B-753AC072F759
@@ -5186,7 +5186,7 @@ SubWorldData CB73B107-2D63-4CF2-A5D1-A4DE97C1C00E #primary instance
 							member(121)::PropertyConnection
 								Source Levels/SP_Paris/Heat_PoliceHelicopter/01C5F606-42F4-4BCF-93FB-32193177A2F6
 								Target Levels/SP_Paris/Heat_PoliceHelicopter/770A043B-43FF-499B-9E89-D46AB74BE886
-								SourceFieldId 1393801451
+								SourceFieldId 1393801451 (Police_Chopper_loop_part5)
 								TargetFieldId -2024647575 (Transform)
 							member(122)::PropertyConnection
 								Source Levels/SP_Paris/HeatBussExplosion/68B974A2-B472-4483-93FF-DAD03BF600F4

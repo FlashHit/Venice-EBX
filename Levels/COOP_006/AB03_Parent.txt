@@ -779,32 +779,32 @@ SubWorldData 3221AC28-E99B-4749-AD5D-48F0EFD2ECA9 #primary instance
 							member(6)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/E5743713-7D90-4155-9D8F-9491D77D274F
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/D1AA2835-7504-4CFA-B648-96C4C031D0AE
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450865 (In3)
 							member(7)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/1CC6418B-0F63-45BB-8038-D0EABA51E2CE
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/D1AA2835-7504-4CFA-B648-96C4C031D0AE
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450864 (In2)
 							member(8)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/6CAD2910-DF03-400A-A643-00C1D195A991
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/D1AA2835-7504-4CFA-B648-96C4C031D0AE
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450867 (In1)
 							member(9)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/1BBE1449-C8CF-409B-B1E0-732C2A43DE46
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/B9D2DDF6-23A2-41B5-8BBE-273E70CDF24D
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450867 (In1)
 							member(10)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/FE61AE84-6D20-41A0-8B60-5764C537137A
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/B9D2DDF6-23A2-41B5-8BBE-273E70CDF24D
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450864 (In2)
 							member(11)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/E23994DE-A674-4EE7-BD98-C23F84A7DD0E
 								Target Levels/COOP_006/AB03_GameplaySquad_Schematic/B9D2DDF6-23A2-41B5-8BBE-273E70CDF24D
-								SourceFieldId -1148017717
+								SourceFieldId -1148017717 (Venom1)
 								TargetFieldId 193450865 (In3)
 							member(12)::PropertyConnection
 								Source Levels/COOP_006/AB03_GameplaySquad_Schematic/D1AA2835-7504-4CFA-B648-96C4C031D0AE

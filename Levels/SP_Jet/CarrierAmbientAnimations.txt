@@ -460,7 +460,7 @@ SoundEntityData 964A8799-DAFB-4C7B-816F-A94DCE08E65F
 TransformPartPropertyTrackData D83D0CF0-96F7-4818-A0C1-63AB3BFBEB9A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -475,7 +475,7 @@ TransformPartPropertyTrackData D83D0CF0-96F7-4818-A0C1-63AB3BFBEB9A
 TransformPartPropertyTrackData 8118E097-D735-48A7-BF9B-7D64B5BEA8C1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -490,7 +490,7 @@ TransformPartPropertyTrackData 8118E097-D735-48A7-BF9B-7D64B5BEA8C1
 TransformPartPropertyTrackData D947727E-215F-44B4-99DA-D98BC24C366D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -505,7 +505,7 @@ TransformPartPropertyTrackData D947727E-215F-44B4-99DA-D98BC24C366D
 TransformPartPropertyTrackData 434C96C4-7B77-416B-9E1D-58BAD34D8617
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -520,7 +520,7 @@ TransformPartPropertyTrackData 434C96C4-7B77-416B-9E1D-58BAD34D8617
 TransformPartPropertyTrackData 0C9AAB93-0CD1-427A-9664-96AC978C2706
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -535,7 +535,7 @@ TransformPartPropertyTrackData 0C9AAB93-0CD1-427A-9664-96AC978C2706
 TransformPartPropertyTrackData 33CF09CF-87F1-4F9F-9DAE-DB74B1D359D3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 798457380
+		Id 798457380 (FrontLeft_F18_takeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -550,7 +550,7 @@ TransformPartPropertyTrackData 33CF09CF-87F1-4F9F-9DAE-DB74B1D359D3
 TransformPartPropertyTrackData 0FC07F60-3CCF-48C8-A730-7EEB7C3F6AB5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -565,7 +565,7 @@ TransformPartPropertyTrackData 0FC07F60-3CCF-48C8-A730-7EEB7C3F6AB5
 TransformPartPropertyTrackData 01454E84-7ECF-4A79-9063-AB8EF90B49B9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -580,7 +580,7 @@ TransformPartPropertyTrackData 01454E84-7ECF-4A79-9063-AB8EF90B49B9
 TransformPartPropertyTrackData 6BD5C138-323A-4C5D-801C-F3FC112C9F68
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -595,7 +595,7 @@ TransformPartPropertyTrackData 6BD5C138-323A-4C5D-801C-F3FC112C9F68
 TransformPartPropertyTrackData D4E8D13C-8661-4F27-8741-FA43ADB9E2D4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -610,7 +610,7 @@ TransformPartPropertyTrackData D4E8D13C-8661-4F27-8741-FA43ADB9E2D4
 TransformPartPropertyTrackData 8E815308-B003-46CD-A8F0-0413BF408DAC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -625,7 +625,7 @@ TransformPartPropertyTrackData 8E815308-B003-46CD-A8F0-0413BF408DAC
 TransformPartPropertyTrackData F73E33AA-31A0-49AF-817D-5A0E4ACE04E3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1113445378
+		Id -1113445378 (Venom_Take_off_playerCarrier)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

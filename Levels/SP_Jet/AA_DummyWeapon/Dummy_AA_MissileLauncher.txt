@@ -729,4 +729,4 @@ WeaponComponentData AB85C541-6A78-41A7-A48E-5ED52A895DFC
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381

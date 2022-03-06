@@ -511,7 +511,7 @@ SpatialPrefabBlueprint A980E581-7E35-475C-A837-348FB08BEEFD #primary instance
 						member(4)::PropertyConnection
 							Source 56D98038-70E4-41EA-8750-15D16039F6D2
 							Target 9F96590F-BF7D-4670-B62A-28F445C9BE72
-							SourceFieldId 230763198
+							SourceFieldId 230763198 (Stove)
 							TargetFieldId 193450867 (In1)
 						member(5)::PropertyConnection
 							Source C7F5DDFE-B92A-4A9A-BB8D-3BCAFEE92C7F
@@ -521,7 +521,7 @@ SpatialPrefabBlueprint A980E581-7E35-475C-A837-348FB08BEEFD #primary instance
 						member(6)::PropertyConnection
 							Source C7F5DDFE-B92A-4A9A-BB8D-3BCAFEE92C7F
 							Target 9F96590F-BF7D-4670-B62A-28F445C9BE72
-							SourceFieldId 230763198
+							SourceFieldId 230763198 (Stove)
 							TargetFieldId 193450864 (In2)
 						member(7)::PropertyConnection
 							Source 9F96590F-BF7D-4670-B62A-28F445C9BE72
@@ -1329,7 +1329,7 @@ TransformPartPropertyTrackData 80B5B720-B006-4A17-8961-A99EA2686F24
 TransformPartPropertyTrackData 3C856B2E-0CE1-4BAC-8DCE-5D2C9408EDE3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1344,7 +1344,7 @@ TransformPartPropertyTrackData 3C856B2E-0CE1-4BAC-8DCE-5D2C9408EDE3
 TransformPartPropertyTrackData 30D091E9-210D-4362-A846-DB2CE0C75291
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1359,7 +1359,7 @@ TransformPartPropertyTrackData 30D091E9-210D-4362-A846-DB2CE0C75291
 TransformPartPropertyTrackData C77D6E3A-A356-4D52-9493-A0A5CC4DCCB8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1374,7 +1374,7 @@ TransformPartPropertyTrackData C77D6E3A-A356-4D52-9493-A0A5CC4DCCB8
 TransformPartPropertyTrackData BB577D13-BD6D-4C50-9467-B2291C7A876F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1389,7 +1389,7 @@ TransformPartPropertyTrackData BB577D13-BD6D-4C50-9467-B2291C7A876F
 TransformPartPropertyTrackData 56A6E602-CFCD-4C76-AABC-49F34DF8FDE9
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1404,7 +1404,7 @@ TransformPartPropertyTrackData 56A6E602-CFCD-4C76-AABC-49F34DF8FDE9
 TransformPartPropertyTrackData 922E39DD-E2B5-4848-B9AF-859858A54696
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1509,7 +1509,7 @@ TransformPartPropertyTrackData F1B61425-040B-46CA-A346-3D20013339F5
 TransformPartPropertyTrackData 04C4E559-5701-4B8A-8004-80144CAC0789
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1524,7 +1524,7 @@ TransformPartPropertyTrackData 04C4E559-5701-4B8A-8004-80144CAC0789
 TransformPartPropertyTrackData 7D1CD8DB-9465-4C29-8601-92F131D869BD
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1539,7 +1539,7 @@ TransformPartPropertyTrackData 7D1CD8DB-9465-4C29-8601-92F131D869BD
 TransformPartPropertyTrackData 6AFB2096-7940-4C18-AE20-24E30C49D525
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1554,7 +1554,7 @@ TransformPartPropertyTrackData 6AFB2096-7940-4C18-AE20-24E30C49D525
 TransformPartPropertyTrackData 90FBAB16-10D5-43F7-B81B-4795CED980D7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1569,7 +1569,7 @@ TransformPartPropertyTrackData 90FBAB16-10D5-43F7-B81B-4795CED980D7
 TransformPartPropertyTrackData 95B74C01-C1F7-401D-A1F3-CA2F7805A6C7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1584,7 +1584,7 @@ TransformPartPropertyTrackData 95B74C01-C1F7-401D-A1F3-CA2F7805A6C7
 TransformPartPropertyTrackData 7221B913-9482-49BD-85BD-FC9E99F90968
 	$::PropertyTrackData
 		$::DataContainer
-		Id 230763198
+		Id 230763198 (Stove)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -66,12 +66,12 @@ PrefabBlueprint E2CF8206-CC20-EEFE-F810-E2461FBFFAE4 #primary instance
 					member(0)::PropertyConnection
 						Source 3AF74CB4-F6A9-47CB-AB09-C48BF901B407
 						Target FB68D6AA-A7B8-4D1E-8D4F-9B4C60536391
-						SourceFieldId -850021338
+						SourceFieldId -850021338 (RobotArm_Root)
 						TargetFieldId -409930682 (BlueprintTransform)
 					member(1)::PropertyConnection
 						Source 3AF74CB4-F6A9-47CB-AB09-C48BF901B407
 						Target FB68D6AA-A7B8-4D1E-8D4F-9B4C60536391
-						SourceFieldId -1066978498
+						SourceFieldId -1066978498 (RobotArm_Arm)
 						TargetFieldId -1517023929
 					member(2)::PropertyConnection
 						Source 542F3A4B-C8AC-4872-9454-0DE42893A872

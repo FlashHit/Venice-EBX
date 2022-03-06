@@ -15,7 +15,7 @@ InterfaceDescriptorData 5C487D5F-F469-4A97-90AC-618032FD182A
 		Fields *nullArray*
 	InputEvents::array
 		member(0)::DynamicEvent
-			Id -57500387
+			Id -57500387 (RaiseSecondaryRamp)
 	OutputEvents *nullArray*
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
@@ -87,7 +87,7 @@ SpatialPrefabBlueprint 461A3E30-3F53-D3A2-071A-C834BC67C209 #primary instance
 						member(0)::PropertyConnection
 							Source AF22C19A-B603-4FB0-8411-88C3C49B6696
 							Target 53446B6E-5B5F-47CC-BDD6-4D95E46E15FD
-							SourceFieldId -57500387
+							SourceFieldId -57500387 (RaiseSecondaryRamp)
 							TargetFieldId -409930682 (BlueprintTransform)
 						member(1)::PropertyConnection
 							Source D14C748B-60FD-4672-9BE8-6ACE9795B2AF
@@ -100,7 +100,7 @@ SpatialPrefabBlueprint 461A3E30-3F53-D3A2-071A-C834BC67C209 #primary instance
 						Source 5C487D5F-F469-4A97-90AC-618032FD182A
 						Target AF22C19A-B603-4FB0-8411-88C3C49B6696
 						SourceEvent::EventSpec
-							Id -57500387
+							Id -57500387 (RaiseSecondaryRamp)
 						TargetEvent::EventSpec
 							Id 230748069 (Start)
 						TargetType EventConnectionTargetType_ClientAndServer
@@ -116,7 +116,7 @@ SpatialPrefabBlueprint 461A3E30-3F53-D3A2-071A-C834BC67C209 #primary instance
 TransformPartPropertyTrackData 137C9F93-81BB-4102-953C-BB03ADF1A2F2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -131,7 +131,7 @@ TransformPartPropertyTrackData 137C9F93-81BB-4102-953C-BB03ADF1A2F2
 TransformPartPropertyTrackData C8893E45-738C-4C75-8891-97A21D6286B3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -146,7 +146,7 @@ TransformPartPropertyTrackData C8893E45-738C-4C75-8891-97A21D6286B3
 TransformPartPropertyTrackData D617BA8E-2BC6-442A-9DE3-C53AF16E94CC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -161,7 +161,7 @@ TransformPartPropertyTrackData D617BA8E-2BC6-442A-9DE3-C53AF16E94CC
 TransformPartPropertyTrackData 71AE8D17-9BEA-48D2-9BDE-267C19497270
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -176,7 +176,7 @@ TransformPartPropertyTrackData 71AE8D17-9BEA-48D2-9BDE-267C19497270
 TransformPartPropertyTrackData 71BE9506-11A2-4A6A-BDA1-85E2B1816F52
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -191,7 +191,7 @@ TransformPartPropertyTrackData 71BE9506-11A2-4A6A-BDA1-85E2B1816F52
 TransformPartPropertyTrackData 9C7F88CF-ECEF-4DB0-B751-05B0D299A9CF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -57500387
+		Id -57500387 (RaiseSecondaryRamp)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

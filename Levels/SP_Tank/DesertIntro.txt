@@ -1149,7 +1149,7 @@ SubWorldData 655848EB-7FCF-46D2-844C-B7F9DF614008 #primary instance
 							member(25)::PropertyConnection
 								Source Levels/SP_Tank/DesertIntroSchema_FriendlyAI/099BB82C-9F96-4369-A0ED-80461855C8A8
 								Target 9A73B5BC-B563-78B2-6473-EE1C3491380D
-								SourceFieldId -596481008
+								SourceFieldId -596481008 (TurnCITV)
 								TargetFieldId -1202626777
 							member(26)::PropertyConnection
 								Source Levels/SP_Tank/DesertIntroSchema_FriendlyAI/184E72F3-4204-49D3-982F-6BA129569A21

@@ -979,7 +979,7 @@ SyncedSequenceEntityData FADC1947-6301-468D-8492-BCF0F6DD3607
 TransformPartPropertyTrackData 8A17E259-A724-402C-8136-1BA3F77DA538
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -994,7 +994,7 @@ TransformPartPropertyTrackData 8A17E259-A724-402C-8136-1BA3F77DA538
 TransformPartPropertyTrackData 208FA999-BA3C-4D21-80EC-AC3487821ED3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1009,7 +1009,7 @@ TransformPartPropertyTrackData 208FA999-BA3C-4D21-80EC-AC3487821ED3
 TransformPartPropertyTrackData 9587C34C-F3DA-4864-B02B-0AD197E62EBF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Oscillate
@@ -1024,7 +1024,7 @@ TransformPartPropertyTrackData 9587C34C-F3DA-4864-B02B-0AD197E62EBF
 TransformPartPropertyTrackData 598FEF72-EA9A-43AF-B3D6-12481A2CD483
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Oscillate
@@ -1039,7 +1039,7 @@ TransformPartPropertyTrackData 598FEF72-EA9A-43AF-B3D6-12481A2CD483
 TransformPartPropertyTrackData 105234A9-E057-4BC7-94C4-CAF87B07EB65
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Oscillate
@@ -1054,7 +1054,7 @@ TransformPartPropertyTrackData 105234A9-E057-4BC7-94C4-CAF87B07EB65
 TransformPartPropertyTrackData 0D68699D-5461-4892-9F9F-A39117083E6A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -629221434
+		Id -629221434 (movedown)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Oscillate

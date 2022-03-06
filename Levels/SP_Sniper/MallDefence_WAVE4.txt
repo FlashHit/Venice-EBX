@@ -2120,7 +2120,7 @@ TransformHubEntityData C43BFADC-29AB-4FBE-8D3E-4150D6E8998F
 TransformPartPropertyTrackData F0BEE927-A1F3-4DD8-ACDB-741FDFF0E886
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2135,7 +2135,7 @@ TransformPartPropertyTrackData F0BEE927-A1F3-4DD8-ACDB-741FDFF0E886
 TransformPartPropertyTrackData 9FA837AE-EA5C-45D0-8C50-33DA8B5BAED1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2150,7 +2150,7 @@ TransformPartPropertyTrackData 9FA837AE-EA5C-45D0-8C50-33DA8B5BAED1
 TransformPartPropertyTrackData 1FB886C1-4058-4867-8688-7460CFFF980A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2165,7 +2165,7 @@ TransformPartPropertyTrackData 1FB886C1-4058-4867-8688-7460CFFF980A
 TransformPartPropertyTrackData FDF716E7-CA61-4BB9-AA9A-DDB4D06630D5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2180,7 +2180,7 @@ TransformPartPropertyTrackData FDF716E7-CA61-4BB9-AA9A-DDB4D06630D5
 TransformPartPropertyTrackData 811776CF-9AF7-4438-BB85-37B880B8ED6E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2195,7 +2195,7 @@ TransformPartPropertyTrackData 811776CF-9AF7-4438-BB85-37B880B8ED6E
 TransformPartPropertyTrackData 74B2A093-868C-42D5-97E8-A0C68B14D646
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1306260342
+		Id -1306260342 (OspreyPath)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2210,7 +2210,7 @@ TransformPartPropertyTrackData 74B2A093-868C-42D5-97E8-A0C68B14D646
 TransformPartPropertyTrackData E2D7AE8B-1B28-4264-BC03-5CF0CD153EE6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2225,7 +2225,7 @@ TransformPartPropertyTrackData E2D7AE8B-1B28-4264-BC03-5CF0CD153EE6
 TransformPartPropertyTrackData EAF0363A-4DD6-41B7-8673-47C475287170
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2240,7 +2240,7 @@ TransformPartPropertyTrackData EAF0363A-4DD6-41B7-8673-47C475287170
 TransformPartPropertyTrackData B897905C-C96B-4726-9C03-204F7EF27FFC
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2255,7 +2255,7 @@ TransformPartPropertyTrackData B897905C-C96B-4726-9C03-204F7EF27FFC
 TransformPartPropertyTrackData 6023734B-5693-4646-8B9D-3405BCCC996F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2270,7 +2270,7 @@ TransformPartPropertyTrackData 6023734B-5693-4646-8B9D-3405BCCC996F
 TransformPartPropertyTrackData D0633E52-CC26-4724-9C28-BE7BF3A5E6CF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2285,7 +2285,7 @@ TransformPartPropertyTrackData D0633E52-CC26-4724-9C28-BE7BF3A5E6CF
 TransformPartPropertyTrackData 79A84B81-D6B3-46B2-AADB-C17905B84A42
 	$::PropertyTrackData
 		$::DataContainer
-		Id 77929267
+		Id 77929267 (OspreyTakeOff)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

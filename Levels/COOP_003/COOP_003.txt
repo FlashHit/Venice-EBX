@@ -2084,12 +2084,12 @@ LevelData B092514F-F93F-4D6D-B675-B3ED56929920 #primary instance
 									member(93)::PropertyConnection
 										Source Levels/COOP_003/General_Connecting_Gameplay_Schematic/8DA8A68F-173F-43DC-9699-E4E24500CF35
 										Target Levels/COOP_003/Art_AlwaysStreamedIn/C00A72C9-9340-4845-B6C6-E4C68818056A
-										SourceFieldId 209242690
+										SourceFieldId 209242690 (Door1)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(94)::PropertyConnection
 										Source Levels/COOP_003/General_Connecting_Gameplay_Schematic/8DA8A68F-173F-43DC-9699-E4E24500CF35
 										Target Levels/COOP_003/Art_AlwaysStreamedIn/20EC24C1-29BE-4DF7-A8C2-990F8AE4CE4B
-										SourceFieldId 209242689
+										SourceFieldId 209242689 (Door2)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(95)::PropertyConnection
 										Source A3704C0F-61A9-0AD2-A5EF-6E2AE6BDFD05

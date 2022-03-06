@@ -140,7 +140,7 @@ SpatialPrefabBlueprint C1253AEA-EDDC-884A-1E41-CD0915E8286F #primary instance
 						member(1)::PropertyConnection
 							Source FDE09058-5560-4269-9D5D-CD32DB98D757
 							Target 7DF3BB65-D605-4FB6-B46D-BDD19C01BC3F
-							SourceFieldId -1898957483
+							SourceFieldId -1898957483 (A10StrafeRollLeft_vehicleRoot)
 							TargetFieldId 193450867 (In1)
 						member(2)::PropertyConnection
 							Source 7DF3BB65-D605-4FB6-B46D-BDD19C01BC3F
@@ -235,7 +235,7 @@ TransformMultiplierEntityData 7DF3BB65-D605-4FB6-B46D-BDD19C01BC3F
 TransformPartPropertyTrackData 27FDF63F-3DBA-483E-A090-AF07707EABB8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -250,7 +250,7 @@ TransformPartPropertyTrackData 27FDF63F-3DBA-483E-A090-AF07707EABB8
 TransformPartPropertyTrackData 290F2A46-A40C-4D01-AAE2-CBA272FEC6E0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -265,7 +265,7 @@ TransformPartPropertyTrackData 290F2A46-A40C-4D01-AAE2-CBA272FEC6E0
 TransformPartPropertyTrackData 27B5D856-895C-4046-8999-B2B40C6C45C1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -280,7 +280,7 @@ TransformPartPropertyTrackData 27B5D856-895C-4046-8999-B2B40C6C45C1
 TransformPartPropertyTrackData 23DEF4D7-D853-4E56-9D7F-8E8AA07CFD4C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -295,7 +295,7 @@ TransformPartPropertyTrackData 23DEF4D7-D853-4E56-9D7F-8E8AA07CFD4C
 TransformPartPropertyTrackData 96ED34FC-D0D9-452F-9DC5-A2215BEC3105
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -310,7 +310,7 @@ TransformPartPropertyTrackData 96ED34FC-D0D9-452F-9DC5-A2215BEC3105
 TransformPartPropertyTrackData 8C8DBE82-1EE6-430B-8737-972E345092E3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1898957483
+		Id -1898957483 (A10StrafeRollLeft_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

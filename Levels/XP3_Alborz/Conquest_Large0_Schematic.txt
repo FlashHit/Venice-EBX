@@ -147,7 +147,7 @@ SequenceEntityData D8E28C32-0854-4EB3-86E2-4C60067368C5
 TransformPartPropertyTrackData CE11B473-8D65-4499-BE7F-F7B484A2ECCD
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -162,7 +162,7 @@ TransformPartPropertyTrackData CE11B473-8D65-4499-BE7F-F7B484A2ECCD
 TransformPartPropertyTrackData 96164809-4F2F-4210-8E8E-4A4D45C38D05
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -177,7 +177,7 @@ TransformPartPropertyTrackData 96164809-4F2F-4210-8E8E-4A4D45C38D05
 TransformPartPropertyTrackData 471B6948-0082-4A2A-BBCC-1B52452F2B6C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -192,7 +192,7 @@ TransformPartPropertyTrackData 471B6948-0082-4A2A-BBCC-1B52452F2B6C
 TransformPartPropertyTrackData 1A26E79F-ACCC-4992-B93A-C474C9638BFA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -207,7 +207,7 @@ TransformPartPropertyTrackData 1A26E79F-ACCC-4992-B93A-C474C9638BFA
 TransformPartPropertyTrackData 155D0993-E206-4416-94F4-B16BD32797F5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -222,7 +222,7 @@ TransformPartPropertyTrackData 155D0993-E206-4416-94F4-B16BD32797F5
 TransformPartPropertyTrackData CC45375C-121B-48EE-8654-AB6A6118FCA9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -861961710
+		Id -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -237,7 +237,7 @@ TransformPartPropertyTrackData CC45375C-121B-48EE-8654-AB6A6118FCA9
 TransformPartPropertyTrackData 8D7DCE1B-3EAC-46BA-AF83-A451FECF69E8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -252,7 +252,7 @@ TransformPartPropertyTrackData 8D7DCE1B-3EAC-46BA-AF83-A451FECF69E8
 TransformPartPropertyTrackData 044F79B1-72D4-45C8-A237-F4F3FA4BB3CC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -267,7 +267,7 @@ TransformPartPropertyTrackData 044F79B1-72D4-45C8-A237-F4F3FA4BB3CC
 TransformPartPropertyTrackData 0C219457-2ADC-497D-AD42-12322A6F42E2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -282,7 +282,7 @@ TransformPartPropertyTrackData 0C219457-2ADC-497D-AD42-12322A6F42E2
 TransformPartPropertyTrackData A7219CBA-0D74-4470-9D35-81D06D2B5122
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -297,7 +297,7 @@ TransformPartPropertyTrackData A7219CBA-0D74-4470-9D35-81D06D2B5122
 TransformPartPropertyTrackData 88FF7CC1-A1D3-4A79-B6B8-793B9A5D327B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -312,7 +312,7 @@ TransformPartPropertyTrackData 88FF7CC1-A1D3-4A79-B6B8-793B9A5D327B
 TransformPartPropertyTrackData 94B7A6EF-0294-493D-8FBC-E7857A9DB3D7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1294481422
+		Id -1294481422 (Animatetransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

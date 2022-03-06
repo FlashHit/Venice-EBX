@@ -797,7 +797,7 @@ SubWorldData C780FC40-466E-4A36-BCAC-2DCF7DBFA0EC #primary instance
 							member(15)::PropertyConnection
 								Source Levels/SP_Bank/Vault_END/B1AE44D1-DB57-4CA0-8252-6CEA0933813F
 								Target Levels/SP_Bank/Vault_LOG/BE869B61-646B-40BE-95A3-EA54BB8131D3
-								SourceFieldId -222247895
+								SourceFieldId -222247895 (Vaultdoor)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(16)::PropertyConnection
 								Source Levels/SP_Bank/Vault_LOG/1DD7D6B1-0C33-49A7-A9E4-2885DA5D4B8D

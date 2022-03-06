@@ -8098,7 +8098,7 @@ TransformPartPropertyTrackData AE53C504-52E5-44EA-9687-998EF1270AEB
 TransformPartPropertyTrackData 88FE9526-61ED-4F68-9085-9D4B2EA00942
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8113,7 +8113,7 @@ TransformPartPropertyTrackData 88FE9526-61ED-4F68-9085-9D4B2EA00942
 TransformPartPropertyTrackData A513191F-8E18-43D2-8C9F-C9A4EDB2711A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8128,7 +8128,7 @@ TransformPartPropertyTrackData A513191F-8E18-43D2-8C9F-C9A4EDB2711A
 TransformPartPropertyTrackData EAC4EEF8-BA40-4DC2-BD71-9E242FB48658
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8143,7 +8143,7 @@ TransformPartPropertyTrackData EAC4EEF8-BA40-4DC2-BD71-9E242FB48658
 TransformPartPropertyTrackData 76FEB755-4E67-473B-9608-3C86E2C7FCBF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8158,7 +8158,7 @@ TransformPartPropertyTrackData 76FEB755-4E67-473B-9608-3C86E2C7FCBF
 TransformPartPropertyTrackData 5606C3CB-BDBF-43A3-9639-12C869B34179
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8173,7 +8173,7 @@ TransformPartPropertyTrackData 5606C3CB-BDBF-43A3-9639-12C869B34179
 TransformPartPropertyTrackData 9010A905-88AE-4B1B-AFFC-8BBE7A03C381
 	$::PropertyTrackData
 		$::DataContainer
-		Id -539021851
+		Id -539021851 (AiOpenLoop)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8188,7 +8188,7 @@ TransformPartPropertyTrackData 9010A905-88AE-4B1B-AFFC-8BBE7A03C381
 TransformPartPropertyTrackData 164C8B5E-EEDF-4BE0-8B61-1F586AB47DBA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8203,7 +8203,7 @@ TransformPartPropertyTrackData 164C8B5E-EEDF-4BE0-8B61-1F586AB47DBA
 TransformPartPropertyTrackData 5035155B-414F-46DE-808A-DA5FAA9B509F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8218,7 +8218,7 @@ TransformPartPropertyTrackData 5035155B-414F-46DE-808A-DA5FAA9B509F
 TransformPartPropertyTrackData F6ED7FF5-274C-43F6-B6F7-ADE8923E01BB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8233,7 +8233,7 @@ TransformPartPropertyTrackData F6ED7FF5-274C-43F6-B6F7-ADE8923E01BB
 TransformPartPropertyTrackData F3DF907B-2DC7-4C31-B6EE-66E63E4B5DB0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8248,7 +8248,7 @@ TransformPartPropertyTrackData F3DF907B-2DC7-4C31-B6EE-66E63E4B5DB0
 TransformPartPropertyTrackData C341BACF-49ED-4303-901B-43ED10870C62
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8263,7 +8263,7 @@ TransformPartPropertyTrackData C341BACF-49ED-4303-901B-43ED10870C62
 TransformPartPropertyTrackData 27D85A17-431D-4534-90B8-123AEF5C1359
 	$::PropertyTrackData
 		$::DataContainer
-		Id 871148845
+		Id 871148845 (AiCloseHatch)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8278,7 +8278,7 @@ TransformPartPropertyTrackData 27D85A17-431D-4534-90B8-123AEF5C1359
 TransformPartPropertyTrackData 47F13B8C-6A6B-40B0-B598-DE70972A6FEA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8293,7 +8293,7 @@ TransformPartPropertyTrackData 47F13B8C-6A6B-40B0-B598-DE70972A6FEA
 TransformPartPropertyTrackData AE5B6AD8-F832-4917-91B3-077459A471F8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8308,7 +8308,7 @@ TransformPartPropertyTrackData AE5B6AD8-F832-4917-91B3-077459A471F8
 TransformPartPropertyTrackData 9309B9B4-4BAE-490E-9D60-61AC13BA4A88
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8323,7 +8323,7 @@ TransformPartPropertyTrackData 9309B9B4-4BAE-490E-9D60-61AC13BA4A88
 TransformPartPropertyTrackData 7CDEDC4B-6CF4-4E7F-A2DE-4A6F2C23B2DF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8338,7 +8338,7 @@ TransformPartPropertyTrackData 7CDEDC4B-6CF4-4E7F-A2DE-4A6F2C23B2DF
 TransformPartPropertyTrackData 82DAD2A5-9C76-4992-86A4-E07139DF7073
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8353,7 +8353,7 @@ TransformPartPropertyTrackData 82DAD2A5-9C76-4992-86A4-E07139DF7073
 TransformPartPropertyTrackData 3AADA3CF-CAC5-4CD9-826F-E266DF680953
 	$::PropertyTrackData
 		$::DataContainer
-		Id 431888222
+		Id 431888222 (HandelReload)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8368,7 +8368,7 @@ TransformPartPropertyTrackData 3AADA3CF-CAC5-4CD9-826F-E266DF680953
 TransformPartPropertyTrackData 5F86CD00-E80D-49E9-A77B-C468D0852DAC
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8383,7 +8383,7 @@ TransformPartPropertyTrackData 5F86CD00-E80D-49E9-A77B-C468D0852DAC
 TransformPartPropertyTrackData 819929C6-6892-4475-94A7-85F309F22EE7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8398,7 +8398,7 @@ TransformPartPropertyTrackData 819929C6-6892-4475-94A7-85F309F22EE7
 TransformPartPropertyTrackData B10225CB-E938-478A-9882-F3A04944A9D2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8413,7 +8413,7 @@ TransformPartPropertyTrackData B10225CB-E938-478A-9882-F3A04944A9D2
 TransformPartPropertyTrackData 0C327EEE-E173-4D9F-981F-0A6C1E29E0A3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8428,7 +8428,7 @@ TransformPartPropertyTrackData 0C327EEE-E173-4D9F-981F-0A6C1E29E0A3
 TransformPartPropertyTrackData 9F6B9867-9FE1-45D0-B71A-8F02DF99FF24
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8443,7 +8443,7 @@ TransformPartPropertyTrackData 9F6B9867-9FE1-45D0-B71A-8F02DF99FF24
 TransformPartPropertyTrackData 61844277-3DE9-48FA-A3A7-DC3DDE0D8838
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1382834219
+		Id 1382834219 (BoltFlap)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8548,7 +8548,7 @@ TransformPartPropertyTrackData 6FCF7A2A-E649-479A-857D-638F01AA0CB4
 TransformPartPropertyTrackData 0DF50168-DA09-4C69-9F47-E43828676A33
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8563,7 +8563,7 @@ TransformPartPropertyTrackData 0DF50168-DA09-4C69-9F47-E43828676A33
 TransformPartPropertyTrackData E8833A51-6303-42E5-851B-639FED65DC97
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8578,7 +8578,7 @@ TransformPartPropertyTrackData E8833A51-6303-42E5-851B-639FED65DC97
 TransformPartPropertyTrackData 58E063CE-1E62-476D-BAC3-CE4A6F9C0614
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8593,7 +8593,7 @@ TransformPartPropertyTrackData 58E063CE-1E62-476D-BAC3-CE4A6F9C0614
 TransformPartPropertyTrackData 05BC3313-68E4-4482-A113-5186FA94094F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8608,7 +8608,7 @@ TransformPartPropertyTrackData 05BC3313-68E4-4482-A113-5186FA94094F
 TransformPartPropertyTrackData 3E03DA1A-996E-4544-9748-6BDF0ADC9AAA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8623,7 +8623,7 @@ TransformPartPropertyTrackData 3E03DA1A-996E-4544-9748-6BDF0ADC9AAA
 TransformPartPropertyTrackData E2749B2F-E407-4824-8480-66C43478365B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 218262509
+		Id 218262509 (Lever)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8638,7 +8638,7 @@ TransformPartPropertyTrackData E2749B2F-E407-4824-8480-66C43478365B
 TransformPartPropertyTrackData EF10216E-14EF-4EEF-9940-BD59F1AE4FA8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8653,7 +8653,7 @@ TransformPartPropertyTrackData EF10216E-14EF-4EEF-9940-BD59F1AE4FA8
 TransformPartPropertyTrackData AB864F24-5860-4FCD-B85D-C63478E6C439
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8668,7 +8668,7 @@ TransformPartPropertyTrackData AB864F24-5860-4FCD-B85D-C63478E6C439
 TransformPartPropertyTrackData EA45A19D-AB7F-4AC8-AC3A-49B66EE2E7CE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8683,7 +8683,7 @@ TransformPartPropertyTrackData EA45A19D-AB7F-4AC8-AC3A-49B66EE2E7CE
 TransformPartPropertyTrackData 145E2E0B-5B75-49E5-8FAD-9E44CCB8AE4B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8698,7 +8698,7 @@ TransformPartPropertyTrackData 145E2E0B-5B75-49E5-8FAD-9E44CCB8AE4B
 TransformPartPropertyTrackData DAB9652C-0883-4EEF-830F-0C3E98CE1CE9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8713,7 +8713,7 @@ TransformPartPropertyTrackData DAB9652C-0883-4EEF-830F-0C3E98CE1CE9
 TransformPartPropertyTrackData 64C02270-5B99-4562-84C8-82183CF7C699
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787961
+		Id -1941787961 (Ammobelt3)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8728,7 +8728,7 @@ TransformPartPropertyTrackData 64C02270-5B99-4562-84C8-82183CF7C699
 TransformPartPropertyTrackData D9FED3E6-D3AA-4168-A881-D773CD81D9CC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8743,7 +8743,7 @@ TransformPartPropertyTrackData D9FED3E6-D3AA-4168-A881-D773CD81D9CC
 TransformPartPropertyTrackData BB055453-AE41-4B34-AD11-2E3498A5CF48
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8758,7 +8758,7 @@ TransformPartPropertyTrackData BB055453-AE41-4B34-AD11-2E3498A5CF48
 TransformPartPropertyTrackData 2F515D13-A70E-4317-A6D1-B99208DF231E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8773,7 +8773,7 @@ TransformPartPropertyTrackData 2F515D13-A70E-4317-A6D1-B99208DF231E
 TransformPartPropertyTrackData 4F20A49C-BFFB-462E-BF61-C541729B1C21
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8788,7 +8788,7 @@ TransformPartPropertyTrackData 4F20A49C-BFFB-462E-BF61-C541729B1C21
 TransformPartPropertyTrackData 05E6B47B-83DC-4293-A0D7-E0531D5E68AF
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8803,7 +8803,7 @@ TransformPartPropertyTrackData 05E6B47B-83DC-4293-A0D7-E0531D5E68AF
 TransformPartPropertyTrackData FE03DF15-0D81-42C4-AC16-51888AA58E5F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787962
+		Id -1941787962 (Ammobelt2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8818,7 +8818,7 @@ TransformPartPropertyTrackData FE03DF15-0D81-42C4-AC16-51888AA58E5F
 TransformPartPropertyTrackData 24BC4684-4F46-42DA-B874-976570A19EFA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8833,7 +8833,7 @@ TransformPartPropertyTrackData 24BC4684-4F46-42DA-B874-976570A19EFA
 TransformPartPropertyTrackData 63FBC7A9-F18F-42D5-AD22-AFF4F10919B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8848,7 +8848,7 @@ TransformPartPropertyTrackData 63FBC7A9-F18F-42D5-AD22-AFF4F10919B2
 TransformPartPropertyTrackData E14DE6D5-8D9A-4412-A0BA-CD690F50C665
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8863,7 +8863,7 @@ TransformPartPropertyTrackData E14DE6D5-8D9A-4412-A0BA-CD690F50C665
 TransformPartPropertyTrackData 8E1A416C-DEB7-49AD-A0CC-E00541C1381C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8878,7 +8878,7 @@ TransformPartPropertyTrackData 8E1A416C-DEB7-49AD-A0CC-E00541C1381C
 TransformPartPropertyTrackData 10FF26F7-4105-45E4-A89A-6F90F3495A60
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8893,7 +8893,7 @@ TransformPartPropertyTrackData 10FF26F7-4105-45E4-A89A-6F90F3495A60
 TransformPartPropertyTrackData CFBE8B05-C6DF-41A3-87E1-C5324D4C391C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1941787963
+		Id -1941787963 (Ammobelt1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8908,7 +8908,7 @@ TransformPartPropertyTrackData CFBE8B05-C6DF-41A3-87E1-C5324D4C391C
 TransformPartPropertyTrackData AC55D690-DA8E-4943-A12C-B6FBA13E5CBB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -8923,7 +8923,7 @@ TransformPartPropertyTrackData AC55D690-DA8E-4943-A12C-B6FBA13E5CBB
 TransformPartPropertyTrackData A95B40CC-1D23-475E-BED2-89C93DE49850
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -8938,7 +8938,7 @@ TransformPartPropertyTrackData A95B40CC-1D23-475E-BED2-89C93DE49850
 TransformPartPropertyTrackData 97D8EF42-9EFB-4B15-8BD4-AE6269BFC666
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8953,7 +8953,7 @@ TransformPartPropertyTrackData 97D8EF42-9EFB-4B15-8BD4-AE6269BFC666
 TransformPartPropertyTrackData 1DBDB79C-81E2-4F1C-93BD-58C013AF0EEE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -8968,7 +8968,7 @@ TransformPartPropertyTrackData 1DBDB79C-81E2-4F1C-93BD-58C013AF0EEE
 TransformPartPropertyTrackData 040E28FA-CFB1-4C67-BF3C-77E1474844A9
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -8983,7 +8983,7 @@ TransformPartPropertyTrackData 040E28FA-CFB1-4C67-BF3C-77E1474844A9
 TransformPartPropertyTrackData BE27FFE6-3732-4EAF-9E8B-5C0BE074D7B7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1128516814
+		Id 1128516814 (ZeroGunnerTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -8998,7 +8998,7 @@ TransformPartPropertyTrackData BE27FFE6-3732-4EAF-9E8B-5C0BE074D7B7
 TransformPartPropertyTrackData 1B5C3C4B-6D8E-4E06-8F0B-0AC958A7DA14
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -9013,7 +9013,7 @@ TransformPartPropertyTrackData 1B5C3C4B-6D8E-4E06-8F0B-0AC958A7DA14
 TransformPartPropertyTrackData 85C6B554-212A-45C1-899A-B9B6BC9C1668
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -9028,7 +9028,7 @@ TransformPartPropertyTrackData 85C6B554-212A-45C1-899A-B9B6BC9C1668
 TransformPartPropertyTrackData 2F942B4C-FF9F-4E31-B678-284579971298
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -9043,7 +9043,7 @@ TransformPartPropertyTrackData 2F942B4C-FF9F-4E31-B678-284579971298
 TransformPartPropertyTrackData 9E981874-CD34-44DF-9EFB-AA435B00EE52
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -9058,7 +9058,7 @@ TransformPartPropertyTrackData 9E981874-CD34-44DF-9EFB-AA435B00EE52
 TransformPartPropertyTrackData 6E844C11-2983-4D8B-B030-76DBB61BDFED
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -9073,7 +9073,7 @@ TransformPartPropertyTrackData 6E844C11-2983-4D8B-B030-76DBB61BDFED
 TransformPartPropertyTrackData D485231D-D837-4B1D-A39F-B06712E39884
 	$::PropertyTrackData
 		$::DataContainer
-		Id 313665632
+		Id 313665632 (Zero50CalTransform)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -9385,12 +9385,12 @@ VehicleBlueprint 3D1EAFE6-297A-4061-97EB-3EF1C17513BC #primary instance
 						member(14)::PropertyConnection
 							Source F3906ABC-CAFD-4C6D-90F9-D991F8170E90
 							Target 67674528-6CB1-41D0-8FCB-012C0E5736AB
-							SourceFieldId -539021851
+							SourceFieldId -539021851 (AiOpenLoop)
 							TargetFieldId 193450867 (In1)
 						member(15)::PropertyConnection
 							Source 88883A18-839B-44EA-987B-6771BA27825C
 							Target 67674528-6CB1-41D0-8FCB-012C0E5736AB
-							SourceFieldId 871148845
+							SourceFieldId 871148845 (AiCloseHatch)
 							TargetFieldId 193450864 (In2)
 						member(16)::PropertyConnection
 							Source 67674528-6CB1-41D0-8FCB-012C0E5736AB
@@ -9450,12 +9450,12 @@ VehicleBlueprint 3D1EAFE6-297A-4061-97EB-3EF1C17513BC #primary instance
 						member(27)::PropertyConnection
 							Source E3085734-A81C-40EA-A998-ABC45863D80D
 							Target 158E2083-2CAB-8C7D-F517-DF63889BA670
-							SourceFieldId 431888222
+							SourceFieldId 431888222 (HandelReload)
 							TargetFieldId -2024647575 (Transform)
 						member(28)::PropertyConnection
 							Source 2C37BD59-2298-40B4-8BF9-D29F5992D14C
 							Target 56A5F716-3107-98ED-7413-A79D070AF8AF
-							SourceFieldId 1382834219
+							SourceFieldId 1382834219 (BoltFlap)
 							TargetFieldId -2024647575 (Transform)
 						member(29)::PropertyConnection
 							Source F4973B9A-7882-4773-BD8C-C04DC72F89D7
@@ -9520,22 +9520,22 @@ VehicleBlueprint 3D1EAFE6-297A-4061-97EB-3EF1C17513BC #primary instance
 						member(41)::PropertyConnection
 							Source 52A60D0A-3A83-429A-8A4E-6B2EEAE7E1C2
 							Target 44618C31-DE2F-91B5-68F5-D3ADA79079A7
-							SourceFieldId 218262509
+							SourceFieldId 218262509 (Lever)
 							TargetFieldId -2024647575 (Transform)
 						member(42)::PropertyConnection
 							Source FEF7B654-D866-4FC2-A1B3-8B39E07036C6
 							Target 80D8FA68-30D1-AA33-8952-2C0D81379527
-							SourceFieldId -1941787961
+							SourceFieldId -1941787961 (Ammobelt3)
 							TargetFieldId -2024647575 (Transform)
 						member(43)::PropertyConnection
 							Source B7664E64-1838-4056-BCD4-2F40F4D17C7B
 							Target 38BB087C-EE7B-9708-9A54-FCB9B5322200
-							SourceFieldId -1941787962
+							SourceFieldId -1941787962 (Ammobelt2)
 							TargetFieldId -2024647575 (Transform)
 						member(44)::PropertyConnection
 							Source 6C55574E-5303-4646-B9B1-3DC3A3C6A39F
 							Target 8CB18912-0571-4172-46D8-FDD51B9233E6
-							SourceFieldId -1941787963
+							SourceFieldId -1941787963 (Ammobelt1)
 							TargetFieldId -2024647575 (Transform)
 						member(45)::PropertyConnection
 							Source 6DD86B09-F573-47AB-B013-67FD4036C23E
@@ -9595,12 +9595,12 @@ VehicleBlueprint 3D1EAFE6-297A-4061-97EB-3EF1C17513BC #primary instance
 						member(56)::PropertyConnection
 							Source 6A222A68-335C-4BCD-9A83-7BC8CD9C2A1A
 							Target 69F121D9-6E2F-4A8E-A6AD-FEEEBB3BF8CC
-							SourceFieldId 1128516814
+							SourceFieldId 1128516814 (ZeroGunnerTransform)
 							TargetFieldId -2024647575 (Transform)
 						member(57)::PropertyConnection
 							Source 36B32236-EE11-432A-A375-06C5DE3D0A7A
 							Target 921550C5-B35F-4874-B31A-982AD2362FD6
-							SourceFieldId 313665632
+							SourceFieldId 313665632 (Zero50CalTransform)
 							TargetFieldId -2024647575 (Transform)
 					LinkConnections::array
 						member(0)::LinkConnection

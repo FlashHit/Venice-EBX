@@ -2299,7 +2299,7 @@ LevelData 63DEEB45-064D-FF59-2740-FE0EFE37EDDA #primary instance
 									member(200)::PropertyConnection
 										Source Levels/SP_Sniper/Doors_Schematic/EAD1F3C3-EDCB-4244-85B1-774DC57F943B
 										Target Levels/SP_Sniper/Doors_Schematic/CDA55C71-099A-42CB-9770-BD0C5F1F0F5E
-										SourceFieldId 218245452
+										SourceFieldId 218245452 (Left2)
 										TargetFieldId 193450864 (In2)
 									member(201)::PropertyConnection
 										Source Levels/SP_Sniper/Doors_Schematic/EAD1F3C3-EDCB-4244-85B1-774DC57F943B

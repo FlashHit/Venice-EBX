@@ -3844,7 +3844,7 @@ SubWorldData 97ACBCC7-2A3E-4EE4-B30F-D1ACCFC2857E #primary instance
 							member(95)::PropertyConnection
 								Source Levels/XP3_Shield/RushLarge_Logic_Schematic/6150990C-2AC9-4996-A08E-EAC288D95703
 								Target Levels/XP3_Shield/RushLarge_Logic/92F1603D-8126-475E-B064-6F8AC5B61287
-								SourceFieldId -1182483491
+								SourceFieldId -1182483491 (Gunship_500x500_vehicleRoot)
 								TargetFieldId 1831219017
 							member(96)::PropertyConnection
 								Source 64D64155-ADBB-2C42-89FA-34A5AE4669E3
@@ -4074,12 +4074,12 @@ SubWorldData 97ACBCC7-2A3E-4EE4-B30F-D1ACCFC2857E #primary instance
 							member(141)::PropertyConnection
 								Source Levels/XP3_Shield/RushLarge_Logic_Schematic/1D32FF51-B9EA-4422-8792-F42C471D78A3
 								Target Levels/XP3_Shield/RushLarge_Logic_Schematic/E3F26779-C9A1-42AB-9DFE-CB8F6E0D722F
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(142)::PropertyConnection
 								Source Levels/XP3_Shield/RushLarge_Logic_Schematic/7CB50353-43EE-4FDD-A735-7E16C6F5571A
 								Target Levels/XP3_Shield/RushLarge_Logic_Schematic/6D0C3992-6266-4E8A-AE70-081D3785D09F
-								SourceFieldId 295319509
+								SourceFieldId 295319509 (temprush)
 								TargetFieldId -1522984530 (TransformIn)
 							member(143)::PropertyConnection
 								Source 64D64155-ADBB-2C42-89FA-34A5AE4669E3

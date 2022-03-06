@@ -2834,7 +2834,7 @@ SubWorldData A05FA40E-4175-4408-A938-EB5EAA659F54 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake2/School_SCM/E44B9315-C2F9-47AA-B233-B8ADCB95088F
 								Target Levels/SP_Earthquake2/School_LOG/9ECB541B-290B-43DF-8406-C00BDD9DB97B
-								SourceFieldId 2141487495
+								SourceFieldId 2141487495 (WashingMachineKick)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/School_SCM/DAADC17F-8802-4F66-A0A3-31C3DFB7A0B6
@@ -2849,12 +2849,12 @@ SubWorldData A05FA40E-4175-4408-A938-EB5EAA659F54 #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake2/School_SCM/E44B9315-C2F9-47AA-B233-B8ADCB95088F
 								Target Levels/SP_Earthquake2/School_SND/137E8B78-7E65-404E-A6F2-63BA45A91C52
-								SourceFieldId 2141487495
+								SourceFieldId 2141487495 (WashingMachineKick)
 								TargetFieldId -2024647575 (Transform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Earthquake2/School_SCM/E44B9315-C2F9-47AA-B233-B8ADCB95088F
 								Target Levels/SP_Earthquake2/School_SND/0018B7FF-89F3-4D84-9BD8-72B986ABCB46
-								SourceFieldId 2141487495
+								SourceFieldId 2141487495 (WashingMachineKick)
 								TargetFieldId -2024647575 (Transform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Earthquake2/School_Light/E0B0460F-7D91-4E7B-A0C0-286CDE2E6261

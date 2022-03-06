@@ -13771,7 +13771,7 @@ LevelData 56A884A6-0451-F6B3-D1F1-40BBB4E2CD92 #primary instance
 									member(16)::PropertyConnection
 										Source Levels/MP_Subway/CameraAnimation/745363B8-5AE4-4CEC-AE39-76C6311E7AD0
 										Target Levels/MP_Subway/Default/D3AB3067-A984-42F5-A44F-D54ED1BB18EC
-										SourceFieldId 1091343223
+										SourceFieldId 1091343223 (CameraAnimation_02)
 										TargetFieldId -2024647575 (Transform)
 									member(17)::PropertyConnection
 										Source Levels/MP_Subway/Ambient_Sound_Areas_Schematic/0B3CD105-C334-48D5-B657-854D2607FA3D
@@ -14726,17 +14726,17 @@ LevelData 56A884A6-0451-F6B3-D1F1-40BBB4E2CD92 #primary instance
 									member(207)::PropertyConnection
 										Source Levels/MP_Subway/FX_City_AmbWar_Schematic/13395A4B-A89E-407D-A08E-4F254C3ACC92
 										Target Levels/MP_Subway/FX_03/37E8D98D-E233-4C23-8A47-7350C4DF2139
-										SourceFieldId -1012244355
+										SourceFieldId -1012244355 (AN_22_Flyby_START)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(208)::PropertyConnection
 										Source Levels/MP_Subway/FX_City_AmbWar_Schematic/13395A4B-A89E-407D-A08E-4F254C3ACC92
 										Target Levels/MP_Subway/FX_03/4B3A868E-62D3-45DD-8554-3A540408B3D8
-										SourceFieldId 1367307616
+										SourceFieldId 1367307616 (AN_22_Flyby_02_START)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(209)::PropertyConnection
 										Source Levels/MP_Subway/FX_City_AmbWar_Schematic/13395A4B-A89E-407D-A08E-4F254C3ACC92
 										Target Levels/MP_Subway/FX_03/29F3B274-1262-44FB-8457-899A63B325D9
-										SourceFieldId 156480097
+										SourceFieldId 156480097 (AN_22_Flyby_03_START)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(210)::PropertyConnection
 										Source Levels/MP_Subway/TerrainVisibility_Schematic/F2369420-1B87-437E-AD01-ABE6DB3C5856

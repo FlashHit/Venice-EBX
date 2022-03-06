@@ -6185,7 +6185,7 @@ LevelData 3AE309B1-DD67-6A60-77C6-9F9EE67F3B41 #primary instance
 									member(0)::PropertyConnection
 										Source Levels/XP2_Skybar/Ambience_Schematic/D620C694-4BC1-4DD6-828B-ADAC99C80334
 										Target Levels/XP2_Skybar/Ambience/A326DFEB-AF28-4AE3-BDCB-DFEE88A09503
-										SourceFieldId -719295365
+										SourceFieldId -719295365 (heliAnimation)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(1)::PropertyConnection
 										Source Levels/XP2_Skybar/Ambience/AA6C3EF0-7355-4939-B1BC-57D9A5146EB5
@@ -6195,7 +6195,7 @@ LevelData 3AE309B1-DD67-6A60-77C6-9F9EE67F3B41 #primary instance
 									member(2)::PropertyConnection
 										Source Levels/XP2_Skybar/Ambience_Schematic/D620C694-4BC1-4DD6-828B-ADAC99C80334
 										Target Levels/XP2_Skybar/Ambience/AA6C3EF0-7355-4939-B1BC-57D9A5146EB5
-										SourceFieldId -719295365
+										SourceFieldId -719295365 (heliAnimation)
 										TargetFieldId -2024647575 (Transform)
 									member(3)::PropertyConnection
 										Source Levels/XP2_Skybar/Ambience_Schematic/14077480-664A-4F44-BDA1-9D0B7C2A38FC

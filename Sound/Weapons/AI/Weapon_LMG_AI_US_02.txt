@@ -56,7 +56,7 @@ AudioGraphEvent 3AAFD339-0057-4DB8-81D7-3B0CD7F7DCBD
 	$::AudioGraphParameter
 		$::DataContainer
 		DefaultValue 0.0
-		NameHash 3520090073
+		NameHash 3520090073 (Deactivated) #unsigned
 		ValueIndex 4
 ConeOutputNodeData E6F3C4F2-5278-4F5B-A925-049DFC6CEB10
 	$::OutputNodeData

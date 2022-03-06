@@ -644,7 +644,7 @@ SubWorldData 48263502-6029-4C2E-A3D6-327A35E0517D #primary instance
 								Source Levels/SP_Bank/Ministry_SCM/B373F3D5-6F27-40B8-8FBE-A664D62E6F79
 								Target Levels/SP_Bank/Ministry_LOG/C56291CD-3A3D-4D0C-903E-1A9F1D1701F7
 								SourceFieldId -1251941306 (Waypoint)
-								TargetFieldId -1590439175
+								TargetFieldId -1590439175 (KickDoor)
 							member(34)::LinkConnection
 								Source Levels/SP_Bank/Ministry_SCM/45CB5A6C-C0B1-49CB-B995-7CC28A7C1C63
 								Target Levels/SP_Bank/Ministry_LOG/CFAEAF45-0D23-4085-934A-ECF622882C4E

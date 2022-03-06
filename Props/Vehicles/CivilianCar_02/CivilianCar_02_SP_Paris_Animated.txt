@@ -238,22 +238,22 @@ SpatialPrefabBlueprint 931C4219-AE97-8AC3-AC57-DA9CF5359786 #primary instance
 						member(1)::PropertyConnection
 							Source DF85388E-CA81-4E0C-B0CA-5E22A7081750
 							Target D4C3251B-0E72-4F67-98FE-4B8EE25CA842
-							SourceFieldId 1588506620
+							SourceFieldId 1588506620 (WheelSpinning)
 							TargetFieldId 242959787
 						member(2)::PropertyConnection
 							Source DF85388E-CA81-4E0C-B0CA-5E22A7081750
 							Target D4C3251B-0E72-4F67-98FE-4B8EE25CA842
-							SourceFieldId 1588506620
+							SourceFieldId 1588506620 (WheelSpinning)
 							TargetFieldId 1492795701
 						member(3)::PropertyConnection
 							Source DF85388E-CA81-4E0C-B0CA-5E22A7081750
 							Target D4C3251B-0E72-4F67-98FE-4B8EE25CA842
-							SourceFieldId 1588506620
+							SourceFieldId 1588506620 (WheelSpinning)
 							TargetFieldId -427985617
 						member(4)::PropertyConnection
 							Source DF85388E-CA81-4E0C-B0CA-5E22A7081750
 							Target D4C3251B-0E72-4F67-98FE-4B8EE25CA842
-							SourceFieldId 1588506620
+							SourceFieldId 1588506620 (WheelSpinning)
 							TargetFieldId 608358577
 					LinkConnections::array
 						member(0)::LinkConnection
@@ -293,7 +293,7 @@ SpatialPrefabBlueprint 931C4219-AE97-8AC3-AC57-DA9CF5359786 #primary instance
 TransformPartPropertyTrackData 556AFC85-93EB-4BFA-A0E5-DE1CC31D8490
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -308,7 +308,7 @@ TransformPartPropertyTrackData 556AFC85-93EB-4BFA-A0E5-DE1CC31D8490
 TransformPartPropertyTrackData 9E6D134B-28CC-43EC-88CD-5DB7D4598E20
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -323,7 +323,7 @@ TransformPartPropertyTrackData 9E6D134B-28CC-43EC-88CD-5DB7D4598E20
 TransformPartPropertyTrackData 3B4B4723-6B1D-4830-A72E-F134DC7FF47A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -338,7 +338,7 @@ TransformPartPropertyTrackData 3B4B4723-6B1D-4830-A72E-F134DC7FF47A
 TransformPartPropertyTrackData 0104C893-B239-43D8-BB8E-06735AA23E73
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -353,7 +353,7 @@ TransformPartPropertyTrackData 0104C893-B239-43D8-BB8E-06735AA23E73
 TransformPartPropertyTrackData 15FEDCC7-A59E-4CE1-BFAE-E7BFD36EDC51
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -368,7 +368,7 @@ TransformPartPropertyTrackData 15FEDCC7-A59E-4CE1-BFAE-E7BFD36EDC51
 TransformPartPropertyTrackData AF7B4CEA-4AD7-4D6B-A9BD-4F68ADF41C4E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1588506620
+		Id 1588506620 (WheelSpinning)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

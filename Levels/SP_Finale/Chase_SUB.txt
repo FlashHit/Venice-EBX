@@ -9810,7 +9810,7 @@ SubWorldData E1870FE0-D33D-4482-B3A3-FD8C203DD362 #primary instance
 							member(4)::PropertyConnection
 								Source Levels/SP_Finale/Chase_RAIL/D8168822-9132-47FB-B846-1963DB0C4474
 								Target Levels/SP_Finale/Chase_LOG/6736DBC3-E42E-4557-B5BC-23C49789E07D
-								SourceFieldId 212471652
+								SourceFieldId 212471652 (Car3b)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Finale/Chase_RAIL/119C7540-F27A-4080-8FDB-B8FA7BBCAE8A
@@ -10130,7 +10130,7 @@ SubWorldData E1870FE0-D33D-4482-B3A3-FD8C203DD362 #primary instance
 							member(68)::PropertyConnection
 								Source Levels/SP_Finale/Chase_Fight/A7A3086D-E572-4B5A-B1F3-CFA82DBA0164
 								Target Levels/SP_Finale/Chase_LOG/2AED4E4C-AA89-4708-B31E-C89D29707062
-								SourceFieldId -1266099788
+								SourceFieldId -1266099788 (Kamera)
 								TargetFieldId -2024647575 (Transform)
 						LinkConnections::array
 							member(0)::LinkConnection

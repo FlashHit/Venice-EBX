@@ -13943,22 +13943,22 @@ SubWorldData 66C9B234-FCAD-420A-914F-84B37B02FAD1 #primary instance
 							member(15)::PropertyConnection
 								Source Levels/COOP_010/AB03_GameplayLogic_Schematic/9C2CD115-4FDB-4EFA-B715-B73D57AA33CB
 								Target Levels/COOP_010/AB03_GameplayLogic/799F3E1F-FD1E-4072-AA61-41003E9190D6
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(16)::PropertyConnection
 								Source Levels/COOP_010/AB03_GameplayLogic_Schematic/9C2CD115-4FDB-4EFA-B715-B73D57AA33CB
 								Target Levels/COOP_010/AB03_GameplayLogic_Schematic/586BD589-879C-44CF-AC54-685998BD08D5
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId -2024647575 (Transform)
 							member(17)::PropertyConnection
 								Source Levels/COOP_010/AB03_GameplayLogic_Schematic/9C2CD115-4FDB-4EFA-B715-B73D57AA33CB
 								Target Levels/COOP_010/AB03_GameplayLogic_Schematic/F50AF6DE-8EB7-4014-9DEC-F56F4CECB3B0
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId -2024647575 (Transform)
 							member(18)::PropertyConnection
 								Source Levels/COOP_010/AB03_GameplayLogic_Schematic/9C2CD115-4FDB-4EFA-B715-B73D57AA33CB
 								Target Levels/COOP_010/AB03_GameplayLogic_Schematic/E40CF2A4-ACBC-4688-968D-0D2B3D6B1B88
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId -2024647575 (Transform)
 							member(19)::PropertyConnection
 								Source Levels/COOP_010/AB03_GameplayLogic_Schematic/9337A352-040D-4ED7-A1E4-9649FE8CF455

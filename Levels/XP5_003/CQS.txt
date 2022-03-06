@@ -3480,7 +3480,7 @@ SubWorldData 7464378E-CBF1-4CC3-8CB9-5EC1E097B5DD #primary instance
 							member(34)::PropertyConnection
 								Source Levels/XP5_003/CQS_Gameplay_Schematic/3BF8B3BE-6613-4FCA-9660-93C970099AC7
 								Target Levels/XP5_003/CQS_Gameplay/44A7E8D5-69CD-4D62-8DA3-05014A672D88
-								SourceFieldId 1741756246
+								SourceFieldId 1741756246 (USFlightPath)
 								TargetFieldId -2024647575 (Transform)
 							member(35)::PropertyConnection
 								Source Levels/XP5_003/CQS_Gameplay/BAD1B44F-D80D-4487-85BC-55D1929A07D2
@@ -3490,7 +3490,7 @@ SubWorldData 7464378E-CBF1-4CC3-8CB9-5EC1E097B5DD #primary instance
 							member(36)::PropertyConnection
 								Source Levels/XP5_003/CQS_Gameplay_Schematic/6033A5B7-C380-42C9-B93C-26FD4765EB6A
 								Target Levels/XP5_003/CQS_Gameplay/BAD1B44F-D80D-4487-85BC-55D1929A07D2
-								SourceFieldId 1280984055
+								SourceFieldId 1280984055 (RUFlightPath)
 								TargetFieldId -2024647575 (Transform)
 							member(37)::PropertyConnection
 								Source B847BFD6-6292-EBAE-593B-DC76C297612B

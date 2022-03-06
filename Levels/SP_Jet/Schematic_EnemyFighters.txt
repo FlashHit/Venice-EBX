@@ -900,7 +900,7 @@ SequenceEntityData F49B02C1-ABF6-4E8A-8C0A-D8E1176C0E12
 TransformPartPropertyTrackData 7B8A6533-57B3-4F31-A060-F965A159F236
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -915,7 +915,7 @@ TransformPartPropertyTrackData 7B8A6533-57B3-4F31-A060-F965A159F236
 TransformPartPropertyTrackData 4EBA30BD-B844-41A2-8E0B-1B999E438248
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -930,7 +930,7 @@ TransformPartPropertyTrackData 4EBA30BD-B844-41A2-8E0B-1B999E438248
 TransformPartPropertyTrackData BEEE4A7D-A773-4FBB-8765-2F38E18B6942
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -945,7 +945,7 @@ TransformPartPropertyTrackData BEEE4A7D-A773-4FBB-8765-2F38E18B6942
 TransformPartPropertyTrackData 960E77AE-8F05-4D3B-B7CA-24AAB6397B91
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -960,7 +960,7 @@ TransformPartPropertyTrackData 960E77AE-8F05-4D3B-B7CA-24AAB6397B91
 TransformPartPropertyTrackData FA8D4B4E-56D4-462E-8FF2-812A3C51833E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -975,7 +975,7 @@ TransformPartPropertyTrackData FA8D4B4E-56D4-462E-8FF2-812A3C51833E
 TransformPartPropertyTrackData FCEB4379-A28D-436E-BAE8-3CC4F63E2A59
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -990,7 +990,7 @@ TransformPartPropertyTrackData FCEB4379-A28D-436E-BAE8-3CC4F63E2A59
 TransformPartPropertyTrackData F7A8E08C-6E80-4B33-8492-9108DFDAA718
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1005,7 +1005,7 @@ TransformPartPropertyTrackData F7A8E08C-6E80-4B33-8492-9108DFDAA718
 TransformPartPropertyTrackData 73194448-2D2C-4FC2-A0BE-4807BA74C69E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1020,7 +1020,7 @@ TransformPartPropertyTrackData 73194448-2D2C-4FC2-A0BE-4807BA74C69E
 TransformPartPropertyTrackData 48EDCF13-A876-4F83-9DC4-8DDCEDD41253
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1035,7 +1035,7 @@ TransformPartPropertyTrackData 48EDCF13-A876-4F83-9DC4-8DDCEDD41253
 TransformPartPropertyTrackData 862975A3-FF54-4765-8860-D5CDB954436D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1050,7 +1050,7 @@ TransformPartPropertyTrackData 862975A3-FF54-4765-8860-D5CDB954436D
 TransformPartPropertyTrackData 64C84F76-14AE-4D43-8F4B-F08F8F8A0B93
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1065,7 +1065,7 @@ TransformPartPropertyTrackData 64C84F76-14AE-4D43-8F4B-F08F8F8A0B93
 TransformPartPropertyTrackData C6E814C9-E8FB-4A7B-9237-8DB5353B2617
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1080,7 +1080,7 @@ TransformPartPropertyTrackData C6E814C9-E8FB-4A7B-9237-8DB5353B2617
 TransformPartPropertyTrackData 1C4F107E-38EC-4BD5-8C79-BBD86666D130
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1095,7 +1095,7 @@ TransformPartPropertyTrackData 1C4F107E-38EC-4BD5-8C79-BBD86666D130
 TransformPartPropertyTrackData EC9BE2C5-461B-41E8-9295-573FA018D07E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1110,7 +1110,7 @@ TransformPartPropertyTrackData EC9BE2C5-461B-41E8-9295-573FA018D07E
 TransformPartPropertyTrackData F05278A9-3BDD-4FEA-BABB-281E27C7FE4A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1125,7 +1125,7 @@ TransformPartPropertyTrackData F05278A9-3BDD-4FEA-BABB-281E27C7FE4A
 TransformPartPropertyTrackData 39E1C142-71E6-4AD5-9D34-A3CD21D9D35D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1140,7 +1140,7 @@ TransformPartPropertyTrackData 39E1C142-71E6-4AD5-9D34-A3CD21D9D35D
 TransformPartPropertyTrackData 9B3AAB30-661D-49D2-87CE-A844B5F60C62
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1155,7 +1155,7 @@ TransformPartPropertyTrackData 9B3AAB30-661D-49D2-87CE-A844B5F60C62
 TransformPartPropertyTrackData A74825DB-D080-4483-A054-57BF30581542
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1359494439
+		Id 1359494439 (Fighter01)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

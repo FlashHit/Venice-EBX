@@ -1361,23 +1361,23 @@ SequenceEntityData 56A3FB21-7E12-440E-9964-72E726AAEE40
 			Time 0
 		member(1)::SequenceEventData
 			Event::EventSpec
-				Id 5862535
+				Id 5862535 (S1)
 			Time 289
 		member(2)::SequenceEventData
 			Event::EventSpec
-				Id 5862532
+				Id 5862532 (S2)
 			Time 1607
 		member(3)::SequenceEventData
 			Event::EventSpec
-				Id 5862533
+				Id 5862533 (S3)
 			Time 3598
 		member(4)::SequenceEventData
 			Event::EventSpec
-				Id 5862530 (RU)
+				Id 5862530 (S4)
 			Time 4930
 		member(5)::SequenceEventData
 			Event::EventSpec
-				Id 5862531
+				Id 5862531 (S5)
 			Time 5460
 		member(6)::SequenceEventData
 			Event::EventSpec
@@ -1385,11 +1385,11 @@ SequenceEntityData 56A3FB21-7E12-440E-9964-72E726AAEE40
 			Time 7001
 		member(7)::SequenceEventData
 			Event::EventSpec
-				Id 5862528
+				Id 5862528 (S6)
 			Time 7779
 		member(8)::SequenceEventData
 			Event::EventSpec
-				Id 1329237066
+				Id 1329237066 (Marines)
 			Time 10564
 	SequenceStartTime 0
 	SequenceLength 16000

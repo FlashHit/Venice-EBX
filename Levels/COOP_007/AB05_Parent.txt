@@ -222,22 +222,22 @@ SubWorldData B0AA9200-389F-4F68-A041-B8F87CE38086 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/B57E3410-8DDC-44BE-A8A0-80E0F7E6034A
 								Target Levels/COOP_007/AB05_GameplayLogic/B6EE1BAF-423C-4239-B538-202E48040A2F
-								SourceFieldId 1823375068
+								SourceFieldId 1823375068 (EvacHeli)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/DD977D16-8C24-4AA7-8E9F-5495718C2385
 								Target Levels/COOP_007/AB05_GameplayLogic/D4660DB4-0270-4DA2-B9F9-2E78ECEB1EC3
-								SourceFieldId 1823375068
+								SourceFieldId 1823375068 (EvacHeli)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(2)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/B55BB632-175A-4931-B932-EB9D4C048936
 								Target Levels/COOP_007/AB05_GameplayLogic/D4CA2243-4DF9-4CBD-940D-0AF7F6F43190
-								SourceFieldId 1823375068
+								SourceFieldId 1823375068 (EvacHeli)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(3)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/39E42D7A-9D2D-4B0A-89CF-5143F6E15CEC
 								Target Levels/COOP_007/AB05_GameplayLogic/F46032DE-D350-42A7-8345-DE092963B654
-								SourceFieldId 1823375068
+								SourceFieldId 1823375068 (EvacHeli)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(4)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/BB2B355A-747A-46F0-8D8B-9338E6721BDC
@@ -272,7 +272,7 @@ SubWorldData B0AA9200-389F-4F68-A041-B8F87CE38086 #primary instance
 							member(10)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/B3BC79A5-9FCE-4527-B1F7-12D47F603999
 								Target Levels/COOP_007/AB05_GameplayLogic_Schematic/B11C951B-98D0-4227-B5EC-0FC412473903
-								SourceFieldId 2063664118
+								SourceFieldId 2063664118 (Heli_EndOfRound)
 								TargetFieldId 193450870 (In4)
 							member(11)::PropertyConnection
 								Source Levels/COOP_007/AB05_GameplayLogic_Schematic/0318385B-2342-4886-A8A8-94252C92D6B8

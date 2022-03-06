@@ -1067,7 +1067,7 @@ SyncedBoolEntityData CA5F87D3-BCE7-4942-9E81-7497FA709FE4
 TransformPartPropertyTrackData E6993D6B-21D0-4C3C-9261-7C07F4FF4A00
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1082,7 +1082,7 @@ TransformPartPropertyTrackData E6993D6B-21D0-4C3C-9261-7C07F4FF4A00
 TransformPartPropertyTrackData D3FC7CF4-47EE-40C5-B446-9002B7C47244
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1097,7 +1097,7 @@ TransformPartPropertyTrackData D3FC7CF4-47EE-40C5-B446-9002B7C47244
 TransformPartPropertyTrackData 598567D2-83F7-4F71-9C16-E34AB4A88C07
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1112,7 +1112,7 @@ TransformPartPropertyTrackData 598567D2-83F7-4F71-9C16-E34AB4A88C07
 TransformPartPropertyTrackData 90E0ECC0-4EFE-43A8-9B13-381ED6D7C590
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1127,7 +1127,7 @@ TransformPartPropertyTrackData 90E0ECC0-4EFE-43A8-9B13-381ED6D7C590
 TransformPartPropertyTrackData C9385BDF-BBA3-41AC-8C39-7C469E938C16
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1142,7 +1142,7 @@ TransformPartPropertyTrackData C9385BDF-BBA3-41AC-8C39-7C469E938C16
 TransformPartPropertyTrackData 0408B3F4-B096-4D41-871E-CDE7FCE101E0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -127441567
+		Id -127441567 (RightElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1157,7 +1157,7 @@ TransformPartPropertyTrackData 0408B3F4-B096-4D41-871E-CDE7FCE101E0
 TransformPartPropertyTrackData CDDAFECA-3227-4777-8350-5B4A0BB97777
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1172,7 +1172,7 @@ TransformPartPropertyTrackData CDDAFECA-3227-4777-8350-5B4A0BB97777
 TransformPartPropertyTrackData 0FEA4607-D8B8-4F66-9922-4383121B99CE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1187,7 +1187,7 @@ TransformPartPropertyTrackData 0FEA4607-D8B8-4F66-9922-4383121B99CE
 TransformPartPropertyTrackData C4448727-FB2A-45BB-AD35-2AD201ECCCAB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1202,7 +1202,7 @@ TransformPartPropertyTrackData C4448727-FB2A-45BB-AD35-2AD201ECCCAB
 TransformPartPropertyTrackData D0752FB9-D3F5-4007-A6F2-BA65F50DA36C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1217,7 +1217,7 @@ TransformPartPropertyTrackData D0752FB9-D3F5-4007-A6F2-BA65F50DA36C
 TransformPartPropertyTrackData 9BD29DE9-36EA-42BA-8A0E-F1E26B5AD472
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1232,7 +1232,7 @@ TransformPartPropertyTrackData 9BD29DE9-36EA-42BA-8A0E-F1E26B5AD472
 TransformPartPropertyTrackData E936E951-1F49-43F8-A0DB-2C17E1FCB39F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 834526810
+		Id 834526810 (LeftElevatorDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

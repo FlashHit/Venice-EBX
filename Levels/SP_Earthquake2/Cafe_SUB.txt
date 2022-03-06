@@ -2044,12 +2044,12 @@ SubWorldData 59C4EAA3-5EFA-47E4-94D0-F825A744671A #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/Cafe_SCM/3F9430A0-AC42-402E-B1CD-3AE544DFBE9C
 								Target Levels/SP_Earthquake2/Cafe_SCM/62738083-8511-471B-A95B-FA54B2F86E1B
-								SourceFieldId -758292567
+								SourceFieldId -758292567 (DoorTrans)
 								TargetFieldId 193450867 (In1)
 							member(2)::PropertyConnection
 								Source Levels/SP_Earthquake2/Cafe_SCM/BBDE0088-8EA6-4A8A-A6A0-AE236C2F004D
 								Target Levels/SP_Earthquake2/Cafe_SCM/62738083-8511-471B-A95B-FA54B2F86E1B
-								SourceFieldId -758292567
+								SourceFieldId -758292567 (DoorTrans)
 								TargetFieldId 193450864 (In2)
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake2/Cafe_SCM/4E4204E1-B023-45A0-967F-9A6D4709541A

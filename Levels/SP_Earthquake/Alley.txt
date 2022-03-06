@@ -4254,7 +4254,7 @@ SubWorldData F976B4B2-F475-4A82-A2EB-4283021ECD2D #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Earthquake/AlleyPropsSchema/2391CD0A-D9B5-4955-910E-B9038C568D62
 								Target Levels/SP_Earthquake/AlleyLighting/374699D2-591E-4856-8B1F-061B5773A439
-								SourceFieldId 2087664885
+								SourceFieldId 2087664885 (lamp)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake/AlleyLogic/F574B8C9-A911-4D7E-A2B5-EC8E7A15730B

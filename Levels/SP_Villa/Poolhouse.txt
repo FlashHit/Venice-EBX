@@ -4270,7 +4270,7 @@ SubWorldData AAC15F25-1CCD-4730-80FB-31DE8141D08C #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Villa/PoolHouse_Logic_Schematic/6D76A34C-47FB-4344-A44C-73383683127F
 								Target Levels/SP_Villa/PoolHouse_Art/A84C7078-940D-47C3-A236-C05A0725800C
-								SourceFieldId 1227054332
+								SourceFieldId 1227054332 (OpenSideDoor)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Villa/PoolHouse_Logic_Schematic/790B89D9-1DF0-4E7E-8EC4-821EC6295192
@@ -4280,7 +4280,7 @@ SubWorldData AAC15F25-1CCD-4730-80FB-31DE8141D08C #primary instance
 							member(3)::PropertyConnection
 								Source Levels/SP_Villa/PoolHouse_Logic_Schematic/9C717545-B8FE-4B92-8678-E6C43FF679D8
 								Target Levels/SP_Villa/PoolHouse_Logic_Schematic/DAAFCDDE-6F78-40C1-8F1D-699A85AB6CFB
-								SourceFieldId 746851518
+								SourceFieldId 746851518 (OpenPoolHouseFrontDoor)
 								TargetFieldId 5862146 (In)
 							member(4)::PropertyConnection
 								Source Levels/SP_Villa/PoolHouse_Logic_Schematic/DAAFCDDE-6F78-40C1-8F1D-699A85AB6CFB

@@ -96,7 +96,7 @@ SpatialPrefabBlueprint FD35A71B-2486-3208-9791-4A17F925340B #primary instance
 						member(0)::PropertyConnection
 							Source 884F2D80-7332-496E-B76D-109E4D0A873A
 							Target A9AC8141-A08F-42C8-B3F4-C7601AC36B21
-							SourceFieldId -1562917970
+							SourceFieldId -1562917970 (RadarSpinAnim)
 							TargetFieldId -409930682 (BlueprintTransform)
 					LinkConnections *nullArray*
 				EventConnections *nullArray*
@@ -112,7 +112,7 @@ SpatialPrefabBlueprint FD35A71B-2486-3208-9791-4A17F925340B #primary instance
 TransformPartPropertyTrackData 38663EAA-0781-4885-9F19-7C9557FAD16A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -127,7 +127,7 @@ TransformPartPropertyTrackData 38663EAA-0781-4885-9F19-7C9557FAD16A
 TransformPartPropertyTrackData B23C889F-220C-4641-BC65-E59A80C9B9C2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -142,7 +142,7 @@ TransformPartPropertyTrackData B23C889F-220C-4641-BC65-E59A80C9B9C2
 TransformPartPropertyTrackData 9D5D2C0A-B299-4F1B-BB56-F3C28BD555BC
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -157,7 +157,7 @@ TransformPartPropertyTrackData 9D5D2C0A-B299-4F1B-BB56-F3C28BD555BC
 TransformPartPropertyTrackData A7626341-A3A6-4447-A38C-8C869BEFEC72
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -172,7 +172,7 @@ TransformPartPropertyTrackData A7626341-A3A6-4447-A38C-8C869BEFEC72
 TransformPartPropertyTrackData E0AE0A5D-77F9-4B91-8401-7F63183A61F7
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -187,7 +187,7 @@ TransformPartPropertyTrackData E0AE0A5D-77F9-4B91-8401-7F63183A61F7
 TransformPartPropertyTrackData 01FE378A-4E48-4B0C-AE74-4BD6C21C1516
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1562917970
+		Id -1562917970 (RadarSpinAnim)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -325,7 +325,7 @@ SubWorldData 77EA6CE9-404A-41ED-8F3A-8B97C2E19E42 #primary instance
 							member(10)::PropertyConnection
 								Source Levels/SP_Earthquake/IED_SCM/9498A87C-83C4-41FD-85BC-820730FA3478
 								Target Levels/SP_Earthquake/IED_SCM/C0D7DA77-5E53-4EF6-8893-41F68A0334F8
-								SourceFieldId -768813965
+								SourceFieldId -768813965 (DoorStart)
 								TargetFieldId 193450864 (In2)
 							member(11)::PropertyConnection
 								Source 2ECEE736-79B6-5BC2-CB24-55201B50BB5D

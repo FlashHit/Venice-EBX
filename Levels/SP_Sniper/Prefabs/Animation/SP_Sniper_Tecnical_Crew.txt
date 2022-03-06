@@ -669,7 +669,7 @@ SpatialPrefabBlueprint 4CBDDC34-FE0A-2A97-6E6C-6D8F796A9148 #primary instance
 						member(0)::PropertyConnection
 							Source 428FEB14-45D3-4134-BEA4-4EA2028125BC
 							Target F4C750F1-F598-4750-8958-65956BFD28FC
-							SourceFieldId -1734451896
+							SourceFieldId -1734451896 (TecnicalDoor)
 							TargetFieldId 907311105
 						member(1)::PropertyConnection
 							Source F4C750F1-F598-4750-8958-65956BFD28FC
@@ -894,7 +894,7 @@ SpatialPrefabBlueprint 4CBDDC34-FE0A-2A97-6E6C-6D8F796A9148 #primary instance
 TransformPartPropertyTrackData 2ADC2B75-3D38-4927-92E5-96FDAA712C7E
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -909,7 +909,7 @@ TransformPartPropertyTrackData 2ADC2B75-3D38-4927-92E5-96FDAA712C7E
 TransformPartPropertyTrackData 2BD9ACCE-D88D-440B-B84F-51FA09652D3C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -924,7 +924,7 @@ TransformPartPropertyTrackData 2BD9ACCE-D88D-440B-B84F-51FA09652D3C
 TransformPartPropertyTrackData 2188C5B8-DF28-4081-AAE4-D6CE73F8246A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -939,7 +939,7 @@ TransformPartPropertyTrackData 2188C5B8-DF28-4081-AAE4-D6CE73F8246A
 TransformPartPropertyTrackData 8573BB38-1AC4-485A-A915-296B764215F0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -954,7 +954,7 @@ TransformPartPropertyTrackData 8573BB38-1AC4-485A-A915-296B764215F0
 TransformPartPropertyTrackData A3277ACB-C901-4662-9FB7-D70E25BB425D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -969,7 +969,7 @@ TransformPartPropertyTrackData A3277ACB-C901-4662-9FB7-D70E25BB425D
 TransformPartPropertyTrackData AB36F1FC-4D1E-4730-976E-FB1575F5B805
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1734451896
+		Id -1734451896 (TecnicalDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -388,7 +388,7 @@ ObjectBlueprint 9A02F5D2-33F2-11DE-99D3-98DCCAF38B4D #primary instance
 					member(0)::PropertyConnection
 						Source D357DD2A-64B5-4D50-9293-E878AA4AF327
 						Target F00B10BF-47A3-4821-8C6D-B2451FD878AE
-						SourceFieldId -1581201564
+						SourceFieldId -1581201564 (Wreck_Animation)
 						TargetFieldId -2024647575 (Transform)
 				LinkConnections::array
 					member(0)::LinkConnection
@@ -2050,7 +2050,7 @@ StaticModelEntityData 9A02F5D3-33F2-11DE-99D3-98DCCAF38B4D
 TransformPartPropertyTrackData 7070EA24-FBF9-44F8-87DF-CDB0801A93AE
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2065,7 +2065,7 @@ TransformPartPropertyTrackData 7070EA24-FBF9-44F8-87DF-CDB0801A93AE
 TransformPartPropertyTrackData 920FA620-905D-4AB3-8032-ACFEB064813D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2080,7 +2080,7 @@ TransformPartPropertyTrackData 920FA620-905D-4AB3-8032-ACFEB064813D
 TransformPartPropertyTrackData 9ED40B3B-820E-44A9-AB3F-9648A1BA538F
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2095,7 +2095,7 @@ TransformPartPropertyTrackData 9ED40B3B-820E-44A9-AB3F-9648A1BA538F
 TransformPartPropertyTrackData C5AF9AAC-A4FA-49AD-A762-CA29A91AFBB8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2110,7 +2110,7 @@ TransformPartPropertyTrackData C5AF9AAC-A4FA-49AD-A762-CA29A91AFBB8
 TransformPartPropertyTrackData 252CEB93-F007-4546-8AAC-836DAB70AC56
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2125,7 +2125,7 @@ TransformPartPropertyTrackData 252CEB93-F007-4546-8AAC-836DAB70AC56
 TransformPartPropertyTrackData 148BE099-DB98-4676-A166-D1D03E6AD02A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1581201564
+		Id -1581201564 (Wreck_Animation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

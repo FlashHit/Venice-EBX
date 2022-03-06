@@ -1260,22 +1260,22 @@ SubWorldData CC18BD75-46C9-42F3-B6B2-AAEB12093187 #primary instance
 							member(3)::PropertyConnection
 								Source Levels/COOP_009/AB01_LogicGameplay_Schematic/23AFF3E9-6181-4C9E-92B8-ED20D5B1109B
 								Target Levels/COOP_009/AB01_LogicGameplay_Schematic/A1D6E1D1-B39F-4954-81A8-9F5F2BA9F90B
-								SourceFieldId -762266163
+								SourceFieldId -762266163 (Gate_Right)
 								TargetFieldId 193450867 (In1)
 							member(4)::PropertyConnection
 								Source Levels/COOP_009/AB01_LogicGameplay_Schematic/AED22E7F-0819-4276-856F-B03E4E6C4D5F
 								Target Levels/COOP_009/AB01_LogicGameplay_Schematic/A1D6E1D1-B39F-4954-81A8-9F5F2BA9F90B
-								SourceFieldId -762266163
+								SourceFieldId -762266163 (Gate_Right)
 								TargetFieldId 193450864 (In2)
 							member(5)::PropertyConnection
 								Source Levels/COOP_009/AB01_LogicGameplay_Schematic/23AFF3E9-6181-4C9E-92B8-ED20D5B1109B
 								Target Levels/COOP_009/AB01_LogicGameplay_Schematic/5210ECB9-5278-4E83-9B78-8176632F53B0
-								SourceFieldId 235997942
+								SourceFieldId 235997942 (Gate_Left)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/COOP_009/AB01_LogicGameplay_Schematic/AED22E7F-0819-4276-856F-B03E4E6C4D5F
 								Target Levels/COOP_009/AB01_LogicGameplay_Schematic/5210ECB9-5278-4E83-9B78-8176632F53B0
-								SourceFieldId 235997942
+								SourceFieldId 235997942 (Gate_Left)
 								TargetFieldId 193450864 (In2)
 							member(7)::PropertyConnection
 								Source Levels/COOP_009/AB01_LogicGameplay_Schematic/5210ECB9-5278-4E83-9B78-8176632F53B0

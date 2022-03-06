@@ -131,7 +131,7 @@ SequenceEntityData 20D9B07F-A3B0-4CCB-BEA3-0300696483F1
 TransformPartPropertyTrackData 4AF3394E-67D3-484E-8F6B-889A249D97E1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -146,7 +146,7 @@ TransformPartPropertyTrackData 4AF3394E-67D3-484E-8F6B-889A249D97E1
 TransformPartPropertyTrackData DE9D9BE2-EAAB-420E-AECD-27452105418B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -161,7 +161,7 @@ TransformPartPropertyTrackData DE9D9BE2-EAAB-420E-AECD-27452105418B
 TransformPartPropertyTrackData 91E4DA83-3CF6-4B5D-A13A-99A8AB035ED9
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -176,7 +176,7 @@ TransformPartPropertyTrackData 91E4DA83-3CF6-4B5D-A13A-99A8AB035ED9
 TransformPartPropertyTrackData 215646E2-59FD-47AA-A817-4BCB6610C1EA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -191,7 +191,7 @@ TransformPartPropertyTrackData 215646E2-59FD-47AA-A817-4BCB6610C1EA
 TransformPartPropertyTrackData 79CE621B-6977-4710-BA68-4781123DAC93
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -206,7 +206,7 @@ TransformPartPropertyTrackData 79CE621B-6977-4710-BA68-4781123DAC93
 TransformPartPropertyTrackData 3A53D7F6-413B-4251-B57A-0FC64288C8B0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768529386
+		Id -768529386 (BombRunAnimation_Intro_Prowler_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

@@ -4724,17 +4724,17 @@ SubWorldData 01CFB67D-77AA-420E-B0A6-03627045145C #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Paris/Parkingentrance_Logic/39869403-2961-482C-9355-552D7A381758
 								Target Levels/SP_Paris/ParkingDeckGate_Props/FA0EFF3A-F79D-4768-ADB8-C1EA7CD9B2E7
-								SourceFieldId -423703173
+								SourceFieldId -423703173 (garage_door)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Paris/Parkingentrance_Logic/39869403-2961-482C-9355-552D7A381758
 								Target Levels/SP_Paris/Parkingentrance_Logic/C5AEB1F1-FE5A-4002-96FD-19483E054859
-								SourceFieldId -423703173
+								SourceFieldId -423703173 (garage_door)
 								TargetFieldId -2024647575 (Transform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Paris/Parkingentrance_Logic/089DC591-0CFD-4AA1-AA79-577CA12EEBF7
 								Target Levels/SP_Paris/ParkingDeckGate_Logic/6F51C351-6C2B-4ACB-98AE-5C496372CBCE
-								SourceFieldId 1277772233
+								SourceFieldId 1277772233 (gate_entrance)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Paris/Parkingentrance_Logic/4CC5843E-DA9E-47B6-8934-098C8D8DF91B

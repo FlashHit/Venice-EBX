@@ -142,7 +142,7 @@ InterfaceDescriptorData 33E3A29E-BC8E-4309-953B-B84475C3A6D7
 			member(0)::DataField
 				Value 
 				ValueRef *nullGuid*
-				Id 877271231
+				Id 877271231 (DoorTransform)
 				AccessType FieldAccessType_Source
 			member(1)::DataField
 				Value 
@@ -419,7 +419,7 @@ SpatialPrefabBlueprint 22F5F64F-BA01-7497-B135-1D86F6CE5063 #primary instance
 							Source 85FFA479-2409-4E2E-A812-437A1F083807
 							Target 33E3A29E-BC8E-4309-953B-B84475C3A6D7
 							SourceFieldId 193453899 (Out)
-							TargetFieldId 877271231
+							TargetFieldId 877271231 (DoorTransform)
 						member(2)::PropertyConnection
 							Source 960200DD-595B-423E-A655-3C01EC79AB44
 							Target 282FC959-FFA3-47BC-AD56-B9EFA6B4F950

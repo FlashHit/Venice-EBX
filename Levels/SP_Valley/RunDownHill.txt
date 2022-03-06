@@ -29,7 +29,7 @@ InterfaceDescriptorData CEA35F29-CAE7-1498-D77A-046D0C235EE3
 		member(0)::DynamicEvent
 			Id 230748069 (Start)
 		member(1)::DynamicEvent
-			Id 1686584170
+			Id 1686584170 (StartMarines)
 		member(2)::DynamicEvent
 			Id 1040516626
 	OutputEvents::array
@@ -538,7 +538,7 @@ SubWorldData 033EFD3E-D250-403B-B40C-447329355DAA #primary instance
 							Source CEA35F29-CAE7-1498-D77A-046D0C235EE3
 							Target Levels/SP_Valley/RunDownHill_Orders/72A0B6A1-D1A2-4F29-A6BF-495B06ED82B7
 							SourceEvent::EventSpec
-								Id 1686584170
+								Id 1686584170 (StartMarines)
 							TargetEvent::EventSpec
 								Id -770075886 (IssueOrder)
 							TargetType EventConnectionTargetType_Server
@@ -546,7 +546,7 @@ SubWorldData 033EFD3E-D250-403B-B40C-447329355DAA #primary instance
 							Source CEA35F29-CAE7-1498-D77A-046D0C235EE3
 							Target Levels/SP_Valley/RunDownHill_Orders/97130316-440A-44BB-96D3-8356C87ADFAF
 							SourceEvent::EventSpec
-								Id 1686584170
+								Id 1686584170 (StartMarines)
 							TargetEvent::EventSpec
 								Id -770075886 (IssueOrder)
 							TargetType EventConnectionTargetType_Server
@@ -554,7 +554,7 @@ SubWorldData 033EFD3E-D250-403B-B40C-447329355DAA #primary instance
 							Source CEA35F29-CAE7-1498-D77A-046D0C235EE3
 							Target Levels/SP_Valley/RunDownHill_Orders/6B36D956-4458-4910-BF8A-3365123BB757
 							SourceEvent::EventSpec
-								Id 1686584170
+								Id 1686584170 (StartMarines)
 							TargetEvent::EventSpec
 								Id -770075886 (IssueOrder)
 							TargetType EventConnectionTargetType_Server
@@ -810,7 +810,7 @@ SubWorldData 033EFD3E-D250-403B-B40C-447329355DAA #primary instance
 							Source CEA35F29-CAE7-1498-D77A-046D0C235EE3
 							Target Levels/SP_Valley/RunDownHill_Orders/1A5EB2D3-3953-4A85-B6CE-0617AE7AE13C
 							SourceEvent::EventSpec
-								Id 1686584170
+								Id 1686584170 (StartMarines)
 							TargetEvent::EventSpec
 								Id -1688613187 (Trigger)
 							TargetType EventConnectionTargetType_NetworkedClient

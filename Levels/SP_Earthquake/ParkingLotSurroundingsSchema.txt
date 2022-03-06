@@ -66,7 +66,7 @@ SequenceEntityData 98837297-586B-4DBD-AFEC-99DFC5210A13
 TransformPartPropertyTrackData 1F73926D-43A4-44F1-B0FC-B04B625FDCB5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -81,7 +81,7 @@ TransformPartPropertyTrackData 1F73926D-43A4-44F1-B0FC-B04B625FDCB5
 TransformPartPropertyTrackData EA28A48E-C6BD-4B56-88D2-263A684CD7CC
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -96,7 +96,7 @@ TransformPartPropertyTrackData EA28A48E-C6BD-4B56-88D2-263A684CD7CC
 TransformPartPropertyTrackData 33CCCFB9-40A7-4B64-B115-9D032012B4A0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -111,7 +111,7 @@ TransformPartPropertyTrackData 33CCCFB9-40A7-4B64-B115-9D032012B4A0
 TransformPartPropertyTrackData 10DD2756-FFBC-4EB5-AB09-4408A891666E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -126,7 +126,7 @@ TransformPartPropertyTrackData 10DD2756-FFBC-4EB5-AB09-4408A891666E
 TransformPartPropertyTrackData EB495320-93C0-4595-B85A-E59D7A2906F3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -141,7 +141,7 @@ TransformPartPropertyTrackData EB495320-93C0-4595-B85A-E59D7A2906F3
 TransformPartPropertyTrackData 4835EE20-BD92-456B-9DF9-476F6B676731
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464484
+		Id 173464484 (lamp1)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -156,7 +156,7 @@ TransformPartPropertyTrackData 4835EE20-BD92-456B-9DF9-476F6B676731
 TransformPartPropertyTrackData 12BD62ED-4022-4F23-8978-680FF1B41355
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -171,7 +171,7 @@ TransformPartPropertyTrackData 12BD62ED-4022-4F23-8978-680FF1B41355
 TransformPartPropertyTrackData E4BFDA66-51C0-4A06-A8C0-D08C04FCA2AD
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -186,7 +186,7 @@ TransformPartPropertyTrackData E4BFDA66-51C0-4A06-A8C0-D08C04FCA2AD
 TransformPartPropertyTrackData 98A2B74D-DA16-4DFB-8A2A-015F97C17091
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -201,7 +201,7 @@ TransformPartPropertyTrackData 98A2B74D-DA16-4DFB-8A2A-015F97C17091
 TransformPartPropertyTrackData 33696095-3931-4741-B860-7E6D62EE71D1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -216,7 +216,7 @@ TransformPartPropertyTrackData 33696095-3931-4741-B860-7E6D62EE71D1
 TransformPartPropertyTrackData 340242C5-16DC-4140-A65A-5DD2612E1FCA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -231,7 +231,7 @@ TransformPartPropertyTrackData 340242C5-16DC-4140-A65A-5DD2612E1FCA
 TransformPartPropertyTrackData BF3F6F3E-29E5-4D28-99AB-04E5EB96DAB6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 173464487
+		Id 173464487 (lamp2)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

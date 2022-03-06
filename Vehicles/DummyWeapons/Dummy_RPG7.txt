@@ -1186,7 +1186,7 @@ WeaponComponentData 0B756266-668A-4BE9-B121-9DD46F5C4931
 	OverheatDropPerSecondMultiplier 1.0
 	LockTimeMultiplier 1.0
 	LockingAcceptanceAngleMultiplier 1.0
-	WeaponItemHash 5381 ()
+	WeaponItemHash 5381
 WeaponFiringData 9FA63826-90E3-4E29-84F0-4FCD06DBC6C3
 	$::GameDataContainer
 		$::DataContainer

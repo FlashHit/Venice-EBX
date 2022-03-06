@@ -436,7 +436,7 @@ LevelData D6959F41-86A0-4F3C-17B3-0D0825475CE2 #primary instance
 									member(22)::PropertyConnection
 										Source Levels/COOP_009/VO_Logic_02_Schematic/212C2A28-C614-44D1-BFBE-F168C499F1A0
 										Target Levels/COOP_009/ART_Backdrop_01/CF7C0C0A-05D8-481F-B98C-9F8950394811
-										SourceFieldId -1939716560
+										SourceFieldId -1939716560 (Vimpel_01)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(23)::PropertyConnection
 										Source Levels/COOP_009/Convoy_Logic_Schematic/C7096F88-4AF0-490E-AB98-0E451CE6F4C3

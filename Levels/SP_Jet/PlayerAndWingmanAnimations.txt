@@ -636,7 +636,7 @@ TransformHubEntityData FE26F976-F39F-48D5-B5D6-398A52262276
 TransformPartPropertyTrackData 672177D2-E082-4AA1-B147-F8BA8800FE6D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -651,7 +651,7 @@ TransformPartPropertyTrackData 672177D2-E082-4AA1-B147-F8BA8800FE6D
 TransformPartPropertyTrackData 616CBF6E-D8CF-4049-A5B9-816F04A29C98
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -666,7 +666,7 @@ TransformPartPropertyTrackData 616CBF6E-D8CF-4049-A5B9-816F04A29C98
 TransformPartPropertyTrackData C52AEBFC-08E3-424A-AAAF-160E9EFBBC15
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -681,7 +681,7 @@ TransformPartPropertyTrackData C52AEBFC-08E3-424A-AAAF-160E9EFBBC15
 TransformPartPropertyTrackData 03630AD5-27CB-4A5C-A880-7D13A956C4CA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -696,7 +696,7 @@ TransformPartPropertyTrackData 03630AD5-27CB-4A5C-A880-7D13A956C4CA
 TransformPartPropertyTrackData 79352330-BFEC-4485-8134-CCA17776F374
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -711,7 +711,7 @@ TransformPartPropertyTrackData 79352330-BFEC-4485-8134-CCA17776F374
 TransformPartPropertyTrackData C530FB9F-6AE6-498F-A447-D27459C631B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -768565569
+		Id -768565569 (FlightPathPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -726,7 +726,7 @@ TransformPartPropertyTrackData C530FB9F-6AE6-498F-A447-D27459C631B2
 TransformPartPropertyTrackData 4020164B-3F9A-4608-92FC-1D1B2AC5B0CA
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -741,7 +741,7 @@ TransformPartPropertyTrackData 4020164B-3F9A-4608-92FC-1D1B2AC5B0CA
 TransformPartPropertyTrackData 07206868-11B8-4BF9-8990-F0162517F46C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -756,7 +756,7 @@ TransformPartPropertyTrackData 07206868-11B8-4BF9-8990-F0162517F46C
 TransformPartPropertyTrackData 11BB0EC0-57FD-4883-BFD7-2DD5B12B6D3A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -771,7 +771,7 @@ TransformPartPropertyTrackData 11BB0EC0-57FD-4883-BFD7-2DD5B12B6D3A
 TransformPartPropertyTrackData 75B4D547-F998-4750-B373-D4EA0E655E0C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -786,7 +786,7 @@ TransformPartPropertyTrackData 75B4D547-F998-4750-B373-D4EA0E655E0C
 TransformPartPropertyTrackData 9BB8825A-F4C8-47C2-BCEA-5CE08025BC0F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -801,7 +801,7 @@ TransformPartPropertyTrackData 9BB8825A-F4C8-47C2-BCEA-5CE08025BC0F
 TransformPartPropertyTrackData 2A493CC4-FE53-452D-A8AD-391774202E37
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1322074878
+		Id 1322074878 (TakeOffPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -816,7 +816,7 @@ TransformPartPropertyTrackData 2A493CC4-FE53-452D-A8AD-391774202E37
 TransformPartPropertyTrackData 33CD8CD6-EEFE-4AD0-81A8-593C1AA9E303
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -831,7 +831,7 @@ TransformPartPropertyTrackData 33CD8CD6-EEFE-4AD0-81A8-593C1AA9E303
 TransformPartPropertyTrackData B78203A5-9558-4CF1-B8D1-BF4AAE21ADB8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -846,7 +846,7 @@ TransformPartPropertyTrackData B78203A5-9558-4CF1-B8D1-BF4AAE21ADB8
 TransformPartPropertyTrackData 26B8EF20-6613-4582-90D9-C0D0B6899D80
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -861,7 +861,7 @@ TransformPartPropertyTrackData 26B8EF20-6613-4582-90D9-C0D0B6899D80
 TransformPartPropertyTrackData FA8CD925-54FB-4245-B81F-14C273413BE8
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -876,7 +876,7 @@ TransformPartPropertyTrackData FA8CD925-54FB-4245-B81F-14C273413BE8
 TransformPartPropertyTrackData 3C52AE8F-06DB-4DB4-A7EB-F6136201F8AB
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -891,7 +891,7 @@ TransformPartPropertyTrackData 3C52AE8F-06DB-4DB4-A7EB-F6136201F8AB
 TransformPartPropertyTrackData 28A1DE93-867D-4808-9696-24966A2BBD32
 	$::PropertyTrackData
 		$::DataContainer
-		Id -574691847
+		Id -574691847 (TakeOffLoopingWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -906,7 +906,7 @@ TransformPartPropertyTrackData 28A1DE93-867D-4808-9696-24966A2BBD32
 TransformPartPropertyTrackData AB6C5220-45E8-40FA-8D90-13D195BEE5AE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -921,7 +921,7 @@ TransformPartPropertyTrackData AB6C5220-45E8-40FA-8D90-13D195BEE5AE
 TransformPartPropertyTrackData 0B3E4E70-1FCE-4EBB-9E2C-6BA729CC08C8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -936,7 +936,7 @@ TransformPartPropertyTrackData 0B3E4E70-1FCE-4EBB-9E2C-6BA729CC08C8
 TransformPartPropertyTrackData 299F2937-6573-49B7-8474-81217BD6AA10
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -951,7 +951,7 @@ TransformPartPropertyTrackData 299F2937-6573-49B7-8474-81217BD6AA10
 TransformPartPropertyTrackData BD6F3D21-0A93-48BB-AE44-CB27FB35CE6F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -966,7 +966,7 @@ TransformPartPropertyTrackData BD6F3D21-0A93-48BB-AE44-CB27FB35CE6F
 TransformPartPropertyTrackData 2725BB86-A07D-416C-AAEC-CA6996595DE4
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -981,7 +981,7 @@ TransformPartPropertyTrackData 2725BB86-A07D-416C-AAEC-CA6996595DE4
 TransformPartPropertyTrackData B87150AB-9AD3-4377-BC9B-999CEA53B5B1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1630838245
+		Id 1630838245 (TakeOffWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -996,7 +996,7 @@ TransformPartPropertyTrackData B87150AB-9AD3-4377-BC9B-999CEA53B5B1
 TransformPartPropertyTrackData 9EBDD41C-57EA-4FDC-BCB6-2D49BEA00551
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1011,7 +1011,7 @@ TransformPartPropertyTrackData 9EBDD41C-57EA-4FDC-BCB6-2D49BEA00551
 TransformPartPropertyTrackData 6BDCF381-5339-4B5E-9FE7-900A79F10C6D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1026,7 +1026,7 @@ TransformPartPropertyTrackData 6BDCF381-5339-4B5E-9FE7-900A79F10C6D
 TransformPartPropertyTrackData 13938DD3-4B36-4BC8-BDE1-E3FC7C26FF11
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1041,7 +1041,7 @@ TransformPartPropertyTrackData 13938DD3-4B36-4BC8-BDE1-E3FC7C26FF11
 TransformPartPropertyTrackData DF395D4F-D6BF-4BC8-9B20-B5045BA9EBDA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1056,7 +1056,7 @@ TransformPartPropertyTrackData DF395D4F-D6BF-4BC8-9B20-B5045BA9EBDA
 TransformPartPropertyTrackData CF458B29-DCD0-4D66-91EB-B5D2604CC248
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1071,7 +1071,7 @@ TransformPartPropertyTrackData CF458B29-DCD0-4D66-91EB-B5D2604CC248
 TransformPartPropertyTrackData 1A7DA84C-9CD0-430B-B683-D679C12DC03C
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1431074846
+		Id -1431074846 (TakeOffLoopingPilot_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1086,7 +1086,7 @@ TransformPartPropertyTrackData 1A7DA84C-9CD0-430B-B683-D679C12DC03C
 TransformPartPropertyTrackData 3139B7F0-F381-4BC6-893F-79B14856852F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1101,7 +1101,7 @@ TransformPartPropertyTrackData 3139B7F0-F381-4BC6-893F-79B14856852F
 TransformPartPropertyTrackData 49E31AA6-18A6-467A-B878-BB994A57ADB3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1116,7 +1116,7 @@ TransformPartPropertyTrackData 49E31AA6-18A6-467A-B878-BB994A57ADB3
 TransformPartPropertyTrackData C5F96365-FA5B-4470-AF84-490000F7D9C4
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1131,7 +1131,7 @@ TransformPartPropertyTrackData C5F96365-FA5B-4470-AF84-490000F7D9C4
 TransformPartPropertyTrackData DA6DA530-5AB4-43F1-BFD2-28C22B0CF8B7
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1146,7 +1146,7 @@ TransformPartPropertyTrackData DA6DA530-5AB4-43F1-BFD2-28C22B0CF8B7
 TransformPartPropertyTrackData ACBC115B-DA83-49FE-B173-0C06806BB4A4
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1161,7 +1161,7 @@ TransformPartPropertyTrackData ACBC115B-DA83-49FE-B173-0C06806BB4A4
 TransformPartPropertyTrackData 17AB9972-CBF3-4E56-AEB5-40293C514074
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1775398500
+		Id 1775398500 (FlightPathWingMan_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

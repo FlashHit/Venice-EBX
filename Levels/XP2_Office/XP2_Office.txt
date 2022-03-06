@@ -11094,52 +11094,52 @@ LevelData A8BAB405-A0E6-1D8D-1839-2402A5819C56 #primary instance
 									member(104)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/60AA2B96-74AC-4B10-8D7B-69C955ADF035
 										Target Levels/XP2_Office/FX/6634E0D6-E906-45D2-ACBE-804F79CB84A7
-										SourceFieldId 728816682
-										TargetFieldId 728816682
+										SourceFieldId 728816682 (Gun_Transform)
+										TargetFieldId 728816682 (Gun_Transform)
 									member(105)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/60AA2B96-74AC-4B10-8D7B-69C955ADF035
 										Target Levels/XP2_Office/FX/6634E0D6-E906-45D2-ACBE-804F79CB84A7
-										SourceFieldId 1652751526
+										SourceFieldId 1652751526 (Car_Transform)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(106)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/E7FA3361-E6CF-4D5B-B560-BD699C9E8BDD
 										Target Levels/XP2_Office/FX/13CA8FB6-3AD0-489A-AF18-F4FC4ECD95C0
-										SourceFieldId 1652751526
+										SourceFieldId 1652751526 (Car_Transform)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(107)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/1C992445-978C-43C2-8E50-BFEC4AF51DDD
 										Target Levels/XP2_Office/FX/50B38C84-D691-4CCE-A469-47AC8FB7547B
-										SourceFieldId 1652751526
+										SourceFieldId 1652751526 (Car_Transform)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(108)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/74B6CBD3-8418-4D7E-A9CA-32F44BC7ABDC
 										Target Levels/XP2_Office/FX/6E1E3F09-6439-4193-BF55-996B969F1587
-										SourceFieldId 362851764
+										SourceFieldId 362851764 (Tank_Base_Moving)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(109)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/74B6CBD3-8418-4D7E-A9CA-32F44BC7ABDC
 										Target Levels/XP2_Office/FX/6E1E3F09-6439-4193-BF55-996B969F1587
-										SourceFieldId 474058426
+										SourceFieldId 474058426 (Tank_Tower_Moving)
 										TargetFieldId 1044846704
 									member(110)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/74B6CBD3-8418-4D7E-A9CA-32F44BC7ABDC
 										Target Levels/XP2_Office/FX/6E1E3F09-6439-4193-BF55-996B969F1587
-										SourceFieldId 1827523083
+										SourceFieldId 1827523083 (Tank_Barrel_Moving)
 										TargetFieldId -1526050072
 									member(111)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/BC6B2F77-906B-4389-AE8A-C54088693F83
 										Target Levels/XP2_Office/FX/8711B960-6370-4048-BEC0-9D71A67B6E4F
-										SourceFieldId -1782442327
+										SourceFieldId -1782442327 (Tank_Base_02_Moving)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(112)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/BC6B2F77-906B-4389-AE8A-C54088693F83
 										Target Levels/XP2_Office/FX/8711B960-6370-4048-BEC0-9D71A67B6E4F
-										SourceFieldId 1026908135
+										SourceFieldId 1026908135 (Tank_Tower_02_Moving)
 										TargetFieldId 1044846704
 									member(113)::PropertyConnection
 										Source Levels/XP2_Office/FX_Schematic/BC6B2F77-906B-4389-AE8A-C54088693F83
 										Target Levels/XP2_Office/FX/8711B960-6370-4048-BEC0-9D71A67B6E4F
-										SourceFieldId -1243546058
+										SourceFieldId -1243546058 (Tank_Barrel_02_Moving)
 										TargetFieldId -1526050072
 								LinkConnections::array
 									member(0)::LinkConnection

@@ -222,7 +222,7 @@ SyncedBoolEntityData 1B531166-C209-411A-BCA2-F317883D7493
 TransformPartPropertyTrackData 41F0A4DB-2410-4588-AF97-1DD19656F654
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -237,7 +237,7 @@ TransformPartPropertyTrackData 41F0A4DB-2410-4588-AF97-1DD19656F654
 TransformPartPropertyTrackData 44A3F87D-39BB-42F0-B99C-B5EF9EA01AE3
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -252,7 +252,7 @@ TransformPartPropertyTrackData 44A3F87D-39BB-42F0-B99C-B5EF9EA01AE3
 TransformPartPropertyTrackData DA964105-E9AE-4EC3-BE87-1335DC5F3958
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -267,7 +267,7 @@ TransformPartPropertyTrackData DA964105-E9AE-4EC3-BE87-1335DC5F3958
 TransformPartPropertyTrackData 0DDD1110-C478-40A6-AD16-3FB995173256
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -282,7 +282,7 @@ TransformPartPropertyTrackData 0DDD1110-C478-40A6-AD16-3FB995173256
 TransformPartPropertyTrackData E0E08EE2-D7AB-4AA1-961A-8283AD141BCD
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -297,7 +297,7 @@ TransformPartPropertyTrackData E0E08EE2-D7AB-4AA1-961A-8283AD141BCD
 TransformPartPropertyTrackData 65CCFBF8-EABE-4A8B-8B7F-CA1AA70F6142
 	$::PropertyTrackData
 		$::DataContainer
-		Id -71274385
+		Id -71274385 (Gunship_900x1200_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

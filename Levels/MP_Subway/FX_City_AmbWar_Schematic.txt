@@ -569,7 +569,7 @@ SequenceEntityData C7F3C1FB-2FFF-427B-B53B-150197F249A0
 TransformPartPropertyTrackData 37EBFA14-EC20-42FA-A1C9-B67B7E377F82
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -584,7 +584,7 @@ TransformPartPropertyTrackData 37EBFA14-EC20-42FA-A1C9-B67B7E377F82
 TransformPartPropertyTrackData BDD3A106-34DE-41D9-BF2F-DA1C69DC9137
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -599,7 +599,7 @@ TransformPartPropertyTrackData BDD3A106-34DE-41D9-BF2F-DA1C69DC9137
 TransformPartPropertyTrackData 8445D5BA-EE68-4A9A-9E52-65C71E699372
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -614,7 +614,7 @@ TransformPartPropertyTrackData 8445D5BA-EE68-4A9A-9E52-65C71E699372
 TransformPartPropertyTrackData 3DC0A345-76EC-482A-891A-875DBE8CEEED
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -629,7 +629,7 @@ TransformPartPropertyTrackData 3DC0A345-76EC-482A-891A-875DBE8CEEED
 TransformPartPropertyTrackData 23C06973-787A-4023-ACE2-F0524C058C5B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -644,7 +644,7 @@ TransformPartPropertyTrackData 23C06973-787A-4023-ACE2-F0524C058C5B
 TransformPartPropertyTrackData DF8F980E-E676-4565-836E-F496222FC5C4
 	$::PropertyTrackData
 		$::DataContainer
-		Id -1012244355
+		Id -1012244355 (AN_22_Flyby_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -659,7 +659,7 @@ TransformPartPropertyTrackData DF8F980E-E676-4565-836E-F496222FC5C4
 TransformPartPropertyTrackData 7E75362C-D64D-4124-9147-C2D2DB5C6639
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -674,7 +674,7 @@ TransformPartPropertyTrackData 7E75362C-D64D-4124-9147-C2D2DB5C6639
 TransformPartPropertyTrackData 96F6CCCC-E29A-44EC-983D-E6F1275274EB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -689,7 +689,7 @@ TransformPartPropertyTrackData 96F6CCCC-E29A-44EC-983D-E6F1275274EB
 TransformPartPropertyTrackData 8E45D3B4-B19D-4AA3-B4B5-3FA5DD5D9CFF
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -704,7 +704,7 @@ TransformPartPropertyTrackData 8E45D3B4-B19D-4AA3-B4B5-3FA5DD5D9CFF
 TransformPartPropertyTrackData D697766E-C553-4E02-ACF6-2B708021F5F3
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -719,7 +719,7 @@ TransformPartPropertyTrackData D697766E-C553-4E02-ACF6-2B708021F5F3
 TransformPartPropertyTrackData BE376BFF-98AA-47D7-A0A1-D105CEDCFDB5
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -734,7 +734,7 @@ TransformPartPropertyTrackData BE376BFF-98AA-47D7-A0A1-D105CEDCFDB5
 TransformPartPropertyTrackData 62B47B2C-2A7D-4989-B8A8-B2A7C3E49C80
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1367307616
+		Id 1367307616 (AN_22_Flyby_02_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant
@@ -749,7 +749,7 @@ TransformPartPropertyTrackData 62B47B2C-2A7D-4989-B8A8-B2A7C3E49C80
 TransformPartPropertyTrackData 9B342082-32D9-46E7-9E4E-191CD80B9E16
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -764,7 +764,7 @@ TransformPartPropertyTrackData 9B342082-32D9-46E7-9E4E-191CD80B9E16
 TransformPartPropertyTrackData 22D4D3CE-702A-4CC0-909A-953458E2C057
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -779,7 +779,7 @@ TransformPartPropertyTrackData 22D4D3CE-702A-4CC0-909A-953458E2C057
 TransformPartPropertyTrackData 77369339-2B4C-47E4-AB2A-F78CA62E7F6E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -794,7 +794,7 @@ TransformPartPropertyTrackData 77369339-2B4C-47E4-AB2A-F78CA62E7F6E
 TransformPartPropertyTrackData 6BA03C0D-E507-43FC-B8B6-1E2B9560657B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -809,7 +809,7 @@ TransformPartPropertyTrackData 6BA03C0D-E507-43FC-B8B6-1E2B9560657B
 TransformPartPropertyTrackData 0835B1A2-4F57-4959-A616-62095645360F
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -824,7 +824,7 @@ TransformPartPropertyTrackData 0835B1A2-4F57-4959-A616-62095645360F
 TransformPartPropertyTrackData 0FC11988-19E3-43D0-8D36-39070936E303
 	$::PropertyTrackData
 		$::DataContainer
-		Id 156480097
+		Id 156480097 (AN_22_Flyby_03_START)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

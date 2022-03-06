@@ -8676,27 +8676,27 @@ SubWorldData 2715A106-6DE5-48A5-86C6-F79A264D3320 #primary instance
 							member(1)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/DE495F90-FDB8-4071-9101-8B3FF6C03340
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/91399663-311F-43EE-98EA-CCA37F959CF2
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/B5F6B385-B680-4A27-85F0-4AED253199A2
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/5AC64C92-7FA5-4D76-8818-219C6A8D3274
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/78A4C538-88A7-44AA-A2BB-81E46B9D58C7
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/A7BDDF49-E8B4-43E2-97AA-491F3C4E01AE
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/B2F31C9C-FB21-415B-A7DF-E3A0F168850F
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/ECF5119F-7C7E-4343-ADF1-8E9D455A44A5
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/EF09B355-88BB-46E1-AB2E-A2AFFC63FCD6
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/2ADEFCB6-166A-4EE8-AF1F-B8300DCBC2E0
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(6)::PropertyConnection
 								Source B3C08B7E-D0EE-CBB9-5F70-6FB75735C08D
@@ -8706,7 +8706,7 @@ SubWorldData 2715A106-6DE5-48A5-86C6-F79A264D3320 #primary instance
 							member(7)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/65F1E470-5F6C-4928-8CD5-CDC796F0A681
 								Target Levels/SP_Earthquake2/MeatMarket_LOG/47619ADA-B014-4690-B8BC-FF5E860755A7
-								SourceFieldId 1238415768
+								SourceFieldId 1238415768 (LookTrans)
 								TargetFieldId -2024647575 (Transform)
 							member(8)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_LOG/BCD7AF1A-D33B-49FE-88DA-ED7400450DE1
@@ -8716,12 +8716,12 @@ SubWorldData 2715A106-6DE5-48A5-86C6-F79A264D3320 #primary instance
 							member(9)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/343E7CFB-864A-46BB-BA7D-EFBBFCA0D89D
 								Target Levels/SP_Earthquake2/MeatMarket_SCM/4CAA16FF-A07F-4F87-A299-69BEA342F0F9
-								SourceFieldId 227211742
+								SourceFieldId 227211742 (Truck)
 								TargetFieldId 193450867 (In1)
 							member(10)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/B7EEB82F-1B26-4D20-92A8-5BD374B90283
 								Target Levels/SP_Earthquake2/MeatMarket_SCM/4CAA16FF-A07F-4F87-A299-69BEA342F0F9
-								SourceFieldId -234121755
+								SourceFieldId -234121755 (TruckLeave)
 								TargetFieldId 193450864 (In2)
 							member(11)::PropertyConnection
 								Source Levels/SP_Earthquake2/MeatMarket_SCM/4CAA16FF-A07F-4F87-A299-69BEA342F0F9

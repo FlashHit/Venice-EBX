@@ -53,7 +53,7 @@ InterfaceDescriptorData 46E4B35D-AD0B-4D70-9FED-35C956C28F48
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862032
+			Id 5862032 (C6)
 	InputLinks::array
 		member(0)::DynamicLink
 			Id 124880329 (SoundShape)
@@ -482,7 +482,7 @@ SpatialPrefabBlueprint 52A9FD8A-A255-FFE7-F87B-B4DBFD7421B6 #primary instance
 						SourceEvent::EventSpec
 							Id 389243633
 						TargetEvent::EventSpec
-							Id 5862032
+							Id 5862032 (C6)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor 46E4B35D-AD0B-4D70-9FED-35C956C28F48
 				NeedNetworkId False

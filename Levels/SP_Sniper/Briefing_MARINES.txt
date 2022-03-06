@@ -2645,7 +2645,7 @@ TransformPartPropertyTrackData 95A68A9A-B2F9-4C68-B6EC-E5E390D62F30
 TransformPartPropertyTrackData 028A1C7C-5BEB-498A-9DD1-F074487ED74A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -2660,7 +2660,7 @@ TransformPartPropertyTrackData 028A1C7C-5BEB-498A-9DD1-F074487ED74A
 TransformPartPropertyTrackData 9073446D-C91A-4375-8BBC-01AA028C121D
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -2675,7 +2675,7 @@ TransformPartPropertyTrackData 9073446D-C91A-4375-8BBC-01AA028C121D
 TransformPartPropertyTrackData F58F37D1-BDF1-49A1-874B-39F4F5361B4B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -2690,7 +2690,7 @@ TransformPartPropertyTrackData F58F37D1-BDF1-49A1-874B-39F4F5361B4B
 TransformPartPropertyTrackData B0146066-E400-4CDE-B714-73B290ECF0C6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -2705,7 +2705,7 @@ TransformPartPropertyTrackData B0146066-E400-4CDE-B714-73B290ECF0C6
 TransformPartPropertyTrackData 85A241C2-F46C-41B5-B68A-EEA1EDA57264
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -2720,7 +2720,7 @@ TransformPartPropertyTrackData 85A241C2-F46C-41B5-B68A-EEA1EDA57264
 TransformPartPropertyTrackData A45332C4-6BB9-41C5-B7AE-FA9052A17D6E
 	$::PropertyTrackData
 		$::DataContainer
-		Id 779880137
+		Id 779880137 (CloseMallDoor)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

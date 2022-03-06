@@ -1010,12 +1010,12 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/02791B37-005D-45FB-BAAD-035AD2E08741
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC/5941776C-8AA0-40A5-9995-485A821A541E
-								SourceFieldId 193432000
+								SourceFieldId 193432000 (rpg)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/B5016315-EE56-43BA-A5FE-DA6A15603BA8
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC/05930849-B1DB-49DB-A494-00D27B470CB2
-								SourceFieldId 193432000
+								SourceFieldId 193432000 (rpg)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC/0AAD9F8F-6337-4170-A7FF-BBD744796C4E
@@ -1030,7 +1030,7 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(4)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/1A00F5F2-B5CB-45E9-84DB-5FA773496BA2
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC_S/2836B0A5-58E2-4638-B9D8-042AD9CA202D
-								SourceFieldId 672237841
+								SourceFieldId 672237841 (albazir_escaping)
 								TargetFieldId 193450867 (In1)
 							member(5)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/2836B0A5-58E2-4638-B9D8-042AD9CA202D
@@ -1055,7 +1055,7 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(9)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/D1F29488-06BD-46D8-BF27-B5D2A3155681
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC/132A86CB-014F-40E4-AFE0-23CE7CDD1177
-								SourceFieldId 2088288754
+								SourceFieldId 2088288754 (rpg2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(10)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/7AB59EB9-D4CB-4BF6-B223-AEC5F79B4A46
@@ -1080,7 +1080,7 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(14)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/680CB4B5-9103-4EB3-8E63-0831DD660EE6
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC/ED0D6105-227E-4A1E-AF8C-1C40AB0F95C2
-								SourceFieldId -1235088202
+								SourceFieldId -1235088202 (technical)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(15)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC/6D50DBB9-CFB4-491A-B40B-64635D35EC46
@@ -1090,7 +1090,7 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(16)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/B5016315-EE56-43BA-A5FE-DA6A15603BA8
 								Target Levels/SP_Sniper/AlBashirStrike_LOGIC_S/47E8DAF0-EB1E-43AF-83C5-9E48FDCE4EBD
-								SourceFieldId 193432000
+								SourceFieldId 193432000 (rpg)
 								TargetFieldId -2024647575 (Transform)
 							member(17)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashirStrike_LOGIC_S/76795590-E618-440C-9086-A69E7C7FD234
@@ -1310,7 +1310,7 @@ SubWorldData 1ABA2B34-7D0D-44E6-94D4-BAEA61CF5DDD #primary instance
 							member(60)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashir_Jump/8325C4C1-69F8-4E15-82DC-7B8F73AE0454
 								Target Levels/SP_Sniper/AlBashir_Jump_Logic/8B58D60C-B168-49F7-A678-9938A9870900
-								SourceFieldId -629221434
+								SourceFieldId -629221434 (movedown)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(61)::PropertyConnection
 								Source Levels/SP_Sniper/AlBashir_Jump/8C06909E-BCFE-4EE2-AC38-13D675441B7C

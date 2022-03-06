@@ -20,7 +20,7 @@ PrefabBlueprint 07CBF256-6BA5-A39C-38D1-709CD0168646 #primary instance
 					member(0)::PropertyConnection
 						Source 5A17EC23-84FC-4210-B006-3E760603E4B6
 						Target 44C54E2A-F1A3-4F6B-8AB0-6252AE223DE0
-						SourceFieldId -1178330879
+						SourceFieldId -1178330879 (SqFld_326281b4011b41a8a4bf2495b8fe3103)
 						TargetFieldId -2024647575 (Transform)
 					member(1)::PropertyConnection
 						Source 8557A0D6-9076-410C-921D-AAD6891D8E2E

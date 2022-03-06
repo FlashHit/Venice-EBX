@@ -531,25 +531,25 @@ InterfaceDescriptorData 1AF72403-234D-4BDC-A89A-9553471DCD14
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 		member(1)::DynamicEvent
-			Id 5862567
+			Id 5862567 (P2)
 		member(2)::DynamicEvent
-			Id 5862566
+			Id 5862566 (P3)
 		member(3)::DynamicEvent
-			Id 5862561
+			Id 5862561 (P4)
 		member(4)::DynamicEvent
-			Id 5862560
+			Id 5862560 (P5)
 		member(5)::DynamicEvent
-			Id 5862563
+			Id 5862563 (P6)
 		member(6)::DynamicEvent
-			Id 5862562
+			Id 5862562 (P7)
 		member(7)::DynamicEvent
-			Id 5862573
+			Id 5862573 (P8)
 		member(8)::DynamicEvent
-			Id 5862572
+			Id 5862572 (P9)
 		member(9)::DynamicEvent
-			Id 193464596
+			Id 193464596 (P10)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
@@ -568,7 +568,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862564
+						Id 5862564 (P1)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(1)::EventConnection
 					Source 2D6299A9-D25E-E0F2-6139-9B2137B79DE3
@@ -576,7 +576,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862567
+						Id 5862567 (P2)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(2)::EventConnection
 					Source F10A6FB1-C339-A541-A409-D41AAA8FF229
@@ -584,7 +584,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862566
+						Id 5862566 (P3)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(3)::EventConnection
 					Source 706E7394-E682-34A7-2166-E459AD7D8E08
@@ -592,7 +592,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862561
+						Id 5862561 (P4)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(4)::EventConnection
 					Source 46078E3A-B58B-48CC-A217-95BF241DCFFA
@@ -600,7 +600,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862560
+						Id 5862560 (P5)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(5)::EventConnection
 					Source 42395DF1-F60A-7363-1AEF-8CAEE9D746C8
@@ -608,7 +608,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862563
+						Id 5862563 (P6)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(6)::EventConnection
 					Source FC13473B-9BCB-8A4D-749A-EB5E3C40CF3B
@@ -616,7 +616,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862562
+						Id 5862562 (P7)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(7)::EventConnection
 					Source 652AE3B0-8C99-C1D1-8924-34E719680D2B
@@ -624,7 +624,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862573
+						Id 5862573 (P8)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(8)::EventConnection
 					Source 0D47C9D7-A75B-2D12-432D-9A7BA0E3EC8D
@@ -632,7 +632,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862572
+						Id 5862572 (P9)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(9)::EventConnection
 					Source D08DB545-6380-7747-F116-428AE06FE60D
@@ -640,7 +640,7 @@ ObjectBlueprint 7157AA45-DE0C-5A80-749C-ED4B96F176B4 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 193464596
+						Id 193464596 (P10)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor 1AF72403-234D-4BDC-A89A-9553471DCD14
 			NeedNetworkId False

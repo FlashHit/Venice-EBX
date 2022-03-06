@@ -18390,7 +18390,7 @@ SubWorldData B9DC311E-5356-4DDC-B0E1-F12B67C1F2FF #primary instance
 							member(204)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketFlow/3A5DAE8B-C157-4AF1-BDEC-60B8C339CFEF
 								Target Levels/SP_Earthquake/MeatMarketFlow/31A4846F-1E0D-4D32-9C86-9DBA23573C20
-								SourceFieldId 1015389911
+								SourceFieldId 1015389911 (DoorCloser)
 								TargetFieldId 193450867 (In1)
 							member(205)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketFlow/27FF962C-02E1-475A-AE7F-C610C925DA48
@@ -18405,7 +18405,7 @@ SubWorldData B9DC311E-5356-4DDC-B0E1-F12B67C1F2FF #primary instance
 							member(207)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/72AB9DFC-77A3-4DBA-BF71-B461EDCA35FA
 								Target Levels/SP_Earthquake/MeatMarketVenom/7D83E819-2DE1-4ED5-8D80-713D0B1B1776
-								SourceFieldId -1516743052
+								SourceFieldId -1516743052 (Venom_chopper_loop_vehicleRoot)
 								TargetFieldId 193450864 (In2)
 							member(208)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/7D83E819-2DE1-4ED5-8D80-713D0B1B1776
@@ -18435,17 +18435,17 @@ SubWorldData B9DC311E-5356-4DDC-B0E1-F12B67C1F2FF #primary instance
 							member(213)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/361FBB48-973B-42B8-A684-647548712C13
 								Target Levels/SP_Earthquake/MeatMarketVenom/AF79539B-1CA9-491B-BF1E-257319B6A27D
-								SourceFieldId -857171308
+								SourceFieldId -857171308 (Chopper_venom_BuildingCrash)
 								TargetFieldId 193450864 (In2)
 							member(214)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/9FC9F337-F07F-4624-9F9A-50EB9DFDF0F8
 								Target Levels/SP_Earthquake/MeatMarketVenom/7D83E819-2DE1-4ED5-8D80-713D0B1B1776
-								SourceFieldId -1021394762
+								SourceFieldId -1021394762 (Venom_Chopper)
 								TargetFieldId 193450867 (In1)
 							member(215)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/9FC9F337-F07F-4624-9F9A-50EB9DFDF0F8
 								Target Levels/SP_Earthquake/MeatMarketLogic/BD6A7B02-5900-4520-9D76-3E9F74E6377E
-								SourceFieldId -471576890
+								SourceFieldId -471576890 (Littlebird2)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(216)::PropertyConnection
 								Source Levels/SP_Earthquake/MeatMarketVenom/004537A2-2184-47AF-A55D-9D987E6C47AE

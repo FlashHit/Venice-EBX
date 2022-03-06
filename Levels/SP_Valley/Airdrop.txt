@@ -56,12 +56,12 @@ SubWorldData 8673B4F7-B291-4D06-A403-BF263D3F59D2 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Valley/AirdropFlyover/6137DED5-69BA-4330-94F6-D34217210CB5
 								Target Levels/SP_Valley/AirdropProps/1F629D14-929E-4940-B613-8F14CDCD9B43
-								SourceFieldId -822204247
+								SourceFieldId -822204247 (AN22_FlyOver_vehicleRoot)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Valley/AirdropFlyover/6137DED5-69BA-4330-94F6-D34217210CB5
 								Target Levels/SP_Valley/AirdropFlyover/51ADB48E-5950-4DA5-B9F1-C6B2B13CBBB6
-								SourceFieldId -822204247
+								SourceFieldId -822204247 (AN22_FlyOver_vehicleRoot)
 								TargetFieldId -2024647575 (Transform)
 						LinkConnections::array
 							member(0)::LinkConnection

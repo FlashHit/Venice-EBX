@@ -1228,7 +1228,7 @@ SubWorldData 2F668CF3-803A-4B71-ABA1-2C3B97601B19 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Villa/Halo_Logic_s/13A03769-9B87-4B79-B10B-9EACF1C7097D
 								Target Levels/SP_Villa/Halo_Logic/39D23D38-B34E-427A-A44D-393401254370
-								SourceFieldId 1083798349
+								SourceFieldId 1083798349 (HaloJumpStart)
 								TargetFieldId -2024647575 (Transform)
 							member(1)::PropertyConnection
 								Source 32049279-35B4-806B-CAC6-410B1E49F3F6
@@ -1263,7 +1263,7 @@ SubWorldData 2F668CF3-803A-4B71-ABA1-2C3B97601B19 #primary instance
 							member(7)::PropertyConnection
 								Source Levels/SP_Villa/Halo_Logic_s/13A03769-9B87-4B79-B10B-9EACF1C7097D
 								Target Levels/SP_Villa/Halo_Logic/9B822BD4-198E-4136-B15E-62822698D3F8
-								SourceFieldId 1083798349
+								SourceFieldId 1083798349 (HaloJumpStart)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(8)::PropertyConnection
 								Source Levels/SP_Villa/Halo_Logic_s/F1CA5C84-B7CD-4785-9214-8B386CF671FF
@@ -1429,7 +1429,7 @@ SubWorldData 2F668CF3-803A-4B71-ABA1-2C3B97601B19 #primary instance
 							SourceEvent::EventSpec
 								Id -137490305 (OnImpulse)
 							TargetEvent::EventSpec
-								Id -57500387
+								Id -57500387 (RaiseSecondaryRamp)
 							TargetType EventConnectionTargetType_NetworkedClientAndServer
 						member(13)::EventConnection
 							Source Levels/SP_Villa/Halo_Logic_s/DA7DCEDB-5A01-49A8-BD71-824D1EB60EAC

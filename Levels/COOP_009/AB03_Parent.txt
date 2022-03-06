@@ -1099,12 +1099,12 @@ SubWorldData 1A7FC8D3-98C0-4A3C-965F-1D0CFA6B8070 #primary instance
 							member(2)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/2F8D9E00-32E5-4AEA-BBDF-34463050E124
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/0D226A3F-51CD-4EC2-A59C-BBC8507667FA
-								SourceFieldId 2005882229
+								SourceFieldId 2005882229 (Heli_IN)
 								TargetFieldId 193450867 (In1)
 							member(3)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/563C98D5-2BB8-41E9-983A-317FD7099166
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/0D226A3F-51CD-4EC2-A59C-BBC8507667FA
-								SourceFieldId -1732467634
+								SourceFieldId -1732467634 (Heli_Loop)
 								TargetFieldId 193450864 (In2)
 							member(4)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/0D226A3F-51CD-4EC2-A59C-BBC8507667FA
@@ -1114,12 +1114,12 @@ SubWorldData 1A7FC8D3-98C0-4A3C-965F-1D0CFA6B8070 #primary instance
 							member(5)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/2F8D9E00-32E5-4AEA-BBDF-34463050E124
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/DCF6C3D9-C291-47CA-85F7-1DCCAA31E118
-								SourceFieldId -1341372820
+								SourceFieldId -1341372820 (Heli_IN_IO)
 								TargetFieldId 193450867 (In1)
 							member(6)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/563C98D5-2BB8-41E9-983A-317FD7099166
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/DCF6C3D9-C291-47CA-85F7-1DCCAA31E118
-								SourceFieldId 156630903
+								SourceFieldId 156630903 (Heli_Loop_IO)
 								TargetFieldId 193450864 (In2)
 							member(7)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/DCF6C3D9-C291-47CA-85F7-1DCCAA31E118
@@ -1139,17 +1139,17 @@ SubWorldData 1A7FC8D3-98C0-4A3C-965F-1D0CFA6B8070 #primary instance
 							member(10)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/2C2B4695-1ADA-40D3-B7F0-27D75C279527
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/C44CD947-03CB-4193-8794-698B0597537C
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 193450867 (In1)
 							member(11)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/54B1894E-CBA7-4580-8933-9462EF300A1A
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/C44CD947-03CB-4193-8794-698B0597537C
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 193450864 (In2)
 							member(12)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/ECE38AC2-F4F8-4FA4-8D81-FBCBFE0336CD
 								Target Levels/COOP_009/AB03_LogicGameplay_Schematic/C44CD947-03CB-4193-8794-698B0597537C
-								SourceFieldId 2089156973
+								SourceFieldId 2089156973 (Heli)
 								TargetFieldId 193450865 (In3)
 							member(13)::PropertyConnection
 								Source Levels/COOP_009/AB03_LogicGameplay_Schematic/C44CD947-03CB-4193-8794-698B0597537C

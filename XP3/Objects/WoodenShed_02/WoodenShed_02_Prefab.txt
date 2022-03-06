@@ -28,9 +28,9 @@ InterfaceDescriptorData 3C7296F9-CE8F-40D4-AA8B-866EC22B2D0E
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 		member(1)::DynamicEvent
-			Id 5862567
+			Id 5862567 (P2)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 IrReverbEntityData 9C5A857F-5985-43E4-AB0A-2E458B34F44A
@@ -233,7 +233,7 @@ SpatialPrefabBlueprint CC2C04FF-8578-476A-49F9-B7BDF5625300 #primary instance
 						SourceEvent::EventSpec
 							Id 187681315 (part1)
 						TargetEvent::EventSpec
-							Id 5862564
+							Id 5862564 (P1)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(5)::EventConnection
 						Source 3E165F56-7343-4A56-9796-CFC2DCE98802
@@ -241,7 +241,7 @@ SpatialPrefabBlueprint CC2C04FF-8578-476A-49F9-B7BDF5625300 #primary instance
 						SourceEvent::EventSpec
 							Id 187681312 (part2)
 						TargetEvent::EventSpec
-							Id 5862567
+							Id 5862567 (P2)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor 3C7296F9-CE8F-40D4-AA8B-866EC22B2D0E
 				NeedNetworkId False

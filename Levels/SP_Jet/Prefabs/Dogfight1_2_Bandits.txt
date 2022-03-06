@@ -728,7 +728,7 @@ LogicPrefabBlueprint 83278E78-CC58-44E8-9F77-A6394D975EBC #primary instance
 						member(38)::PropertyConnection
 							Source D140042B-3B50-4E64-BA20-D663D1EBF6A3
 							Target 68B71098-6CDD-4BA4-8051-FFF4955A80C8
-							SourceFieldId 1011174750
+							SourceFieldId 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 							TargetFieldId -2035359137
 						member(39)::PropertyConnection
 							Source D140042B-3B50-4E64-BA20-D663D1EBF6A3
@@ -4285,7 +4285,7 @@ SequenceEntityData 1FC0C0FA-836A-42AD-B599-C098525C667E
 TransformPartPropertyTrackData 428213AF-1390-47E8-BB3F-159222AFE6D1
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -4300,7 +4300,7 @@ TransformPartPropertyTrackData 428213AF-1390-47E8-BB3F-159222AFE6D1
 TransformPartPropertyTrackData 1ECCDAF3-93C4-4912-8FB7-E865759B6EE0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -4315,7 +4315,7 @@ TransformPartPropertyTrackData 1ECCDAF3-93C4-4912-8FB7-E865759B6EE0
 TransformPartPropertyTrackData DB403880-6B9E-4F45-8727-3A6EF1CB69DE
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -4330,7 +4330,7 @@ TransformPartPropertyTrackData DB403880-6B9E-4F45-8727-3A6EF1CB69DE
 TransformPartPropertyTrackData 19195FC9-7698-401F-92F0-18DDCBF6FA64
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -4345,7 +4345,7 @@ TransformPartPropertyTrackData 19195FC9-7698-401F-92F0-18DDCBF6FA64
 TransformPartPropertyTrackData FC9A71FD-1A6D-4A1B-A0F4-D82BCA20230A
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -4360,7 +4360,7 @@ TransformPartPropertyTrackData FC9A71FD-1A6D-4A1B-A0F4-D82BCA20230A
 TransformPartPropertyTrackData 99DFB5C7-FBA5-412A-AAB2-338D57C5827B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 1011174750
+		Id 1011174750 (BogeyIntroSeq2BanditDestroyed_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

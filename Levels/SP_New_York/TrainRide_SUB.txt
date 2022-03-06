@@ -3441,17 +3441,17 @@ SubWorldData BF1D5811-F40B-4DA5-A733-0F81DA5C1E22 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/D5616B5B-87E0-4CA1-B34A-988FB9C10BFE
 								Target Levels/SP_New_York/TrainRide_ART/35D6AE01-4FF5-4FF6-9DD9-1FC631C88CD1
-								SourceFieldId 212469266
+								SourceFieldId 212469266 (Cart3)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/D5616B5B-87E0-4CA1-B34A-988FB9C10BFE
 								Target Levels/SP_New_York/TrainRide_ART/0A3C8177-445C-4208-8904-54209EC76A65
-								SourceFieldId 212469267
+								SourceFieldId 212469267 (Cart2)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/D5616B5B-87E0-4CA1-B34A-988FB9C10BFE
 								Target Levels/SP_New_York/TrainRide_ART/708456F7-9B2B-43F8-85B0-2F071346AD47
-								SourceFieldId 212469264
+								SourceFieldId 212469264 (Cart1)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/85662664-139C-418A-9297-434940E2351E
@@ -3536,17 +3536,17 @@ SubWorldData BF1D5811-F40B-4DA5-A733-0F81DA5C1E22 #primary instance
 							member(19)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/59AFDB79-9B51-4967-B42D-4E1B1E6C10C0
 								Target Levels/SP_New_York/TrainRide_ART/EF7F85E9-C1AE-40FE-B115-5885D325A0EC
-								SourceFieldId 212469269
+								SourceFieldId 212469269 (Cart4)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(20)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/59AFDB79-9B51-4967-B42D-4E1B1E6C10C0
 								Target Levels/SP_New_York/TrainRide_ART/923C9901-75E0-4E41-A542-13A3211161DF
-								SourceFieldId 212469268
+								SourceFieldId 212469268 (Cart5)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(21)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/59AFDB79-9B51-4967-B42D-4E1B1E6C10C0
 								Target Levels/SP_New_York/TrainRide_ART/82BFCE93-4B41-4DAD-ABB4-A4DEFD4348F9
-								SourceFieldId 212469268
+								SourceFieldId 212469268 (Cart5)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(22)::PropertyConnection
 								Source Levels/SP_New_York/TrainRide_SCM/C9E7F20D-8DED-48D5-9AF2-D40B673FE58F
@@ -3807,7 +3807,7 @@ SubWorldData BF1D5811-F40B-4DA5-A733-0F81DA5C1E22 #primary instance
 							member(26)::LinkConnection
 								Source Levels/SP_New_York/TrainRide_SCM/4E07468F-EAD6-4D98-971E-03804D6F5BB1
 								Target 522586FB-C46B-0635-F289-793272CF15D9
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 122908851
 							member(27)::LinkConnection
 								Source Levels/SP_New_York/TrainRide_SCM/3AE61379-A4D6-42D8-BE7D-D386E8A71C0F
@@ -3907,7 +3907,7 @@ SubWorldData BF1D5811-F40B-4DA5-A733-0F81DA5C1E22 #primary instance
 							member(46)::LinkConnection
 								Source Levels/SP_New_York/TrainRide_SCM/149B828D-70F9-4A6A-B3D0-4CF0B73B71AA
 								Target 522586FB-C46B-0635-F289-793272CF15D9
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId 122908851
 							member(47)::LinkConnection
 								Source Levels/SP_New_York/TrainRide_SCM/C03AED9F-3886-4FCB-9168-B50652CF1BC5

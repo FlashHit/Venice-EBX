@@ -357,7 +357,7 @@ SoundWaveVariation 545C9C6B-DFA8-44C5-B259-B517F5321E9C
 	SeekTablesSize 0
 	Segments::array
 		member(0)::SoundWaveVariationSegment
-			SamplesOffset 177564 (9)
+			SamplesOffset 177564
 			SeekTableOffset 4294967295
 			SegmentLength 0.6346458196640015
 	FirstLoopSegmentIndex 0

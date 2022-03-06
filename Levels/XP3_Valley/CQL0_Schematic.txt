@@ -140,7 +140,7 @@ SequenceEntityData 4D1A10A9-BB31-4593-8948-8C35BB1B9948
 TransformPartPropertyTrackData 4F426A91-D8B0-4A16-913C-129E129870D0
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -155,7 +155,7 @@ TransformPartPropertyTrackData 4F426A91-D8B0-4A16-913C-129E129870D0
 TransformPartPropertyTrackData 96164E6A-7478-4DD9-A528-2286B9589350
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -170,7 +170,7 @@ TransformPartPropertyTrackData 96164E6A-7478-4DD9-A528-2286B9589350
 TransformPartPropertyTrackData 1840222A-73E7-426C-AD74-79F6C9F021BB
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -185,7 +185,7 @@ TransformPartPropertyTrackData 1840222A-73E7-426C-AD74-79F6C9F021BB
 TransformPartPropertyTrackData BD122F2A-5E64-4C46-887D-4C5B799BF785
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -200,7 +200,7 @@ TransformPartPropertyTrackData BD122F2A-5E64-4C46-887D-4C5B799BF785
 TransformPartPropertyTrackData 3D3359CB-8D36-4190-A7F1-B48C820503EC
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -215,7 +215,7 @@ TransformPartPropertyTrackData 3D3359CB-8D36-4190-A7F1-B48C820503EC
 TransformPartPropertyTrackData AB476868-05A9-446A-9E73-4978A6F08B3C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 404661057
+		Id 404661057 (Gunship_1250x750_faster_vehicleRoot)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

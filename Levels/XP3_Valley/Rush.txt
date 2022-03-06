@@ -3485,17 +3485,17 @@ SubWorldData 438D8D1E-C2C4-4E54-A8EF-1DFE56E9BD7A #primary instance
 							member(30)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/C45E6264-1F25-4E0C-84F3-6F6D435C3887
 								Target Levels/XP3_Valley/R_Schematic/01487829-DCC7-4842-A9C8-79CC66FDB958
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(31)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/CCE1DEB2-4211-4993-8FE7-534C2FD32E83
 								Target Levels/XP3_Valley/R_Schematic/5B04DBF9-AB4A-4C02-B4C0-B56BA9EC6A16
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(32)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/0B5191F3-9AC0-4815-8DF3-F19865A84408
 								Target Levels/XP3_Valley/R_Schematic/0CEC44DA-34FD-481E-A45A-274776729B13
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(33)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/C751770B-4309-4A18-A632-E39AB79803E6
@@ -3760,7 +3760,7 @@ SubWorldData 438D8D1E-C2C4-4E54-A8EF-1DFE56E9BD7A #primary instance
 							member(85)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/77680B06-1502-42CC-9914-CF7441B3F689
 								Target Levels/XP3_Valley/R_Objects/931F1FAC-698B-4DBF-9A5D-66F3D39B8517
-								SourceFieldId -1182483491
+								SourceFieldId -1182483491 (Gunship_500x500_vehicleRoot)
 								TargetFieldId 1831219017
 							member(86)::PropertyConnection
 								Source Levels/XP3_Valley/R_Schematic/85EFA061-3ED9-4876-89AC-547592E951B7

@@ -17,7 +17,7 @@ SoundWaveAsset 092012B1-7207-48AF-EF1C-15B326CAD125 #primary instance
 				ChunkSize 183748
 			member(3)::SoundDataChunk
 				ChunkId 72AFBA41-14E4-A001-04C3-08A1FCD5FCBA
-				ChunkSize 177644 (I)
+				ChunkSize 177644
 			member(4)::SoundDataChunk
 				ChunkId 486AF242-F434-B001-B569-741F8D96FAEE
 				ChunkSize 275000

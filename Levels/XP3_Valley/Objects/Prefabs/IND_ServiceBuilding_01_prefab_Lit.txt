@@ -33,9 +33,9 @@ InterfaceDescriptorData AE366EB5-9CAC-43D6-9AF7-0E825E8DF9C9
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862038
+			Id 5862038 (C0)
 		member(1)::DynamicEvent
-			Id 5862039
+			Id 5862039 (C1)
 	InputLinks::array
 		member(0)::DynamicLink
 			Id 124880329 (SoundShape)
@@ -256,7 +256,7 @@ SpatialPrefabBlueprint 98D1A795-0997-4E75-BB3D-04DD33EB1648 #primary instance
 						SourceEvent::EventSpec
 							Id -2082596160
 						TargetEvent::EventSpec
-							Id 5862038
+							Id 5862038 (C0)
 						TargetType EventConnectionTargetType_ClientAndServer
 					member(6)::EventConnection
 						Source 4E80083B-5A88-4A20-A61B-FD02295C35F7
@@ -264,7 +264,7 @@ SpatialPrefabBlueprint 98D1A795-0997-4E75-BB3D-04DD33EB1648 #primary instance
 						SourceEvent::EventSpec
 							Id -2082596159
 						TargetEvent::EventSpec
-							Id 5862039
+							Id 5862039 (C1)
 						TargetType EventConnectionTargetType_ClientAndServer
 				Descriptor AE366EB5-9CAC-43D6-9AF7-0E825E8DF9C9
 				NeedNetworkId False

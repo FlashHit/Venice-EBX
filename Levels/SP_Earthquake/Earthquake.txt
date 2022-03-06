@@ -1242,12 +1242,12 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(6)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/54679A9D-C38A-456B-9999-0316B72EB8E0
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 232342820
+								SourceFieldId 232342820 (Palm1)
 								TargetFieldId -464407671
 							member(7)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/02B5F97C-6C3D-49A8-8C14-2E5B871BF9E0
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 232342823
+								SourceFieldId 232342823 (Palm2)
 								TargetFieldId 804904698
 							member(8)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/E7FFC992-F2A2-4EE0-ACDB-C32BCA2F0637
@@ -3127,72 +3127,72 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(383)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/43DC6C27-725E-4D36-BDF8-48CBE3526AA2
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160142981
+								SourceFieldId 1160142981 (BBox_19)
 								TargetFieldId -2101530636
 							member(384)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/D0AA0AC6-E99B-4825-9FC2-DEBF195E2764
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143084
+								SourceFieldId 1160143084 (BBox_01)
 								TargetFieldId 204074817
 							member(385)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/8106B01A-E5CC-411D-9001-F352E523E5F7
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143081
+								SourceFieldId 1160143081 (BBox_04)
 								TargetFieldId -1953480917
 							member(386)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/BE4B0ABB-A3CE-464A-95C2-39C95F36B86B
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143086
+								SourceFieldId 1160143086 (BBox_03)
 								TargetFieldId -382286531
 							member(387)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/D4298E2A-DC8C-4C46-AC01-BE7EE547D9F2
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143076
+								SourceFieldId 1160143076 (BBox_09)
 								TargetFieldId 1632698036
 							member(388)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/248E0B42-621F-4E69-972E-396CF4C7085D
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160142990
+								SourceFieldId 1160142990 (BBox_12)
 								TargetFieldId -210773697
 							member(389)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/901285B2-C644-4FEE-A8F4-7C7891B0E2E6
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143082
+								SourceFieldId 1160143082 (BBox_07)
 								TargetFieldId 1030445329
 							member(390)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/B1583E75-91FE-4F4A-B8E9-CD76C90ECE44
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143149
+								SourceFieldId 1160143149 (BBox_22)
 								TargetFieldId -1725393754
 							member(391)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/9FF7A088-FFE3-4373-ABD4-4317506C3341
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160142988
+								SourceFieldId 1160142988 (BBox_10)
 								TargetFieldId -1177876256
 							member(392)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/D7ED60E6-24DF-410E-9D59-AA30000534D8
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 327909348
+								SourceFieldId 327909348 (Me_HigRise_02)
 								TargetFieldId -2135732989
 							member(393)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/DF285896-9A4A-4A11-A8E3-79404659B69F
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143046
+								SourceFieldId 1160143046 (BBox_38)
 								TargetFieldId -904700363
 							member(394)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/11C177C2-6019-44B7-AF28-9F15CB357F29
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1160143049
+								SourceFieldId 1160143049 (BBox_37)
 								TargetFieldId -1318470501
 							member(395)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/186A80BF-97C7-4B49-A939-7FE1CBECDAC7
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -164096419
+								SourceFieldId -164096419 (ELTow_02)
 								TargetFieldId 175102058
 							member(396)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/B3CEB21C-65BD-440F-9D40-6FC0EB0F4F7A
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -934437587
+								SourceFieldId -934437587 (Signe_01)
 								TargetFieldId -117513675
 							member(397)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/9E4F50A8-1B31-4C25-AF6F-D17D7E108E3B
@@ -3202,12 +3202,12 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(398)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/F01AF9B7-AD67-4A73-A51D-B90339090C97
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -151092553
+								SourceFieldId -151092553 (ME_Res_corner_06)
 								TargetFieldId -700478069
 							member(399)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/8D0B5283-750A-40EE-86BE-46C818E41670
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 279094407
+								SourceFieldId 279094407 (house06)
 								TargetFieldId -1688741462
 							member(400)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/4A36F531-9093-4E42-B05F-21CFE67C870F
@@ -3217,17 +3217,17 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(401)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/2DC6A44F-F07F-4B77-BD46-E6A2FABCBB88
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088672806
+								SourceFieldId 2088672806 (AC01)
 								TargetFieldId -493677795
 							member(402)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/0AD5D82C-C6C9-48C9-B2A3-07A0129BA51E
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -1089757096
+								SourceFieldId -1089757096 (Parabol_01)
 								TargetFieldId -1132580934
 							member(403)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/EA6D601B-17EE-4303-875B-76E72C322DDF
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 206761817
+								SourceFieldId 206761817 (AC_01)
 								TargetFieldId -665973199
 							member(404)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/B38C8383-C30C-417D-8158-1D74C0C69D46
@@ -3237,22 +3237,22 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(405)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/26932CBB-87B1-4B13-877A-333DD1EDB1E3
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088672805
+								SourceFieldId 2088672805 (AC02)
 								TargetFieldId 2029893505
 							member(406)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/C3BF9196-6AB2-4626-9115-2D296A464BBA
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 881217131
+								SourceFieldId 881217131 (ME_RES_05corner)
 								TargetFieldId 1475077232
 							member(407)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/BF7AF2E1-8037-4D53-8BB8-16CEEFEC8710
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -2091606612
+								SourceFieldId -2091606612 (ME_RES_05)
 								TargetFieldId 1365428389
 							member(408)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/D8D830D2-8CF3-4CD1-BA8D-6C4B802A597C
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -2091606612
+								SourceFieldId -2091606612 (ME_RES_05)
 								TargetFieldId 1677292353
 							member(409)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/6F181EDB-D093-486A-98E1-93C6EC38AF97
@@ -3272,12 +3272,12 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(412)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/653A0C0E-1FE9-4072-8D35-5510CC764835
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088672803
+								SourceFieldId 2088672803 (AC04)
 								TargetFieldId 2002146146
 							member(413)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/A16E9687-BD6F-4BEB-BD39-59283C75941B
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088672804
+								SourceFieldId 2088672804 (AC03)
 								TargetFieldId 1647241194
 							member(414)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/E7FFC992-F2A2-4EE0-ACDB-C32BCA2F0637
@@ -3287,32 +3287,32 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(415)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/1B317493-D120-4459-9A6E-72CA59A4DFE4
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088672802
+								SourceFieldId 2088672802 (AC05)
 								TargetFieldId -1950256021
 							member(416)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/3B9526C0-F680-42D8-91C4-517662DE540A
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 1849057490
+								SourceFieldId 1849057490 (roofparabol)
 								TargetFieldId -113464951
 							member(417)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/A3536D6C-07A6-4B2E-88F6-1B6EBF20991D
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 270238222
+								SourceFieldId 270238222 (Rolf_parabol)
 								TargetFieldId 1480203162
 							member(418)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/9AACD1BB-8D15-4B71-B6C5-B0CA4FC08C61
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2087557665
+								SourceFieldId 2087557665 (ac06)
 								TargetFieldId -318273438
 							member(419)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/2F9DD5C0-40E6-46CE-99DA-E57BF1FFCFBF
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -407452858
+								SourceFieldId -407452858 (Parabol)
 								TargetFieldId -1196271405
 							member(420)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/97AF4C10-D158-4FE1-978C-ED691DBD68FF
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 2088635776
+								SourceFieldId 2088635776 (Ac07)
 								TargetFieldId -203397914
 							member(421)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/DDE1D5D1-F55D-450C-8239-7DDB77297F37
@@ -3322,7 +3322,7 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(422)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/DDE1D5D1-F55D-450C-8239-7DDB77297F37
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 526776247
+								SourceFieldId 526776247 (Clothline)
 								TargetFieldId 1427005112
 							member(423)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/DDE1D5D1-F55D-450C-8239-7DDB77297F37
@@ -3347,7 +3347,7 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(427)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/ECF4FD21-8173-4CC4-B692-65DEB6F70721
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId -1387112777
+								SourceFieldId -1387112777 (parabol010)
 								TargetFieldId -1910923036
 							member(428)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/448F8989-7BD0-4918-B615-399AD1A47852
@@ -3387,17 +3387,17 @@ SubWorldData 004EA1D8-D1CB-4AA7-929F-47B62B01A4FF #primary instance
 							member(435)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/8AA9B18A-E601-4455-AF3D-113A4C259EF0
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 816496079
+								SourceFieldId 816496079 (ME_highRise_01)
 								TargetFieldId -1885458818
 							member(436)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeSchema/8AA9B18A-E601-4455-AF3D-113A4C259EF0
 								Target Levels/SP_Earthquake/EarthquakeEffects/04C43D9B-7E50-41EC-AD32-5F44E99EEC8C
-								SourceFieldId -672963610
+								SourceFieldId -672963610 (Me_higRise_01_FX)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(437)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeFight/CD96CD8B-9E42-4E78-B9A8-3FE223D8452F
 								Target D76835EB-B5B0-C2E0-DEFF-22E1DF339F48
-								SourceFieldId 886970615
+								SourceFieldId 886970615 (Technicalearthquake)
 								TargetFieldId 653272070
 							member(438)::PropertyConnection
 								Source Levels/SP_Earthquake/EarthquakeFight/717E7362-52C4-47ED-BBB8-0EC33B5033AB

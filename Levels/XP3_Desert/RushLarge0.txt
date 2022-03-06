@@ -4589,12 +4589,12 @@ SubWorldData 07F2D52B-15D2-4053-BABB-5C788F60F750 #primary instance
 							member(116)::PropertyConnection
 								Source Levels/XP3_Desert/RushLarge0_Schematic/2437E424-3186-45E9-8188-439DDC725E58
 								Target Levels/XP3_Desert/RushLarge0_Schematic/8D94DDF3-DCEA-4AE3-A599-CF311273F14C
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(117)::PropertyConnection
 								Source Levels/XP3_Desert/RushLarge0_Schematic/6BDDC7C1-83EC-43CC-B83D-B96055103728
 								Target Levels/XP3_Desert/RushLarge0_Schematic/E63EA87B-B98D-4DEB-AF8D-930CE2DF73AD
-								SourceFieldId 5861014
+								SourceFieldId 5861014 (b1)
 								TargetFieldId -1522984530 (TransformIn)
 							member(118)::PropertyConnection
 								Source 9187A8C0-EBEC-1F22-BE2B-4A891B627F30
@@ -4609,7 +4609,7 @@ SubWorldData 07F2D52B-15D2-4053-BABB-5C788F60F750 #primary instance
 							member(120)::PropertyConnection
 								Source Levels/XP3_Desert/RushLarge0_Schematic/A3659737-085E-4AE1-A139-92D33CC9E700
 								Target Levels/XP3_Desert/LOGIC_RushLarge0/8FB4AD29-00D0-4F56-B228-2465AF83F14C
-								SourceFieldId 907336156
+								SourceFieldId 907336156 (Gunship_600x700_vehicleRoot)
 								TargetFieldId 1831219017
 							member(121)::PropertyConnection
 								Source Levels/XP3_Desert/RushLarge0_Schematic/713C5A24-5323-4B3B-8D54-6340DC9D2650

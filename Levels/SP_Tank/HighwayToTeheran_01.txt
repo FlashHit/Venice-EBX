@@ -22076,27 +22076,27 @@ SubWorldData E2A57955-1B0E-47BA-8BC9-6A736AF85E79 #primary instance
 							member(282)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/6B347113-64DB-40A4-A5F3-2A33F05D9F37
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/443B8E26-238F-4D38-879A-5616115B1AAD
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(283)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/E568B29B-48B5-48A1-9850-1E730DA23295
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/618AC1EE-51A0-4B8D-A9BC-6FE672D7B709
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(284)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/1DB7EB51-8DED-4235-B96D-14AECDB72659
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/E91C2F34-2678-4ECA-AE89-58EA44F14584
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(285)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/2B36310A-38CB-42C1-9D49-400B5C4A625C
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/B319045D-BC16-471F-BBFE-A4C8EEAAB153
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(286)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/B08071AF-4183-48CD-8950-BB24408495C1
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/A4FC5DA9-C139-48E0-90F1-3EB2D4539EFE
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(287)::LinkConnection
 								Source Levels/SP_Tank/Highway1_EnemyAI/21A4C7C0-8148-4197-9A4B-E174A6132031
@@ -22141,12 +22141,12 @@ SubWorldData E2A57955-1B0E-47BA-8BC9-6A736AF85E79 #primary instance
 							member(295)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/E1724BD4-F164-45D2-A26D-B3A269F47637
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/4ED84A32-3AB0-49F9-AD58-6D5CBE99BD1C
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(296)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/F60099C7-995D-4E8F-9495-EC18A5FCE7EB
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/8CC9DCF2-0A7D-46DA-8A1D-4E9BC19BCEF5
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(297)::LinkConnection
 								Source Levels/SP_Tank/Highway1_EnemyAI/98C0299D-A1C6-4B58-81FD-FF98AD531673
@@ -22161,7 +22161,7 @@ SubWorldData E2A57955-1B0E-47BA-8BC9-6A736AF85E79 #primary instance
 							member(299)::LinkConnection
 								Source Levels/SP_Tank/HighwayToTeheran_01_AI/1AE360A6-7093-4632-842E-73D3B762F60E
 								Target Levels/SP_Tank/HighwayToTeheran_01_WPEnemy/5FFE8BF0-96D9-48C8-A910-4F2D339A8F2A
-								SourceFieldId 5862498
+								SourceFieldId 5862498 (WP)
 								TargetFieldId 0
 							member(300)::LinkConnection
 								Source Levels/SP_Tank/Highway1_EnemyAI/E7C04757-85FE-409D-A140-6C7A7A46B9B9

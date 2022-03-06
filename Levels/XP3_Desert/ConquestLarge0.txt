@@ -4034,7 +4034,7 @@ SubWorldData 5B8476CF-8B9A-4E26-A0C0-DE37E41D7571 #primary instance
 							member(25)::PropertyConnection
 								Source Levels/XP3_Desert/Logic_ConquestLarge0_Schematic/A218C315-487A-4231-9E42-76718313CB4B
 								Target Levels/XP3_Desert/Art_ConquestLarge0/BBAC4363-6294-405D-B986-3F849FB41092
-								SourceFieldId 880930866
+								SourceFieldId 880930866 (Gunship_1300x1400_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(26)::PropertyConnection
 								Source BE18CC03-B671-5B4E-6676-F1E44EAC8B5A

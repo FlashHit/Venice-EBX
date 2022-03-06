@@ -1307,7 +1307,7 @@ TransformHubEntityData 3B7FA89F-B60C-416C-8C3D-A2A95A27D362
 TransformPartPropertyTrackData 82ED7F30-32D3-4D24-A697-A08060E556C5
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -1322,7 +1322,7 @@ TransformPartPropertyTrackData 82ED7F30-32D3-4D24-A697-A08060E556C5
 TransformPartPropertyTrackData B106678F-BB9E-4299-9EDE-04FD3DAC559B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -1337,7 +1337,7 @@ TransformPartPropertyTrackData B106678F-BB9E-4299-9EDE-04FD3DAC559B
 TransformPartPropertyTrackData 7C417AE1-52BA-4A7A-9A5D-5DEBD0DE64B2
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -1352,7 +1352,7 @@ TransformPartPropertyTrackData 7C417AE1-52BA-4A7A-9A5D-5DEBD0DE64B2
 TransformPartPropertyTrackData DDD2FB93-AF63-4187-B467-4F7EFED3DA1D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -1367,7 +1367,7 @@ TransformPartPropertyTrackData DDD2FB93-AF63-4187-B467-4F7EFED3DA1D
 TransformPartPropertyTrackData 9DC7EEC1-C958-4601-AD59-586B6962C9B1
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -1382,7 +1382,7 @@ TransformPartPropertyTrackData 9DC7EEC1-C958-4601-AD59-586B6962C9B1
 TransformPartPropertyTrackData 8C67D0AC-296D-469F-9A0F-7A8AEFB1EA95
 	$::PropertyTrackData
 		$::DataContainer
-		Id -555062537
+		Id -555062537 (DisableTankAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

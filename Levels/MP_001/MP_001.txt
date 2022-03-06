@@ -10932,52 +10932,52 @@ LevelData CEB62353-85BC-67BB-EB82-311402BE77AD #primary instance
 									member(18)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/2C88B4EF-FE3E-44E4-9B94-5945161C3F18
 										Target Levels/MP_001/Ambient_Warfare/DFDDC33A-62EC-4285-A582-80FE557D4F3E
-										SourceFieldId 1176258362
+										SourceFieldId 1176258362 (F18_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(19)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/2C88B4EF-FE3E-44E4-9B94-5945161C3F18
 										Target Levels/MP_001/Ambient_Warfare/DA93BC94-3405-4435-A6DC-8CDBF1B7A11C
-										SourceFieldId 1134611801
+										SourceFieldId 1134611801 (F18_02_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(20)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/2C88B4EF-FE3E-44E4-9B94-5945161C3F18
 										Target Levels/MP_001/Ambient_Warfare/A3B111DB-48E9-4FBF-A438-EDF63EE4236A
-										SourceFieldId 1097852536
+										SourceFieldId 1097852536 (F18_03_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(21)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/2C88B4EF-FE3E-44E4-9B94-5945161C3F18
 										Target Levels/MP_001/Ambient_Warfare/30E72B72-6237-49C5-B7C3-49795AB2DE41
-										SourceFieldId 1065684383
+										SourceFieldId 1065684383 (F18_04_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(22)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/10E4F3D6-0B77-4AE5-A22A-DB49D40C0290
 										Target Levels/MP_001/Ambient_Warfare/DF85C4C3-E65D-4983-945F-002B4625883B
-										SourceFieldId 7328117
+										SourceFieldId 7328117 (A10_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(23)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/10E4F3D6-0B77-4AE5-A22A-DB49D40C0290
 										Target Levels/MP_001/Ambient_Warfare/5A0D0BCE-F687-4B79-987E-C213092E842D
-										SourceFieldId -103101994
+										SourceFieldId -103101994 (A10_02_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(24)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/10E4F3D6-0B77-4AE5-A22A-DB49D40C0290
 										Target Levels/MP_001/Ambient_Warfare/27B4B169-B819-451B-8C96-79A351D3386E
-										SourceFieldId -217861833
+										SourceFieldId -217861833 (A10_03_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(25)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/9B63C648-A1AE-44AF-B32F-9AF982AAA647
 										Target Levels/MP_001/Ambient_Warfare/381AFB49-16DC-4E7D-83C9-924833243E1E
-										SourceFieldId 2048547835
+										SourceFieldId 2048547835 (Mi28_01_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(26)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/9B63C648-A1AE-44AF-B32F-9AF982AAA647
 										Target Levels/MP_001/Ambient_Warfare/AAC8F0EB-B46D-407E-B616-2139AD6607F8
-										SourceFieldId 2085171928
+										SourceFieldId 2085171928 (Mi28_02_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(27)::PropertyConnection
 										Source Levels/MP_001/Ambient_Warfare_Schematic/9B63C648-A1AE-44AF-B32F-9AF982AAA647
 										Target Levels/MP_001/Ambient_Warfare/1022B0E9-376E-4899-B9C6-26FE481781AF
-										SourceFieldId 1970420537
+										SourceFieldId 1970420537 (Mi28_03_move)
 										TargetFieldId -409930682 (BlueprintTransform)
 									member(28)::PropertyConnection
 										Source Levels/MP_001/Sound_Schematic/7B83E3D2-3A6C-441A-B510-B22326FC8A73
@@ -14406,7 +14406,7 @@ LevelData CEB62353-85BC-67BB-EB82-311402BE77AD #primary instance
 									Source Levels/MP_001/Buildings/8571BF38-3160-4344-94BF-9FA615334854
 									Target Levels/MP_001/Extra/100D3820-8111-43CA-8BFB-05A68F2A1C38
 									SourceEvent::EventSpec
-										Id 5862038
+										Id 5862038 (C0)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer
@@ -14438,7 +14438,7 @@ LevelData CEB62353-85BC-67BB-EB82-311402BE77AD #primary instance
 									Source Levels/MP_001/Buildings/11380B98-6254-4D09-8D03-366DDAB1EE68
 									Target Levels/MP_001/StreetProps/EFB38132-22D8-493B-A3EB-02148B36C2A9
 									SourceEvent::EventSpec
-										Id 5862038
+										Id 5862038 (C0)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer
@@ -14494,7 +14494,7 @@ LevelData CEB62353-85BC-67BB-EB82-311402BE77AD #primary instance
 									Source Levels/MP_001/Buildings/11380B98-6254-4D09-8D03-366DDAB1EE68
 									Target Levels/MP_001/Extra/8678081D-5458-45D7-9404-A4D0A8898D6D
 									SourceEvent::EventSpec
-										Id 5862038
+										Id 5862038 (C0)
 									TargetEvent::EventSpec
 										Id -117303631 (Disable)
 									TargetType EventConnectionTargetType_ClientAndServer

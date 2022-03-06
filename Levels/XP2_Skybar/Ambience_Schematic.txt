@@ -173,7 +173,7 @@ SoundEntityData 4AAE3A85-16D3-41ED-B718-9B56097D599F
 TransformPartPropertyTrackData 81E5F899-6829-4AAD-998C-AD222154AA1D
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -188,7 +188,7 @@ TransformPartPropertyTrackData 81E5F899-6829-4AAD-998C-AD222154AA1D
 TransformPartPropertyTrackData F997D0FC-38A7-48D4-B484-E4DA33BC9BDA
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -203,7 +203,7 @@ TransformPartPropertyTrackData F997D0FC-38A7-48D4-B484-E4DA33BC9BDA
 TransformPartPropertyTrackData AD2F2BDC-AE8B-4CBB-8A65-94CDF4EF904B
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -218,7 +218,7 @@ TransformPartPropertyTrackData AD2F2BDC-AE8B-4CBB-8A65-94CDF4EF904B
 TransformPartPropertyTrackData 91A1F8E1-5E25-486E-8387-362149874518
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -233,7 +233,7 @@ TransformPartPropertyTrackData 91A1F8E1-5E25-486E-8387-362149874518
 TransformPartPropertyTrackData 3EEC93D3-58CC-495B-B1C8-C82BF88E9D1A
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -248,7 +248,7 @@ TransformPartPropertyTrackData 3EEC93D3-58CC-495B-B1C8-C82BF88E9D1A
 TransformPartPropertyTrackData 68D4B4E3-C97A-4071-BBE1-402A50C87FB0
 	$::PropertyTrackData
 		$::DataContainer
-		Id -719295365
+		Id -719295365 (heliAnimation)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

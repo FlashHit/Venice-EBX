@@ -112,7 +112,7 @@ InterfaceDescriptorData DA92482F-3A9F-49A9-BD22-2A966F843B64
 			Id 520211677
 	OutputLinks::array
 		member(0)::DynamicLink
-			Id -1487284510
+			Id -1487284510 (Animatables)
 LogicPrefabBlueprint F7205CB7-CEE4-4E70-85B7-C14F60790C4A #primary instance
 	$::PrefabBlueprint
 		$::Blueprint
@@ -152,32 +152,32 @@ LogicPrefabBlueprint F7205CB7-CEE4-4E70-85B7-C14F60790C4A #primary instance
 							Source 118CA057-9D5D-4C97-A837-73BE8AB5776A
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1124905139 (AnimatableComponents)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 						member(6)::LinkConnection
 							Source 61639EF2-A180-4B8E-A585-6FE143B385EB
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1124905139 (AnimatableComponents)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 						member(7)::LinkConnection
 							Source 98DD92BC-3541-47F6-98CD-0EB91D05D95F
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1124905139 (AnimatableComponents)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 						member(8)::LinkConnection
 							Source CE28A943-39D5-4F87-AA39-A0DFE81F3394
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1124905139 (AnimatableComponents)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 						member(9)::LinkConnection
 							Source A9A8365F-FEF5-4B8E-A68A-2EFFA8AF405A
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1124905139 (AnimatableComponents)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 						member(10)::LinkConnection
 							Source F21DC35A-5208-4B6C-A215-A5F1FCB96A5F
 							Target DA92482F-3A9F-49A9-BD22-2A966F843B64
 							SourceFieldId -1086273423 (Animatable)
-							TargetFieldId -1487284510
+							TargetFieldId -1487284510 (Animatables)
 				EventConnections::array
 					member(0)::EventConnection
 						Source 118CA057-9D5D-4C97-A837-73BE8AB5776A

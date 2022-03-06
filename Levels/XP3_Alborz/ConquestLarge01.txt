@@ -3447,12 +3447,12 @@ SubWorldData 2FBE36E6-9AFC-43DA-9CB1-0E705EA2E9B2 #primary instance
 							member(20)::PropertyConnection
 								Source Levels/XP3_Alborz/Conquest_Large0_Schematic/1B9C5D1B-AB3D-4A2B-B785-3CFBE0CCA056
 								Target Levels/XP3_Alborz/ConquestLarge01_Logic/2B23D93E-5A61-4700-B447-3AE38342E4FD
-								SourceFieldId -861961710
+								SourceFieldId -861961710 (Gunship_1300x1150_faster_vehicleRoot)
 								TargetFieldId 1831219017
 							member(21)::PropertyConnection
 								Source Levels/XP3_Alborz/Conquest_Large0_Schematic/D8E28C32-0854-4EB3-86E2-4C60067368C5
 								Target Levels/XP3_Alborz/ConquestLarge01_Logic/7B98993E-544A-435C-B3B4-AD4FE9DE7266
-								SourceFieldId -1294481422
+								SourceFieldId -1294481422 (Animatetransform)
 								TargetFieldId -2024647575 (Transform)
 							member(22)::PropertyConnection
 								Source Levels/XP3_Alborz/Conquest_Large0_Schematic/1F86A3DF-C71E-4A06-977E-F758B3B7F6C3

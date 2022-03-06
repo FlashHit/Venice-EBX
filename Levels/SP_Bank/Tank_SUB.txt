@@ -809,12 +809,12 @@ SubWorldData BD8A7047-02A7-4B5D-AD92-97D1CD025DD7 #primary instance
 							member(11)::PropertyConnection
 								Source Levels/SP_Bank/Tank_PLAZA/14289250-5FCC-45C7-A37D-248630454482
 								Target Levels/SP_Bank/Tank_SQUAD/A8758514-7114-4DEA-9168-FCAD763BA760
-								SourceFieldId 1464163813
+								SourceFieldId 1464163813 (Javelin_Transform)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(12)::PropertyConnection
 								Source Levels/SP_Bank/Tank_PLAZA/14289250-5FCC-45C7-A37D-248630454482
 								Target Levels/SP_Bank/Tank_PLAZA/0C9C7FAF-D680-435C-BF4B-78431DA881C7
-								SourceFieldId 1464163813
+								SourceFieldId 1464163813 (Javelin_Transform)
 								TargetFieldId -2024647575 (Transform)
 						LinkConnections::array
 							member(0)::LinkConnection
@@ -1180,7 +1180,7 @@ SubWorldData BD8A7047-02A7-4B5D-AD92-97D1CD025DD7 #primary instance
 							member(72)::LinkConnection
 								Source Levels/SP_Bank/Tank_PLAZA/4F4F6B0E-EFBA-4C5C-B6FC-04508E520445
 								Target 64C6F398-EB41-1F26-1D2A-D9B9D8F3527B
-								SourceFieldId -1487284510
+								SourceFieldId -1487284510 (Animatables)
 								TargetFieldId -1993414351
 							member(73)::LinkConnection
 								Source Levels/SP_Bank/Tank_PLAZA/AF589430-34A4-4CF5-A7B4-C57E1EC54DDC
@@ -2367,7 +2367,7 @@ SubWorldData BD8A7047-02A7-4B5D-AD92-97D1CD025DD7 #primary instance
 							Source Levels/SP_Bank/Tank_T90/4686EC33-3F06-4E40-9B7F-8AF923F750DA
 							Target Levels/SP_Bank/Tank_LOG/148061D4-6FAE-4699-B85E-41989B805E44
 							SourceEvent::EventSpec
-								Id 193432000
+								Id 193432000 (rpg)
 							TargetEvent::EventSpec
 								Id 1999497757 (FireShot)
 							TargetType EventConnectionTargetType_NetworkedClientAndServer

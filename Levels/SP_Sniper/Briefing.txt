@@ -561,7 +561,7 @@ SubWorldData 9BC42066-3514-4B2D-BA5A-3C867FB39D4F #primary instance
 							member(18)::PropertyConnection
 								Source Levels/SP_Sniper/Briefing_MARINES/DCC0844D-586C-4704-9762-42704E19465B
 								Target Levels/SP_Sniper/Briefing_MARINES/9D4CF7D4-1867-43C0-A1A6-C31920C25A03
-								SourceFieldId 779880137
+								SourceFieldId 779880137 (CloseMallDoor)
 								TargetFieldId 193450867 (In1)
 							member(19)::PropertyConnection
 								Source Levels/SP_Sniper/Briefing_MARINES/453A265A-6961-4832-8630-7E736DD01985
@@ -601,7 +601,7 @@ SubWorldData 9BC42066-3514-4B2D-BA5A-3C867FB39D4F #primary instance
 							member(26)::PropertyConnection
 								Source Levels/SP_Sniper/Briefing_MARINES/DCC0844D-586C-4704-9762-42704E19465B
 								Target Levels/SP_Sniper/Briefing_MARINES/7596D3A3-37D5-4584-A165-81EC70C4DA64
-								SourceFieldId 779880137
+								SourceFieldId 779880137 (CloseMallDoor)
 								TargetFieldId -2024647575 (Transform)
 							member(27)::PropertyConnection
 								Source Levels/SP_Sniper/Briefing_SquadLogic/9FC1C315-943F-449A-9D1F-906A1E38BF65

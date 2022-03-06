@@ -3677,7 +3677,7 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(13)::PropertyConnection
 								Source Levels/SP_Bank/AssaultMarines_SCM/75589EB4-E581-4A6D-B1F6-C4D6F137D432
 								Target Levels/SP_Bank/Assault_LOG/C83CB94F-6AA5-46CC-807C-DC5C3C17D27B
-								SourceFieldId 115498594
+								SourceFieldId 115498594 (VenomAmbient)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(14)::PropertyConnection
 								Source E1EDB7E4-A750-A073-3E33-3A124050059E
@@ -3692,7 +3692,7 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(16)::PropertyConnection
 								Source Levels/SP_Bank/AssaultMarines_SCM/75589EB4-E581-4A6D-B1F6-C4D6F137D432
 								Target Levels/SP_Bank/AssaultMarines_SCM/5D61A2F0-EE37-412A-AC6B-171D9DFE4826
-								SourceFieldId -1051200923
+								SourceFieldId -1051200923 (RPGaim)
 								TargetFieldId 193450867 (In1)
 							member(17)::PropertyConnection
 								Source Levels/SP_Bank/AssaultMarines_SCM/5D61A2F0-EE37-412A-AC6B-171D9DFE4826
@@ -3782,27 +3782,27 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(34)::PropertyConnection
 								Source Levels/SP_Bank/Assault_Mortars/90A5E19C-388F-42C2-BDCF-DA18ACDDA7BE
 								Target Levels/SP_Bank/Assault_LOG/5257A7DA-61DA-4157-9CDA-E479C55C6381
-								SourceFieldId 1694165028
+								SourceFieldId 1694165028 (InvisAK)
 								TargetFieldId -2024647575 (Transform)
 							member(35)::PropertyConnection
 								Source Levels/SP_Bank/Assault_Mortars/E12FF1AC-0048-418D-818F-BABF8DBF47B6
 								Target Levels/SP_Bank/Assault_LOG/475D160B-C226-41D1-AE4C-A8E1F32CC104
-								SourceFieldId 72871062
+								SourceFieldId 72871062 (InvisAK2)
 								TargetFieldId -2024647575 (Transform)
 							member(36)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/B1D231E4-1A3C-428C-87EB-D413B1652E6F
 								Target Levels/SP_Bank/Assault_FX/7C4A4DF9-9B66-4693-BD82-14851B8DC9E8
-								SourceFieldId -2110764868
+								SourceFieldId -2110764868 (Su35_movment)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(37)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/C0976FB0-B7E6-42CC-A7D6-2F4F78C3809D
 								Target Levels/SP_Bank/Assault_FX/9841C42F-6A6F-4D1D-AB75-6B066500F7A2
-								SourceFieldId -2110764868
+								SourceFieldId -2110764868 (Su35_movment)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(38)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/B1D231E4-1A3C-428C-87EB-D413B1652E6F
 								Target Levels/SP_Bank/Assault_FX_Schematic/3BFA0DB8-5874-4B33-9D43-5C8827143066
-								SourceFieldId -2110764868
+								SourceFieldId -2110764868 (Su35_movment)
 								TargetFieldId 193450867 (In1)
 							member(39)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/3BFA0DB8-5874-4B33-9D43-5C8827143066
@@ -3812,12 +3812,12 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(40)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/9106061C-2E5B-414B-AEE2-3AAF41BAF9B9
 								Target Levels/SP_Bank/Assault_FX/29C50DBB-42DA-46C8-A9AB-3646ECCDB66C
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(41)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/9106061C-2E5B-414B-AEE2-3AAF41BAF9B9
 								Target Levels/SP_Bank/Assault_FX_Schematic/1A87C304-BF31-4020-A6D7-E26C5FAE06DE
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId 193450867 (In1)
 							member(42)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/1A87C304-BF31-4020-A6D7-E26C5FAE06DE
@@ -3827,12 +3827,12 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(43)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/4D0A0449-A683-4793-A32D-77D2A3ECA356
 								Target Levels/SP_Bank/Assault_FX/8286C58A-1748-40A0-A061-5E26D150612A
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(44)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/4D0A0449-A683-4793-A32D-77D2A3ECA356
 								Target Levels/SP_Bank/Assault_FX_Schematic/93162603-3F1C-4CC8-9CA7-6F84C002243B
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId 193450867 (In1)
 							member(45)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/93162603-3F1C-4CC8-9CA7-6F84C002243B
@@ -3842,12 +3842,12 @@ SubWorldData E54A0D38-F2F7-4947-94C3-1C2F7012A931 #primary instance
 							member(46)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/B641B3FC-621D-4029-AEF0-5CAEDE181126
 								Target Levels/SP_Bank/Assault_FX/E374D1A3-F0EF-4BBB-A982-81F3B90E90B2
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId -409930682 (BlueprintTransform)
 							member(47)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/B641B3FC-621D-4029-AEF0-5CAEDE181126
 								Target Levels/SP_Bank/Assault_FX_Schematic/198114EA-96A1-4275-A6CC-CCFF59B6A8E2
-								SourceFieldId 1090248419
+								SourceFieldId 1090248419 (Movment)
 								TargetFieldId 193450867 (In1)
 							member(48)::PropertyConnection
 								Source Levels/SP_Bank/Assault_FX_Schematic/198114EA-96A1-4275-A6CC-CCFF59B6A8E2

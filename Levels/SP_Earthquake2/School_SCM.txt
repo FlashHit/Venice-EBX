@@ -452,7 +452,7 @@ SequenceEntityData E44B9315-C2F9-47AA-B233-B8ADCB95088F
 TransformPartPropertyTrackData 680A8925-B4A0-4BDE-AC98-D58FBC845EEC
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationX
 	PreInfinity CurveInfinityType_Constant
@@ -467,7 +467,7 @@ TransformPartPropertyTrackData 680A8925-B4A0-4BDE-AC98-D58FBC845EEC
 TransformPartPropertyTrackData EE8AE17E-4428-4AFC-83F9-D434704629C2
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationY
 	PreInfinity CurveInfinityType_Constant
@@ -482,7 +482,7 @@ TransformPartPropertyTrackData EE8AE17E-4428-4AFC-83F9-D434704629C2
 TransformPartPropertyTrackData E8F21AA9-2840-4B23-86E8-453F16A32AE6
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_TranslationZ
 	PreInfinity CurveInfinityType_Constant
@@ -497,7 +497,7 @@ TransformPartPropertyTrackData E8F21AA9-2840-4B23-86E8-453F16A32AE6
 TransformPartPropertyTrackData 21D3D88B-A192-4CB3-AB3F-19CDD19678B8
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_RotationX
 	PreInfinity CurveInfinityType_Constant
@@ -512,7 +512,7 @@ TransformPartPropertyTrackData 21D3D88B-A192-4CB3-AB3F-19CDD19678B8
 TransformPartPropertyTrackData 13465E12-EDB7-4F2C-A889-47F4C3F22A6B
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_RotationY
 	PreInfinity CurveInfinityType_Constant
@@ -527,7 +527,7 @@ TransformPartPropertyTrackData 13465E12-EDB7-4F2C-A889-47F4C3F22A6B
 TransformPartPropertyTrackData 519D9247-8B55-4E91-A938-2B37CF75636C
 	$::PropertyTrackData
 		$::DataContainer
-		Id 2141487495
+		Id 2141487495 (WashingMachineKick)
 		Times *nullArray*
 	TransformPart TransformPart_RotationZ
 	PreInfinity CurveInfinityType_Constant

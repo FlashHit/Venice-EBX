@@ -554,32 +554,32 @@ SubWorldData A81C8A30-BC42-4C1D-BBF1-4FBF7F0C01F2 #primary instance
 							member(0)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/094913D2-6790-4652-A7A7-5395D136D7C9
 								Target Levels/SP_Bank/BMD_LOG/F0FF5669-3F23-4511-9547-712E6547727E
-								SourceFieldId 73521011
+								SourceFieldId 73521011 (Tank1_Enter)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(1)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/5E868D45-1E90-4670-804E-1CF1B38F4FC0
 								Target Levels/SP_Bank/BMD_LOG/6AE96DF8-B59D-4F05-93BE-6B94CE5707B4
-								SourceFieldId 62167847
+								SourceFieldId 62167847 (Tank1_Chase)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(2)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/39CD539F-847D-408E-8803-513A7605B33A
 								Target Levels/SP_Bank/BMD_LOG/A1B4077E-C552-4978-BD08-D1AFEC09FD6D
-								SourceFieldId -586245584
+								SourceFieldId -586245584 (Tank2_Enter)
 								TargetFieldId 2085022312 (ControllableTransform)
 							member(3)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/39CD539F-847D-408E-8803-513A7605B33A
 								Target Levels/SP_Bank/BMD_LOGIC/1F94B132-AB6E-4BEB-9556-1332DCD8B3BF
-								SourceFieldId -586245584
+								SourceFieldId -586245584 (Tank2_Enter)
 								TargetFieldId -2024647575 (Transform)
 							member(4)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/094913D2-6790-4652-A7A7-5395D136D7C9
 								Target Levels/SP_Bank/BMD_LOGIC/9256FD4A-B8EF-4727-9A2F-B3D801B8A918
-								SourceFieldId 73521011
+								SourceFieldId 73521011 (Tank1_Enter)
 								TargetFieldId -2024647575 (Transform)
 							member(5)::PropertyConnection
 								Source Levels/SP_Bank/BMD_LOGIC/5E868D45-1E90-4670-804E-1CF1B38F4FC0
 								Target Levels/SP_Bank/BMD_LOGIC/B86F2921-3C37-4E5C-A35D-B25E4C31EC02
-								SourceFieldId 62167847
+								SourceFieldId 62167847 (Tank1_Chase)
 								TargetFieldId -2024647575 (Transform)
 							member(6)::PropertyConnection
 								Source Levels/SP_Bank/BMD_SND/8ACB9DDD-9DFA-481E-BCC5-1A200147C802

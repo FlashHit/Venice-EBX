@@ -148,13 +148,13 @@ InterfaceDescriptorData EFEF2686-26BA-48E0-822A-9A9DDD54C4CE
 	InputEvents *nullArray*
 	OutputEvents::array
 		member(0)::DynamicEvent
-			Id 5862564
+			Id 5862564 (P1)
 		member(1)::DynamicEvent
-			Id 5862567
+			Id 5862567 (P2)
 		member(2)::DynamicEvent
-			Id 5862566
+			Id 5862566 (P3)
 		member(3)::DynamicEvent
-			Id 5862561
+			Id 5862561 (P4)
 	InputLinks *nullArray*
 	OutputLinks *nullArray*
 ObjectBlueprint 95B47777-A984-C75C-AD89-3E6E89B33828 #primary instance
@@ -173,7 +173,7 @@ ObjectBlueprint 95B47777-A984-C75C-AD89-3E6E89B33828 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862561
+						Id 5862561 (P4)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(1)::EventConnection
 					Source 33F772FE-7D8C-B93C-FA13-6D1B869D410B
@@ -181,7 +181,7 @@ ObjectBlueprint 95B47777-A984-C75C-AD89-3E6E89B33828 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862566
+						Id 5862566 (P3)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(2)::EventConnection
 					Source A21A6455-AA3A-6732-54E4-B03C45716A2A
@@ -189,7 +189,7 @@ ObjectBlueprint 95B47777-A984-C75C-AD89-3E6E89B33828 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862567
+						Id 5862567 (P2)
 					TargetType EventConnectionTargetType_ClientAndServer
 				member(3)::EventConnection
 					Source 42E4DEA8-0978-3898-D6FA-9A42EA1F215E
@@ -197,7 +197,7 @@ ObjectBlueprint 95B47777-A984-C75C-AD89-3E6E89B33828 #primary instance
 					SourceEvent::EventSpec
 						Id -1452333337 (OnDestroyed)
 					TargetEvent::EventSpec
-						Id 5862564
+						Id 5862564 (P1)
 					TargetType EventConnectionTargetType_ClientAndServer
 			Descriptor EFEF2686-26BA-48E0-822A-9A9DDD54C4CE
 			NeedNetworkId False
